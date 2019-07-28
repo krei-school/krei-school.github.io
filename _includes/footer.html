@@ -1,0 +1,45 @@
+<svg xmlns="https://www.w3.org/2000/svg" class="curve-container__curve curve-one" viewBox="0 0 1440 68" style="vertical-align:bottom" enable-background="new 0 0 1440 68"><path d="m1622.3 1937.7c0 0-410.7 169.1-913.4 75.5-502.7-93.6-977.7 56.3-977.7 56.3v440h1891.1v-571.8" fill="#000000" transform="translate(0-1977)"></path></svg>
+
+<div class="container-fluid" style="background-color: black">
+    <div class="container jkl-footer"  >
+        <div class="jkl-footer-logo">
+            <img src="{{site.baseurl}}/assets/images/logo.png"></img>
+        </div>
+        <div class="row d-flex justify-content-between" >
+            <div class="col-xl-4 col-lg-4 mb-50">
+                <div class="jkl-footer-addr-widget">
+                    <div class="jkl-footer-widget-heading">
+                        <h2>{{site.footer.address.title}}</h2>
+                    </div>
+
+                    <div class="jkl-footer-text">
+                        <p>{{site.footer.address.text | newline_to_br}}</p>
+                        <p><span class="fa fa-envelope" aria-hidden="true"></span> <a href="mailto:{{site.footer.address.email}}">{{site.footer.address.email}}}</a><br/>
+                            <span class="fa fa-phone fa-rotate-180"></span><a href="tel:{{site.footer.address.phone | remove: '-' | remove: '(' | remove: ')'}}">{{site.footer.address.phone}}</a></p>
+                    </div>
+                    <div class="jkl-footer-social-icon">
+                        <span>Follow us</span>
+                        {% if site.footer.facebook.isActive  %}
+                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f facebook-bg"></i></a>
+                        {% endif %}
+                        {% if site.footer.twitter.isActive  %}
+                        <a href="https://twitter.com/"><i class="fab fa-twitter twitter-bg"></i></a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+                <div class="jkl-footer-widget">
+                    <div class="jkl-footer-widget-heading">
+                        <h3>Useful Links</h3>
+                    </div>
+                    <ul>
+                        {% for link in site.header.links %}
+                        <li><a href="{{site.baseurl}}{{link[1].url}}">{{link[1].title}}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,13 @@
+- title: Branch 1
+  phone: +919876543210
+  address: "test"
+  location:
+    latitude: 48.8587741
+    longitude: 2.2074741
+
+- title: Branch 2
+  phone: +919876543210
+  address: "test"
+  location:
+    latitude: 48.8587741
+    longitude: 2.2074741

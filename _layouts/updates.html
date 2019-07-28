@@ -1,0 +1,87 @@
+---
+layout: general_page
+pagination:
+  enabled: true
+---
+
+<main class="jkl-updates-bg pt-40" style="position:relative;overflow:visible">
+
+    <section>
+
+        <div class="container-fluid ">
+            <div class="container pt-1">
+
+                <section>
+
+                    {% for post in paginator.posts %}
+                    <div class="container rounded-lg pt-20 mb-30" data-aos="fade-up"
+                         style="background-color:white;">
+                        <div class="row">
+                            <div class="col-xl-12 col-lg-12 mb-10">
+                                <div class="meta-info">
+                                    <ul>
+                                        <li class="posts-time">{{post.date |  date: "%d %b %Y"  }}</li>
+                                    </ul>
+                                </div>
+                                <div class="blog-content">
+                                    <h2 class="blog-title">
+                                        <a href="{{post.url | prepend:site.baseurl}}">{{post.title}}</a> </h2>
+                                    <p>{{ post.excerpt }}</p>
+                                </div>
+                                <div class="link-box">
+                                    <a href="{{post.url | prepend:site.baseurl}}">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+
+
+
+
+                </section>
+
+
+
+            </div>
+        </div>
+        <!-- pagination -->
+        <div class="container-fluid">
+             <div class="container">
+                 <div class="row pt-20">
+                 {% if paginator.total_pages > 1 %}
+                 {% if paginator.previous_page %}
+                 <div class="col-xl-6 col-lg-6 col-md-6 text-left">
+                     <nav class="page-navigation pagination">
+                         <ul>
+
+                             <li class="page-item"><a class="page-link active" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Prev</a></li>
+
+
+                         </ul>
+                     </nav>
+                 </div>
+                 {% endif %}
+                 {% if paginator.next_page %}
+                     {% if paginator.previous_page %}
+                 <div class="colcol-xl-6 col-lg-6 col-md-6 text-right">
+                     {% else %}
+                     <div class="colcol-xl-12 col-lg-12 col-md-12 text-right">
+                     {% endif %}
+
+                     <nav class="page-navigation pagination">
+                         <ul>
+                             <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next</a></li>
+                         </ul>
+                     </nav>
+                 </div>
+                 {% endif %}
+                 {% endif %}
+                 </div>
+             </div>
+        </div>
+
+    </section>
+
+
+</main>

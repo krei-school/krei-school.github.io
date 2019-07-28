@@ -1,0 +1,150 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title> {{ page.title }}</title>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/default.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/style1.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/style.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/responsive1.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/responsive.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/animate.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/slick.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/aos.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/card_scroll.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/icon-font.min.css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+{{ content }}
+<footer>
+    {% include footer.html %}
+</footer>
+<script src="{{site.baseurl}}/assets/js/jquery.slim.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/bootstrap.bundle.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/slick.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/aos.js"></script>
+
+<script src="{{site.baseurl}}/assets/js/velocity.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/velocity.ui.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/card_scroll.js"></script>
+<script src="{{site.baseurl}}/assets/js/modernizr.js"></script>
+<script src="{{site.baseurl}}/assets/js/aos.js"></script>
+<script src="{{site.baseurl}}/assets/js/main.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key={{site.google_mps_api}}"></script>
+<script src="{{site.baseurl}}/assets/js/markerclusterer.js"></script>
+{% if page.branches %}
+<script>
+    var gmarkers1 = [];
+    var markers1 = [];
+
+    var infowindow = new google.maps.InfoWindow({
+        content: ''
+    });
+
+    // Our mark
+
+    /**
+     * Function to init map
+     */
+
+    function initialize() {
+        var center = new google.maps.LatLng(20.593683, 78.962883);
+        var mapOptions = {
+            zoom: 6,
+            center: center,
+            mapTypeId: google.maps.MapTypeId.TERRAIN
+        };
+
+        map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+        markers1 = {{ page.branches | newline_to_br | join: ',' | replace: "=>", ":" | replace: "\n", "<br/>"}}
+
+        for (i = 0; i < markers1.length; i++) {
+            addMarker(markers1[i], i);
+        }
+
+
+    }
+
+    /**
+     * Function to add marker to map
+     */
+
+    function addMarker(marker, i) {
+        var category = marker.state;
+        var title = marker.title;
+        var pos = new google.maps.LatLng(marker.lat, marker.long);
+        var content = `<div style='float:left'><img src="{{site.baseurl}}/assets/images/branch${i}.jpg" style="height:150px;"</div>
+            <div style='float:right; padding: 10px;'>
+            <h3>${marker.title}</h3>
+ <p>${marker.text} <br/>
+ <span class="fa fa-phone fa-rotate-180"> </span><a href="tel:${marker.phone}"> ${marker.phone}</a>
+ </p></div>
+`
+
+        marker1 = new google.maps.Marker({
+            title: title,
+            position: pos,
+            category: category,
+            map: map
+        });
+
+        gmarkers1.push(marker1);
+
+        // Marker click listener
+        google.maps.event.addListener(marker1, 'click', (function (marker1, content) {
+            return function () {
+                console.log('Gmarker 1 gets pushed');
+                infowindow.setContent(content);
+                infowindow.open(map, marker1);
+                map.panTo(this.getPosition());
+                //map.setZoom(15);
+            }
+        })(marker1, content));
+    }
+
+    /**
+     * Function to filter markers by category
+     */
+
+    filterMarkers = function (category) {
+        for (i = 0; i < markers1.length; i++) {
+            marker = gmarkers1[i];
+            // If is same category or category not picked
+            if (marker.category == category || category.length === 0) {
+                marker.setVisible(true);
+            }
+            // Categories don't match
+            else {
+                marker.setVisible(false);
+            }
+        }
+        markerCluster.repaint();
+    }
+
+    // Init map
+    initialize();
+    var markerCluster = new MarkerClusterer(map, gmarkers1,
+        { ignoreHidden: true, imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+
+    console.log("sddF")
+
+    $(".map-menu").on("click", "button", function () {
+        var filterValue = $(this).attr("data-filter");
+        $(".map-menu-item").each(function() {
+            $(this).css("color", "#000000");
+        })
+        $(this).css("color", "#ff5e14");
+        filterMarkers(filterValue)
+    });
+
+</script>
+{% endif %}
+</body>
+</html>

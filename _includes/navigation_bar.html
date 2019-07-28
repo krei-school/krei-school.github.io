@@ -1,0 +1,24 @@
+<div class="jkl-menu">
+    <div class="container">
+        <nav id="jk-nav" class="navbar navbar-expand-lg  ">
+            <div id= "menu-logo" class="jkl-header-logo">
+                <a href="#"><img src="{{site.baseurl}}/assets/images/logo.png" alt="Logo"></a></div>
+            <button class="navbar-toggler navbar-dark collapsed" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle     navigation">
+                <span class="my-1 mx-2 close" style="color:#f8f9fa">X</span>
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div id="navbarNavDropdown" class="navbar-collapse collapse">
+                <ul class="navbar-nav mr-auto">
+                </ul>
+                <ul class="navbar-nav text-center">
+                    {% for link in site.header.links %}
+                    <li class="nav-item {% if link[1].url == page.url%} active {%endif%}">
+                        <a class="nav-link" href="{{site.baseurl}}{{link[1].url}}">{{link[1].title}}</span></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+
+            </div>
+        </nav>
+    </div>
+</div>
