@@ -18,7 +18,7 @@ sections:
   i3:
     title: Branches
     text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora
-      veritatis nemo aut ea iusto eos 
+      veritatis nemo aut ea iusto eos
 branches:
 - title: Branch Name
   state: state1
@@ -75,3 +75,4 @@ branches:
   lat: 20.4593683
   long: 78.1962883
 ---
+
