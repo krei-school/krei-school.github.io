@@ -41,7 +41,7 @@ sections:
       at Keshava Reddy!The stunning strategies, which are not for the mere sake of name but are the tangible translation of inflexible dedication made Keshava Reddy so different.
     url: "/about-us.html"
   i3:
-    title: Kids Campus
+    title: Kids Ladder
     text: 'A hall to stay.. a hall to dine.. This is the common trend in many residential
       schools. Keshava Reddy has changed this beaten definition out and out and revolutionalised
       the whole concept. '
