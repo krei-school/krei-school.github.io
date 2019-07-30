@@ -10,16 +10,22 @@ sliders:
       and has now branched out in 14 different places of the state with 40 branches. '
     url: "/about-us.html"
   i2:
-    title: "Cum sociis natoque  et  \ndis  parturient"
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis
-      parturient "
+    title: Adoption Program
+    desc: "The institution worked hard right from the start for 13 years when it got
+      its high start in 2006 finally. Since then, victory has almost become a trend
+      for the institute has stood second to none. The number of students who have
+      graced the institutes’ merit records increased to 591 in 2008 and 2009, and
+      moved up to 593 in 2010.\nConinuing the success story, KREI introduced SSC in
+      2011. From among this batch, a total of 22 students bagging state top ranks
+      was yet another milestone, filling almost all of the top 10 positions across
+      the state. "
     url: "/about-us.html"
   i3:
-    title: "Cum sociis natoque  et  \ndis  parturient"
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis
-      parturient "
+    title: Tender Smiles
+    desc: This pinnacle of glory is the out come of the magnanimous and detail-oriented
+      planning and implementation of unique techniques at various levels of school
+      education at KREI. At these various levels, we have been adding value with a
+      focus on the best for the targeted age groups of our students.
     url: "/about-us.html"
 sections:
   i1:
