@@ -1,5 +1,5 @@
 ---
-layout: academics
+title: Academics
 page_title: Academics
 sections:
   i1:
@@ -89,5 +89,6 @@ sections:
       dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
       nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
       quis, sem. Nulla consequat massa quis enim."
+layout: academics
 ---
 
