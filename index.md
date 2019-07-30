@@ -30,10 +30,10 @@ sliders:
 sections:
   i1:
     title: Academics
-    text: |-
-      The sensational results of IIT and Medicine Foundation in various entrance examinations
-      present a true reflection of the strength of this foundation. The beyond corporate infrastructure
-      and facilities here have helped in singling them out in the arena of IIT & Medicine Foundation..
+    text: The sensational results of IIT and Medicine Foundation in various entrance
+      examinations present a true reflection of the strength of this foundation. The
+      beyond corporate infrastructure and facilities here have helped in singling
+      them out in the arena of IIT & Medicine Foundation..
   i2:
     title: Student Life
     text: |-
