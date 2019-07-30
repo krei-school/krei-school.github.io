@@ -4,7 +4,7 @@ page_title: Branches
 sections:
   i1:
     title: 32 Branches
-    text: "Keshav Reddy School \n\n* 32 Branches\n\n* Residential\n\n* Day, Semi-Residential
+    text: "Keshava Reddy Schools \n\n* 32 Branches\n\n* Residential\n\n* Day, Semi-Residential
       schools"
   i2:
     state1: Andhra Pradesh
