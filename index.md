@@ -1,12 +1,13 @@
 ---
 title: Home
-layout: home
 page_title: Home
 sliders:
   i1:
-    title: "Cum sociis natoque  et  \ndis  parturient"
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor.  \nCum sociis natoque penatibus et magnis dis parturient "
+    title: Keshava Reddy Education
+    desc: 'Keshava Reddy Educational Institutions have been the pioneer of academic
+      excellence in the field of school education. This tree sprouted from a little
+      seed of vision planted by Mr Keshav Reddy in the year 1993 with 196 students;
+      and has now branched out in 14 different places of the state with 40 branches. '
     url: "/about-us.html"
   i2:
     title: "Cum sociis natoque  et  \ndis  parturient"
@@ -103,5 +104,6 @@ sections:
         url: "/academics.html"
   i7:
     title: Updates
+layout: home
 ---
 
