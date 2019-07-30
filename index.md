@@ -29,54 +29,41 @@ sliders:
     url: "/about-us.html"
 sections:
   i1:
-    title: Adipiscing Elit
-    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim."
+    title: Academics
+    text: |-
+      The sensational results of IIT and Medicine Foundation in various entrance examinations
+      present a true reflection of the strength of this foundation. The beyond corporate infrastructure
+      and facilities here have helped in singling them out in the arena of IIT & Medicine Foundation..
   i2:
-    title: Sit Amet Adipiscing Sem Neque
-    text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora
-      veritatis nemo aut ea iusto eos est expedita,quas ab adipisci. Maecenas tempus,
-      tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing
-      sem neque sed ipsum.Quisque blandit blandit purus vel pretium. Aenean at porta
-      justo. Sed vel massa enim. Nunc auctor, quam sed ultrices lacinia, tellus metus
-      sollicitudin dolor, id maximus erat mauris ac sem. Morbi ut lectus augue. Curabitur
-      vitae justo id odio fringilla viverra.
+    title: Student Life
+    text: |-
+      'Winners do not do different things, they do things differently'. This is exactly what has been happening
+      at Keshava Reddy!The stunning strategies, which are not for the mere sake of name but are the tangible translation of inflexible dedication made Keshava Reddy so different.
     url: "/about-us.html"
   i3:
-    title: Adipiscing Elit
-    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim."
+    title: 'Residential System '
+    text: 'A hall to stay.. a hall to dine.. This is the common trend in many residential
+      schools. Keshava Reddy has changed this beaten definition out and out and revolutionalised
+      the whole concept. '
   i4:
-    title: Bind asorte
-    text: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
-      parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.\n\nNullam
-      eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh egestas, rhoncus
-      erat sed, ullamcorper justo. Etiam in euismod elit. Integer blandit, massa a
-      volutpat tempus, metus nisi lobortis nibh, at placerat ipsum nibh sed sem. Cras
-      fermentum velit et quam fermentum sollicitudin. "
+    title: Boarding
+    text: Every aspect of huge lush green campuses reflect commitment to provide the
+      best to our students who are away from their homes. All Keshava Reddy  residential
+      schools ensure the highest comfort for all students at all seasons.  Exclusive
+      aesthetic landscaping and tree-line walkways are reflecting all-green campuses,
+      beautiful gardens and parks help students live in harmony with nature and stay
+      inspired at their school life.
   i5:
     counter:
       students: 4345
       staffs: 1345
       branches: 32
   i6:
-    title: Inside KREI
-    text: Quisque vestibulum metus vel erat ornare, nec venenatis odio tempus. Aenean
-      nec lectus vitae justo maximus tincidunt quis sed metusble.
+    title: All round Development at KREI
+    text: 'Keshava Reddy Educational Institutions have been the pioneer of academic
+      excellence in the field of school education. This tree sprouted from a little
+      seed of vision planted by Mr Keshav Reddy in the year 1993 with 196 students;
+      and has now branched out in 14 different places of the state with 40 branches. '
     cards:
       i1:
         title: Praesent malesuada placerat
