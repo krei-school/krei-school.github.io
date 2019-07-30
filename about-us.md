@@ -40,8 +40,7 @@ sections:
         title2: Director
         text: 'As the proverb goes “Practice makes man perfect”, ample opportunities
           should be provided to the child for acquiring varied knowledge of things
-          on his own. Such an atmosphere only makes the child learn the things by
-          doing himself. '
+          on his own. '
       i4:
         title: Misson
         text: "“Excellence through Education” Excellence means perfection. Doing a
