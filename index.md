@@ -10,7 +10,7 @@ sliders:
       and has now branched out in 14 different places of the state with 40 branches. '
     url: "/about-us.html"
   i2:
-    title: Best Infrastructure
+    title: The Best Infrastructure
     desc: "The institution worked hard right from the start for 13 years when it got
       its high start in 2006 finally. Since then, victory has almost become a trend
       for the institute has stood second to none. The number of students who have
