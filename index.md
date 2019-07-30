@@ -41,12 +41,12 @@ sections:
       at Keshava Reddy!The stunning strategies, which are not for the mere sake of name but are the tangible translation of inflexible dedication made Keshava Reddy so different.
     url: "/about-us.html"
   i3:
-    title: 'Residential System '
+    title: Academics
     text: 'A hall to stay.. a hall to dine.. This is the common trend in many residential
       schools. Keshava Reddy has changed this beaten definition out and out and revolutionalised
       the whole concept. '
   i4:
-    title: Boarding
+    title: 'Residential System '
     text: Every aspect of huge lush green campuses reflect commitment to provide the
       best to our students who are away from their homes. All Keshava Reddy  residential
       schools ensure the highest comfort for all students at all seasons.  Exclusive
