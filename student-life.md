@@ -1,5 +1,5 @@
 ---
-layout: student-life
+title: Student Life
 page_title: Student Life
 sections:
   i1:
@@ -15,7 +15,7 @@ sections:
   i2:
     cards:
       i1:
-        title: Adipiscing Elit
+        title: Motherly Care
         text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
           nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
           Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
@@ -25,7 +25,7 @@ sections:
           dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
           nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
       i2:
-        title: Lorem Ipsum Dolor
+        title: Innovative Learning
         text: "Eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh egestas,
           rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer blandit,
           massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum nibh
@@ -35,7 +35,7 @@ sections:
           montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque
           eu, pretium quis, sem. Nulla consequat massa quis enim."
       i3:
-        title: Nam nec nibh egestas
+        title: Interactive Classes
         text: "Purus molestie, tempus massa quis, tempor urna. Nam nec nibh egestas,
           rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer blandit,
           massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum nibh
@@ -45,7 +45,7 @@ sections:
           montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque
           eu, pretium quis, sem. Nulla consequat massa quis enim."
       i4:
-        title: Rempus massa quis
+        title: Inclusive Class Room
         text: "Rempus massa quis, tempor urna. Nam nec nibh egestas, rhoncus erat
           sed, ullamcorper justo. Etiam in euismod elit. Integer blandit, massa a
           volutpat tempus, metus nisi lobortis nibh, at placerat ipsum nibh sed sem.
@@ -154,5 +154,6 @@ sections:
           ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
           dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
           nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+layout: student-life
 ---
 
