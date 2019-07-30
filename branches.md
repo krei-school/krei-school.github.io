@@ -1,78 +1,58 @@
 ---
-layout: branches
+title: Branches
 page_title: Branches
 sections:
   i1:
-    title: Nullam eget purus molestie
-    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim."
+    title: 32 Branches
+    text: 32 Branches
   i2:
-    state1: State 1 Name
-    state2: State 2 Name
+    state1: Andhra Pradesh
+    state2: Telangana
   i3:
     title: Branches
-    text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora
-      veritatis nemo aut ea iusto eos
+    text: All Branch Addresses
 branches:
-- title: Branch Name
-  state: state1
-  text: |-
-    13/4, Sum dolor sit amet,
-    Consec tetur, Adipisicing,
-    Incididuntut - 234556
-  phone: "+91-9876543210"
+- title: AMPOLU
+  state: Andhra Pradesh
+  text: KESHAVA REDDY CONCEPT SCHOOL,Rajiv Nagar (V), Singupuram (P), Srikakulam (M&Dist),
+    PIN– 532185.
+  phone: 9701344952
   lat: 20.593683
   long: 78.962883
-- title: Branch Name
-  state: state1
-  text: |-
-    13/4, Sum dolor sit amet,
-    Consec tetur, Adipisicing,
-    Incididuntut - 234556
+- title: 'APPANAPALLY
+
+'
+  state: Telangana
+  text: KESHAVA REDDY SCHOOL,APPANNAPALLI (V),MAHABOOBNAGAR (DIST)-509001.
   phone: "+91-9876543210"
   lat: 20.193683
   long: 78.2962883
-- title: Branch Name
-  state: state1
-  text: |-
-    13/4, Sum dolor sit amet,
-    Consec tetur, Adipisicing,
-    Incididuntut - 234556
+- title: ARASAVALLI
+  state: Andhra Pradesh
+  text: KESHAVA REDDY CONCEPT SCHOOL,Kajipeta (V&P), Arasavalli Road, Near - Indira
+    Vignan Bhavan,Srikakulam (M&Dist), PIN - 532001.
   phone: "+91-9876543210"
   lat: 20.2593683
   long: 78.1962883
-- title: Branch Name
-  state: state1
-  text: |-
-    13/4, Sum dolor sit amet,
-    Consec tetur, Adipisicing,
-    Incididuntut - 234556
+- title: BACHUPALLY
+  state: Telangana
+  text: 'SURVEY NO: 56/B,KESHAVA REDDY E-LEARNING SCHOOL,INDRA NAGAR COLONY,BACHUPALLY
+    (V&P),QUTHBULLAPUT (M),MEDCHAL (DIST.,)-500090.'
   phone: "+91-9876543210"
   lat: 20.3593683
   long: 78.3962883
-- title: Branch Name
-  state: state1
-  text: |-
-    13/4, Sum dolor sit amet,
-    Consec tetur, Adipisicing,
-    Incididuntut - 234556
+- title: BALAJI COMPLEX
+  state: Andhra Pradesh
+  text: KESHAVA REDDY SCHOOL,BALAJI COMPLEX,NANDYAL, KURNOOL (DIST)-518501.
   phone: "+91-9876543210"
   lat: 20.1593683
   long: 78.5962883
-- title: Branch Name
-  state: state1
-  text: |-
-    13/4, Sum dolor sit amet,
-    Consec tetur, Adipisicing,
-    Incididuntut - 234556
+- title: CHANDRAGIRI
+  state: Andhra Pradesh
+  text: KESHAVA REDDY RESIDENTIAL SCHOOL,THONDAVADA (V), CHANDRAGIRI (M),TIRUPATI-517101.
   phone: "+91-9876543210"
   lat: 20.4593683
   long: 78.1962883
+layout: branches
 ---
 
