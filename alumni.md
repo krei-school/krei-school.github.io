@@ -6,7 +6,7 @@ sections:
     title: Keshava Reddy Alumni
     text: Keshava Reddy school has great tradition of having great Alumini. Men and
       women who have completed their studies, esp. at a college or university.
-    url: https://www.example.com
+    url: http://krs.vaave.com/
 layout: alumni
 ---
 
