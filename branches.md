@@ -53,6 +53,46 @@ branches:
   phone: "+91-9876543210"
   lat: 20.4593683
   long: 78.1962883
+- title: CHEVELLA
+  state: Telangana
+  text: KESHAVA REDDY SCHOOL, MANNEGUDA X ROAD, VIKARABAD, TELANGANA
+  phone: 
+  lat: 
+  long: 
+- title: CHITTARI STREET
+  state: Andhra Pradesh
+  text: H.No:26-69,KESHAVA REDDY EM SCHOOL,CHITTARI STREET-518001.
+  phone: 
+  lat: 
+  long: 
+- title: ETCHERLA
+  state: Andhra Pradesh
+  text: KESHAVA REDDY CONCEPT SCHOOL,Etcherla (P&M), Srikakulam (Dist.)- 532410.
+  phone: 
+  lat: 
+  long: 
+- title: HATHIRAMJI COLONY
+  state: Andhra Pradesh
+  text: KESHAVA REDDY e-LEARNING SCHOOL,BAIRAGIPATTEDA,HATHIRAMJI COLONY, TIRUPATI-517507.
+  phone: 
+  lat: 
+  long: 
+- title: JAYA NAGAR
+  state: Andhra Pradesh
+  text: KESHAVAREDDY CONCEPT SCHOOL,JAYA NAGAR,TIRUPATI-517501.
+  phone: 
+  lat: 
+  long: 
+- title: 'KANDI
+
+'
+  state: 'Telangana
+
+'
+  text: KESHAVA REDDY SCHOOL, NEAR IIT, KANDI VILLAGE, SANGAREDDY DIST., TELANGANA
+  phone: 
+  lat: 
+  long: 
 layout: branches
 ---
 
