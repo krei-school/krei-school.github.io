@@ -32,15 +32,15 @@ sections:
       i2:
         title1: Bharath Reddy
         title2: 'Chairman '
-        text: Bright future awaits a person who attains perfection in his field, but
-          perfection cannot be accomplished in a day or two. Constant practice is
-          needed for it.
+        text: "“Excellence through Education” Excellence means perfection. Doing a
+          thing in a perfect manner gains the attention as well as the commendation
+          of the world."
       i3:
         title1: Gangadhar Reddy
         title2: Director
-        text: 'As the proverb goes “Practice makes man perfect”, ample opportunities
-          should be provided to the child for acquiring varied knowledge of things
-          on his own. '
+        text: "“Excellence through Education” Excellence means perfection. Doing a
+          thing in a perfect manner gains the attention as well as the commendation
+          of the world."
       i4:
         title: Misson
         text: "“Excellence through Education” Excellence means perfection. Doing a
