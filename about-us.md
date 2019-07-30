@@ -49,28 +49,16 @@ sections:
           field, but perfection cannot be accomplished in a day or two. Constant practice
           is needed for it. As the proverb goes “Practice makes man perfect”, ample
           opportunities should be provided to the child for acquiring varied knowledge
-          of things on his own. Such an atmosphere only makes the child learn the
-          things by doing himself. It is this sort of self - learning that enables
-          the child transform into an ablest person by reaching perfection or excellence.
-          All the teaching and guidance and the facilities and activities provided
-          in the school aim at imparting such an education as to make the child gain
-          this excellence and become the most successful person in the world. Hence
-          the motto “Excellence through Education” is adopted."
+          of things on his own. "
       i5:
         title: Vision
-        text: "“Excellence through Education” Excellence means perfection. Doing a
-          thing in a perfect manner gains the attention as well as the commendation
-          of the world. Bright future awaits a person who attains perfection in his
-          field, but perfection cannot be accomplished in a day or two. Constant practice
-          is needed for it. As the proverb goes “Practice makes man perfect”, ample
-          opportunities should be provided to the child for acquiring varied knowledge
-          of things on his own. Such an atmosphere only makes the child learn the
-          things by doing himself. It is this sort of self - learning that enables
-          the child transform into an ablest person by reaching perfection or excellence.
-          All the teaching and guidance and the facilities and activities provided
-          in the school aim at imparting such an education as to make the child gain
-          this excellence and become the most successful person in the world. Hence
-          the motto “Excellence through Education” is adopted."
+        text: Such an atmosphere only makes the child learn the things by doing himself.
+          It is this sort of self - learning that enables the child transform into
+          an ablest person by reaching perfection or excellence. All the teaching
+          and guidance and the facilities and activities provided in the school aim
+          at imparting such an education as to make the child gain this excellence
+          and become the most successful person in the world. Hence the motto “Excellence
+          through Education” is adopted.
   i4:
     title: Approach
     text: "EDUCATION is a hidden treasure that can make a person prominent everywhere
