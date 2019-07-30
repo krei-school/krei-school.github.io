@@ -3,14 +3,14 @@ title: Home
 page_title: Home
 sliders:
   i1:
-    title: Keshava Reddy Education
+    title: Keshava Reddy Educational Institutions
     desc: 'Keshava Reddy Educational Institutions have been the pioneer of academic
       excellence in the field of school education. This tree sprouted from a little
       seed of vision planted by Mr Keshav Reddy in the year 1993 with 196 students;
       and has now branched out in 14 different places of the state with 40 branches. '
     url: "/about-us.html"
   i2:
-    title: Adoption Program
+    title: Best Infrastructure
     desc: "The institution worked hard right from the start for 13 years when it got
       its high start in 2006 finally. Since then, victory has almost become a trend
       for the institute has stood second to none. The number of students who have
@@ -21,7 +21,7 @@ sliders:
       the state. "
     url: "/about-us.html"
   i3:
-    title: Tender Smiles
+    title: Sustainable Practices
     desc: This pinnacle of glory is the out come of the magnanimous and detail-oriented
       planning and implementation of unique techniques at various levels of school
       education at KREI. At these various levels, we have been adding value with a
