@@ -135,7 +135,7 @@ sections:
       nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. '
     cards:
       i1:
-        title: Praesent malesuada placerat
+        title: Community Celebration
         text: Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
           nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
           Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
@@ -145,7 +145,7 @@ sections:
           dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
           nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
       i2:
-        title: Praesent malesuada placerat
+        title: Talent Search
         text: Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
           nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
           Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
