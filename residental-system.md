@@ -1,31 +1,23 @@
 ---
-layout: residental-system
+title: Residential System
 page_title: Residental System
 sections:
   i1:
-    title: Infra Structure
-    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim."
+    title: Hygiene
+    text: Hygiene is a set of practices performed to preserve health. According to
+      the World Health Organization, "Hygiene refers to conditions and practices that
+      help to maintain health and prevent the spread of diseases." Personal hygiene
+      refers to maintaining the body's cleanliness.
   i2:
-    title: Infra Structure
-    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim.        "
+    title: Discipline
+    text: the practice of training people to obey rules or a code of behaviour, using
+      punishment to correct disobedience.the practice of training people to obey rules
+      or a code of behaviour, using punishment to correct disobedience.
   i3:
-    title: Infra Structure
-    text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor
+    title: Ease of Living
+    text: the practice of training people to obey rules or a code of behaviour, using
+      punishment to correct disobedience.the practice of training people to obey rules
+      or a code of behaviour, using punishment to correct disobedience.
     cards:
       i1:
         title: Praesent malesuada placerat
@@ -52,15 +44,11 @@ sections:
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
   i4:
-    title: Infra Structure
-    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim."
+    title: Security
+    text: Securityis freedom from, or resilience against,potentialharm (or other unwantedcoercivechange)
+      caused by others. Beneficiaries (technicallyreferents) of security may be of
+      persons and social groups, objects and institutions, ecosystems or any other
+      entity or phenomenon vulnerable to unwanted change by its environment.
   i5:
     counter:
       i1:
@@ -80,14 +68,10 @@ sections:
         title: Branches
         count: 32
   i6:
-    title: Infra Structure
-    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim."
+    title: Healthy Life Style
+    text: Enjoy plenty of fruits and vegetables. Reduce salt and sugar intake. Eat
+      regularly, control the portion size. Drink plenty of fluids. Maintain a **healthy
+      **body weight.
+layout: residental-system
 ---
 
