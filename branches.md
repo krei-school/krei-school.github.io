@@ -93,6 +93,178 @@ branches:
   phone: 
   lat: 
   long: 
+- title: 'M R PALLI
+
+'
+  state: 'Andhra Pradesh
+
+'
+  text: KESHAVAREDDY CONCEPT SCHOOL,SANTHI NAGAR, M.R.PALLI, TIRUPATI-517502.
+  phone: 
+  lat: 
+  long: 
+- title: 'MAMANDUR
+
+'
+  state: 'Andhra Pradesh
+
+'
+  text: KESHAVA REDDY SCHOOL,MAMANDUR (V&P),RENIGUTA (M), CHITTOOR (DIST)-517520.
+  phone: 
+  lat: 
+  long: 
+- title: 'MARUTHI NAGAR
+
+'
+  state: Andhra Pradesh
+  text: KESHAVA REDDY SCHOOL, MARUTHI NAGAR,ANANTAPUR, PIN -515004.
+  phone: 
+  lat: 
+  long: 
+- title: 'MEDAM STREET
+
+'
+  state: Andhra Pradesh
+  text: H.No:26-69, KESHAVA REDDY E.M. SCHOOL,MADAM VARI SATRAM,NEAR I TOWN POLICE
+    STATION,KURNOOL- 518001.
+  phone: 
+  lat: 
+  long: 
+- title: 'MURUGANPALLI
+
+'
+  state: 'Andhra Pradesh
+
+'
+  text: KESHAVA REDDY CONCEPT SCHOOL,MURUGANIPALLI,CHITTOOR-517001.
+  phone: 
+  lat: 
+  long: 
+- title: 'NEW BALAJI COLONY
+
+'
+  state: Andhra Pradesh
+  text: KESHAVA REDDY CONCEPT SCHOOL,NEW BALAJI COLONY, CHITTOOR-517001.
+  phone: 
+  lat: 
+  long: 
+- title: 'NEW KRISHNA NAGAR
+
+'
+  state: 
+  text: H.No-78-8-A-5-1-B,KESHAVA REDDY E.M. SCHOOL,NEW KRISHNA NAGAR, KURNOOL- 518003.
+  phone: 
+  lat: 
+  long: 
+- title: 'NGOS KADAPA
+
+'
+  state: 
+  text: KESHAVA REDDY SCHOOL,OLD R.T.C. BYPASS ROAD,CHINNA CHOWK, KADAPA.-516002.
+  phone: 
+  lat: 
+  long: 
+- title: 'NGOS NANDYAL
+
+'
+  state: 
+  text: KESHAVA REDDY SCHOOL,NGO'S COLONY, NANDYAL,KURNOOL (DIST)-518502.
+  phone: 
+  lat: 
+  long: 
+- title: 'NIMMANAPALLI
+
+'
+  state: 
+  text: KESHAVA REDDY e-LEARNING SCHOOL,MACHIREDDYGARIPALLI,NIMMANAPALLI (M),MADANAPALLI,
+    CHITTOOR (DIST)-517325.
+  phone: 
+  lat: 
+  long: 
+- title: 'OLD KRISHNA NAGAR
+
+'
+  state: 
+  text: H.No-80-128,KESHAVA REDDY E.M. SCHOOL,KRISHNA NAGAR,NEAR BIRLA GATE, KURNOOL-
+    518003.
+  phone: 
+  lat: 
+  long: 
+- title: 'PANYAM
+
+'
+  state: 
+  text: KESHAVA REDDY SCHOOL,KESHAVAREDDYNAGAR,NERAWADA (P&V), PANYAM (M),KURNOOL
+    (DIST)-518112.
+  phone: 
+  lat: 
+  long: 
+- title: 'RAJAHMUNDRY
+
+'
+  state: 
+  text: KESHAVA REDDY SCHOOL,N.H-5 ROAD, OPP. EANADU OFFICE, HUKUMPET (V), RAJAHMUNDRY-533107
+  phone: 
+  lat: 
+  long: 
+- title: 'SAI NAGAR
+
+'
+  state: 
+  text: KESHAVA REDDY SCHOOL,6th CROSS SAI NAGAR,ANANTAPUR.PIN - 515004.
+  phone: 
+  lat: 
+  long: 
+- title: 'SANKALBAGH
+
+'
+  state: 
+  text: H.No-43-253-B-1-1,KESHAVA REDDY E.M. SCHOOL,SANKAL BAGH, KURNOOL- 518004.
+  phone: 
+  lat: 
+  long: 
+- title: 'SRI LAKSHMI NAGAR
+
+'
+  state: 
+  text: H.No-87-140-A,KESHAVA REDDY E.M. SCHOOL,OPP.GOVT. DEGREE COLLEGE FOR MEN,SRI
+    LAKSHMI NAGAR, KURNOOL-518001.
+  phone: 
+  lat: 
+  long: 
+- title: 'V R COLONY
+
+'
+  state: 
+  text: H.No:4-72-1,KESHAVA REDDY E.M. SCHOOL,VENKATA RAMANA COLONY,KURNOOL- 518004.
+  phone: 
+  lat: 
+  long: 
+- title: 'VADIYAMPETA
+
+'
+  state: 
+  text: KESHAVA REDDY CONCEPT SCHOOL,VADIYAMPETA (V & P),Bukkarayasamudram (M),Anantapur
+    (Dist), PIN – 515731.
+  phone: 
+  lat: 
+  long: 
+- title: 'YERRAGUNTLA
+
+'
+  state: 
+  text: KESHAVA REDDY SCHOOL,YERRAGUNTLA ROAD, POTLADURTHI,PRODDATUR KADAPA (DIST)-516360.
+  phone: 
+  lat: 
+  long: 
+- title: 'YMR COLONY
+
+'
+  state: 
+  text: KESHAVA REDDY SCHOOL,YMR COLONY, PRODDATUR,KADAPA (DIST).PINCODE-516360.
+  phone: 
+  lat: 
+  long: 
 layout: branches
 ---
 
