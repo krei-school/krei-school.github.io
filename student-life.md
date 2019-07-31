@@ -94,7 +94,7 @@ sections:
       nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
       quis, sem. Nulla consequat massa quis enim.
   i5:
-    title: Cultural Activities
+    title: 'Cultural and Extra Curricular Activities '
     text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora
       veritatis nemo aut ea iusto eos est expedita,quas ab adipisci. Maecenas tempus,
       tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing
@@ -128,7 +128,7 @@ sections:
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
   i6:
-    title: Extra Curricular Activities
+    title: 'All Round Development '
     text: 'Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
       egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
       blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
