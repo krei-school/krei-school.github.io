@@ -3,7 +3,7 @@ title: Residential System
 page_title: Residental System
 sections:
   i1:
-    title: Hygiene
+    title: Wholesome Nutrition
     text: Hygiene is a set of practices performed to preserve health. According to
       the World Health Organization, "Hygiene refers to conditions and practices that
       help to maintain health and prevent the spread of diseases." Personal hygiene
