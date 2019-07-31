@@ -3,29 +3,18 @@ title: Home
 page_title: Home
 sliders:
   i1:
-    title: Keshava Reddy Educational Institutions
-    desc: 'Keshava Reddy Educational Institutions have been the pioneer of academic
-      excellence in the field of school education. This tree sprouted from a little
-      seed of vision planted by Mr Keshav Reddy in the year 1993 with 196 students;
-      and has now branched out in 14 different places of the state with 40 branches. '
+    title: Excellence through Education
+    desc: 25 years of excellence in Education. Best Results in 2 states year on year
+      consistently
     url: "/about-us.html"
   i2:
-    title: The Best Infrastructure
-    desc: "The institution worked hard right from the start for 13 years when it got
-      its high start in 2006 finally. Since then, victory has almost become a trend
-      for the institute has stood second to none. The number of students who have
-      graced the institutes’ merit records increased to 591 in 2008 and 2009, and
-      moved up to 593 in 2010.\nConinuing the success story, KREI introduced SSC in
-      2011. From among this batch, a total of 22 students bagging state top ranks
-      was yet another milestone, filling almost all of the top 10 positions across
-      the state. "
+    title: The Best Residential System
+    desc: The Best Residential System in 2 states. Largest chain of Residential Schools
+      in South India.Feels like Home and memorable Stay.
     url: "/about-us.html"
   i3:
-    title: Sustainable Practices
-    desc: This pinnacle of glory is the out come of the magnanimous and detail-oriented
-      planning and implementation of unique techniques at various levels of school
-      education at KREI. At these various levels, we have been adding value with a
-      focus on the best for the targeted age groups of our students.
+    title: All Round Development
+    desc: Stress Free Education and All round Development
     url: "/about-us.html"
 sections:
   i1:
