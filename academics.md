@@ -13,7 +13,7 @@ sections:
       nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
       quis, sem. Nulla consequat massa quis enim."
   i2:
-    title: IIT & NEET
+    title: IIT & NEET Foundation
     text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
       egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
       blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
@@ -82,6 +82,16 @@ sections:
   i6:
     title: Career guidance
     text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
+      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
+      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
+      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
+      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
+      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
+      quis, sem. Nulla consequat massa quis enim."
+  i7:
+    title: Hand Writing
+    Text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
       egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
       blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
       nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
