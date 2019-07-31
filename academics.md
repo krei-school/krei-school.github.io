@@ -57,7 +57,7 @@ sections:
       nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
       quis, sem. Nulla consequat massa quis enim."
   i5:
-    title: Literature
+    title: Communication Skills
     cards:
       i1:
         title: Spoken English
