@@ -91,7 +91,7 @@ sections:
       quis, sem. Nulla consequat massa quis enim."
   i7:
     title: Hand Writing
-    Text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
+    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
       egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
       blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
       nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
