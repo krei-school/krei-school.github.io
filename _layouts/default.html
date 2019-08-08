@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/card_scroll.css">
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/fontawesome.min.css">
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/icon-font.min.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/nice-select.css">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -27,9 +28,13 @@
     {% include footer.html %}
 </footer>
 <script src="{{site.baseurl}}/assets/js/jquery.slim.min.js"></script>
+
+<script src="{{site.baseurl}}/assets/js/isotope.pkgd.min.js"></script>
+
 <script src="{{site.baseurl}}/assets/js/bootstrap.bundle.min.js"></script>
 <script src="{{site.baseurl}}/assets/js/slick.min.js"></script>
 <script src="{{site.baseurl}}/assets/js/aos.js"></script>
+<script src="{{site.baseurl}}/assets/js/jquery.nice-select.min.js"></script>
 
 <script src="{{site.baseurl}}/assets/js/velocity.min.js"></script>
 <script src="{{site.baseurl}}/assets/js/velocity.ui.min.js"></script>
@@ -41,6 +46,83 @@
 <script src="{{site.baseurl}}/assets/js/markerclusterer.js"></script>
 {% if page.branches %}
 <script>
+
+    function branchSelector() {
+        var selectDiv = $(".branch-cards");
+        var currentFilter = {
+            state: undefined,
+            district: undefined,
+            type: undefined
+        }
+        var selectors = {{ page.selectors | newline_to_br | join: ',' | replace: "=>", ":" | replace: "\n", "<br/>"}}
+
+        selectDiv.isotope({
+            itemSelector: '.element-item',
+            layoutMode: 'fitRows'
+        })
+        $('#branch-state').on('change', function() {
+            if (currentFilter.state === this.value) {
+                return
+            }
+            currentFilter.state = this.value === "all" ? undefined : this.value
+
+            let options = []
+            for (i = 0; i < selectors.states.length; i++) {
+                if (currentFilter.state && selectors.states[i].id !== currentFilter.state) {
+                    continue;
+                }
+                options =  options.concat(selectors.states[i].districts)
+            }
+            var newOptions = {"Option 1": "value1",
+                "Option 2": "value2",
+                "Option 3": "value3"
+            };
+
+            var $el = $("#branch-district");
+            $el.empty();
+            $el.append($("<option></option>")
+                .attr("value", "all").text("All"));
+            for (let dist of options) {
+                $el.append($("<option></option>")
+                    .attr("value", dist.id).text(dist.name));
+
+            }
+            $el.niceSelect('update');
+            updateFilter()
+        });
+        $('#branch-district').on('change', function() {
+            currentFilter.district = this.value === "all" ? undefined : this.value
+            updateFilter()
+        });
+        $('#branch-type').on('change', function() {
+            currentFilter.type = this.value === "all" ? undefined : this.value
+            updateFilter()
+        });
+
+        function updateFilter() {
+            let filter = ""
+            if (currentFilter.state) {
+                filter += `.${currentFilter.state}`
+            }
+            if (currentFilter.district) {
+                filter += `.${currentFilter.district}`
+            }
+            if (currentFilter.type) {
+                filter += `.${currentFilter.type}`
+            }
+            if (!filter) {
+                filter= "*"
+            }
+            selectDiv.isotope({filter: filter})
+            filterMarkers(currentFilter.state, currentFilter.district, currentFilter.type)
+        }
+
+    }
+
+    branchSelector()
+
+
+
     var gmarkers1 = [];
     var markers1 = [];
 
@@ -77,7 +159,6 @@
      */
 
     function addMarker(marker, i) {
-        var category = marker.state;
         var title = marker.title;
         var pos = new google.maps.LatLng(marker.lat, marker.long);
         var content = `<div style='float:left'><img src="{{site.baseurl}}/assets/images/branch${i}.jpg" style="height:150px;"</div>
@@ -91,7 +172,9 @@
         marker1 = new google.maps.Marker({
             title: title,
             position: pos,
-            category: category,
+            state: marker.selectorID.state,
+            district: marker.selectorID.district,
+            type: marker.selectorID.type,
             map: map
         });
 
@@ -113,11 +196,16 @@
      * Function to filter markers by category
      */
 
-    filterMarkers = function (category) {
+    filterMarkers = function (state, district, type) {
         for (i = 0; i < markers1.length; i++) {
             marker = gmarkers1[i];
             // If is same category or category not picked
-            if (marker.category == category || category.length === 0) {
+            if (((state && marker.state == state) ||
+                    !state) &&
+                ((district && marker.district == district) ||
+                    !district) &&
+                ((type && marker.type == type) ||
+                    !type))     {
                 marker.setVisible(true);
             }
             // Categories don't match
@@ -130,19 +218,11 @@
 
     // Init map
     initialize();
+
     var markerCluster = new MarkerClusterer(map, gmarkers1,
         { ignoreHidden: true, imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
 
-    console.log("sddF")
 
-    $(".map-menu").on("click", "button", function () {
-        var filterValue = $(this).attr("data-filter");
-        $(".map-menu-item").each(function() {
-            $(this).css("color", "#000000");
-        })
-        $(this).css("color", "#ff5e14");
-        filterMarkers(filterValue)
-    });
 
 </script>
 {% endif %}

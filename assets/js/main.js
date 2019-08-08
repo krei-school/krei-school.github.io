@@ -28,12 +28,15 @@ $(document).ready(function() {
 
     mainSlider();
     scrollFunction();
+    $('select').niceSelect();
 
     $('.navbar-nav>li>a').on('click', function(){
         $('.navbar-collapse').collapse('hide');
     });
     $('.blog-content img').addClass("img-fluid")
 });
+
+
 
 
 
@@ -53,7 +56,7 @@ function mainSlider() {
     });
     BasicSlider.slick({
         autoplay: true,
-        autoplaySpeed: 10000,
+        autoplaySpeed: 5000,
         fade: true,
         prevArrow:
             '<button type="button" class="slick-prev"><i class="icofont-long-arrow-left"></i>Prev</button>',

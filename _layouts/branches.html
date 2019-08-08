@@ -3,76 +3,101 @@ layout: general_page
 ---
 
 <main>
-        <section id="section1" class="grey-bg">
-            <div class="container-fluid pt-50 pb-50">
-                <div class="container">
-                    <div class="row pt-60">
-                        <div class="col-xl-6 col-lg-6 mb-20 md-margin" >
-                            <div class="jkl-home-card-img">
-                                <img src="{{site.baseurl}}/assets/images/branches-section1.jpg" class="img-fluid" alt="">
-                            </div>
+    <section id="section1" class="grey-bg">
+        <div class="container-fluid pt-50 pb-50">
+            <div class="container">
+                <div class="row pt-60">
+                    <div class="col-xl-6 col-lg-6 mb-20 md-margin">
+                        <div class="jkl-home-card-img">
+                            <img src="{{site.baseurl}}/assets/images/branches-section1.jpg" class="img-fluid" alt="">
                         </div>
-                        <div class="col-xl-6 col-lg-6 mb-40" >
-                            <div class="section-title">
-                                <h2>{{page.sectiona.i1.title}}</h2>
-                            </div>
-                            <div class="about-content">
-                                <p>{{page.sections.i1.text | newline_to_br}}</p>
-                            </div>
-                        </div>
-
                     </div>
+                    <div class="col-xl-6 col-lg-6 mb-40">
+                        <div class="section-title">
+                            <h2>{{page.sections.i1.title}}</h2>
+                        </div>
+                        <div class="about-content">
+                            <p>{{page.sections.i1.text | newline_to_br}}</p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
 
         <section id="section2" class="bg-light">
             <div class="container-fluid">
-                <div class="container">
+                <div class="container mb-20">
                     <div class="row">
-                        <div class="col-lg-12 text-center">
-                            <div class="portfolio-menu  mt-25 mb-25 text-center map-menu" style="display:block;">
-                                <button class="map-menu-item" style="font-size: 18px;text-transform: none;color:#ff5e14" data-filter="">All</button>
-                                <button style="font-size: 18px;text-transform: none" class="p-item map-menu-item"
-                                        data-filter="state1">{{page.sections.i2.state1}}</button>
-                                <button style="font-size: 18px;text-transform: none" class="p-item map-menu-item"
-                                        data-filter="state2">{{page.sections.i2.state2}}</button>
+                        <div class="col-xl-12 text-center mt-40">
+                            <div class="section-title service-title">
+                                <h2>{{page.sections.i2.title}}</h2>
                             </div>
                         </div>
+                    </div>
+                    <div class="row d-flex justify-content-center">
+                        <div class="pr-15">
+                            <div class="text-center">
+                                <p style="margin-bottom:5px">State</p>
+                            </div>
+                            <select id="branch-state" style="color: black">
+                                <option value="all">All</option>
+                                {% for state in page.selectors.states %}
+                                <option value="{{state.id}}">{{state.name}}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="pr-15">
+                            <div class="text-center">
+                                <p style="margin-bottom:5px">District</p>
+                            </div>
+                            <select id="branch-district" style="color: black">
+                                <option value="all">All</option>
+                                {% for state in page.selectors.states %}
+                                {% for district in state.districts %}
+                                <option value="{{district.id}}">{{district.name}}</option>
+                                {% endfor %}
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div>
+                            <div class="text-center">
+                                <p style="margin-bottom:5px">Type</p>
+                            </div>
+                            <select id="branch-type" style="color: black">
+                                <option value="all">All</option>
+                                {% for type in page.selectors.type %}
+                                <option value="{{type.id}}">{{type.name}}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
                     </div>
                 </div>
             </div>
 
-            <div id="map-canvas"></div>
+        <div id="map-canvas"></div>
 
-
-        </section>
-    <section id="section3">
         <div class="container-fluid">
             <div class="container">
-                <div class="row">
-                    <div class="col-xl-12 text-center mt-40">
-                        <div class="section-title service-title">
-                            <h2>{{page.sections.i3.title}}</h2>
-                            <p>
-                                {{page.sections.i3.text | newline_to_br}}
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
+
+
+                <div class="row branch-cards">
                     {% for branch in page.branches %}
-                    <div class="col-xl-6 col-lg-6 6 col-sm-12 mt-20 ml-10 ">
+                    <div class="col-xl-6 col-lg-6 6 col-sm-12 mt-20 ml-10  element-item {{ branch.selectorID.state }} {{branch.selectorID.district}} {{branch.selectorID.type}}">
                         <div class="row m-0" style="background-color: #e9ecef">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 p-0  text-center">
-                                <img class="img-fluid" style="max-height: 230px" src='{{site.baseurl}}/assets/images/branch{{forloop.index}}.jpg'>
+                                <img class="img-fluid" style="max-height: 230px"
+                                     src='{{site.baseurl}}/assets/images/branch{{forloop.index}}.jpg'>
                             </div>
-                            <div  class="col-xl-6 col-lg-6 col-md-6 col-sm-12 align-self-center text-center">
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 align-self-center text-center">
                                 <div class=" p-0"><h3>{{branch.title}}</h3>
                                     <p>{{branch.text | newline_to_br}}</p><br/>
                                     <span class="fa fa-phone fa-rotate-180" style="color:black"> </span>
-                                    <a href="tel:{{branch.phone | remove: '-' | remove: '(' | remove: ')' }}"> {{branch.phone}}</a></div>
+                                    <a href="tel:{{branch.phone | remove: '-' | remove: '(' | remove: ')' }}">
+                                        {{branch.phone}}</a></div>
 
 
                             </div>
@@ -88,15 +113,15 @@ layout: general_page
     </section>
 
 
-
-        <section class="pt-50" style="height:200px">
-            <div class="container-fluid">
-                <div class="container text-center">
-                    <p style="color:black;font-size:16px;">We would love to hear your thoughts or feedback </p>
-                <a href="contact-us.html" class="btn" data-animation="fadeInUp" data-delay=".6s" tabindex="-1" style="animation-delay: 0.6s;">Contact Us</a>
+    <section class="pt-50" style="height:200px">
+        <div class="container-fluid">
+            <div class="container text-center">
+                <p style="color:black;font-size:16px;">We would love to hear your thoughts or feedback </p>
+                <a href="contact-us.html" class="btn" data-animation="fadeInUp" data-delay=".6s" tabindex="-1"
+                   style="animation-delay: 0.6s;">Contact Us</a>
             </div>
-            </div>
-        </section>
+        </div>
+    </section>
 
 
 </main>

@@ -41,23 +41,23 @@ header:
       title: Home
       url: "/"
     i2:
-      title: Student Life
-      url: "/student-life.html"
-    i3:
-      title: Academics
-      url: "/academics.html"
-    i4:
-      title: Residental System
-      url: "/residental-system.html"
-    i5:
-      title: Branches
-      url: "/branches.html"
-    i6:
-      title: Alumni
-      url: "/alumni.html"
-    i7:
       title: About Us
       url: "/about-us.html"
+    i3:
+      title: Branches
+      url: "/branches.html"
+    i4:
+      title: Academics
+      url: "/academics.html"
+    i5:
+      title: Residental System
+      url: "/residental-system.html"
+    i6:
+      title: Student Life
+      url: "/student-life.html"
+    i7:
+      title: Alumni
+      url: "/alumni.html"
     i8:
       title: Contact Us
       url: "/contact-us.html"
