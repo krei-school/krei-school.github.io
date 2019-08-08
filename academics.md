@@ -12,6 +12,7 @@ sections:
       dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
       nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
       quis, sem. Nulla consequat massa quis enim."
+    imageCount: 3
   i2:
     title: IIT & NEET Foundation
     text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
