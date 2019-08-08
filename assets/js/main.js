@@ -59,10 +59,10 @@ function mainSlider() {
         autoplaySpeed: 5000,
         fade: true,
         prevArrow:
-            '<button type="button" class="slick-prev"><i class="icofont-long-arrow-left"></i>Prev</button>',
+            '<button type="button" class="jkl-slider-prev"><i class="fas fa-chevron-left"></i></button>',
         nextArrow:
-            '<button type="button" class="slick-next"><i class="icofont-long-arrow-right"></i>Next</button>',
-        arrows: false,
+            '<button type="button" class="jkl-slider-next"><i class="fas fa-chevron-right"></i></button>',
+        arrows: true,
         dots: true,
         responsive: [
             { breakpoint: 767, settings: { dots: false, arrows: false } }

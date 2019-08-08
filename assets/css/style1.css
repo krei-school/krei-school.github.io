@@ -672,8 +672,8 @@ label {
     opacity: 1;
 }
 .slick-arrow:hover {
-    color: #ff5e14;
-    border-color: #ff5e14;
+    color: #ffffff;
+    border-color: #ffffff;
 }
 .slider-three-active .slick-next {
     left: auto;

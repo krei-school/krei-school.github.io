@@ -416,6 +416,41 @@ label {
     background: #ff5e14;
 }
 
+.jkl-slider {
+    position: relative;
+    top: 0px
+}
+
+.jkl-slider-arrows {
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    width: 100%;
+}
+
+.jkl-slider-prev, .jkl-slider-next, .jkl-slider-prev:visited, .jkl-slider-next:visited {
+
+    background-color: #00000000;
+    color: #ff5e14;
+    border-color: #ff5e14;
+    border-top-color: rgb(255, 94, 20);
+    border-right-color: rgb(255, 94, 20);
+    border-bottom-color: rgb(255, 94, 20);
+    border-left-color: rgb(255, 94, 20);
+    z-index: 99;
+}
+
+.jkl-slider-prev {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+}
+
+.jkl-slider-next {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+}
 .navbar ul {
     background: #000000db;
 }
