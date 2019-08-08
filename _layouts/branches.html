@@ -86,11 +86,12 @@ layout: general_page
 
                 <div class="row branch-cards">
                     {% for branch in page.branches %}
+
                     <div class="col-xl-6 col-lg-6 6 col-sm-12 mt-20 ml-10  element-item {{ branch.selectorID.state }} {{branch.selectorID.district}} {{branch.selectorID.type}}">
                         <div class="row m-0" style="background-color: #e9ecef">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 p-0  text-center">
                                 <img class="img-fluid" style="max-height: 230px"
-                                     src='{{site.baseurl}}/assets/images/branch{{forloop.index}}.jpg'>
+                                     src='{{site.baseurl}}/assets/images/branch{{forloop.index}}.jpg' onclick="imgBrowser({{forloop.index}})">
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 align-self-center text-center">
                                 <div class=" p-0"><h3>{{branch.title}}</h3>

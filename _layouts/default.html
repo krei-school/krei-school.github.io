@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/fontawesome.min.css">
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/icon-font.min.css">
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/nice-select.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/ninja-slider.css">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -44,8 +45,10 @@
 <script src="{{site.baseurl}}/assets/js/main.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key={{site.google_mps_api}}"></script>
 <script src="{{site.baseurl}}/assets/js/markerclusterer.js"></script>
+<script src="{{site.baseurl}}/assets/js/ninja-slider.js"></script>
 {% if page.branches %}
-<script>
+
+    <script>
 
     function branchSelector() {
         var selectDiv = $(".branch-cards");

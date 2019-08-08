@@ -45,7 +45,9 @@ selectors:
                                                                 
 branches:
 - title: AMPOLU
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district1
     type: type1
@@ -57,7 +59,9 @@ branches:
 - title: 'APPANAPALLY
 
 '
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district1
     type: type1
@@ -66,7 +70,9 @@ branches:
   lat: 20.193683
   long: 78.2962883
 - title: ARASAVALLI
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district2
     type: type1
@@ -76,7 +82,9 @@ branches:
   lat: 20.2593683
   long: 78.1962883
 - title: BACHUPALLY
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district2
     type: type1
@@ -86,7 +94,9 @@ branches:
   lat: 20.3593683
   long: 78.3962883
 - title: BALAJI COMPLEX
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district2
     type: type1
@@ -95,7 +105,9 @@ branches:
   lat: 20.1593683
   long: 78.5962883
 - title: CHANDRAGIRI
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district2
     type: type1
@@ -104,7 +116,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883
 - title: CHEVELLA
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district3
     type: type1
@@ -113,7 +127,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: CHITTARI STREET
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district3
     type: type1
@@ -122,7 +138,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: ETCHERLA
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district3
     type: type1
@@ -131,7 +149,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: HATHIRAMJI COLONY
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district3
     type: type1
@@ -140,7 +160,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: JAYA NAGAR
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district4
     type: type2
@@ -149,7 +171,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: KANDI
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district4
     type: type2
@@ -158,7 +182,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: M R PALLI
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district4
     type: type2
@@ -167,7 +193,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: MAMANDUR
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district4
     type: type2
@@ -176,7 +204,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: MARUTHI NAGAR
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district5
     type: type2
@@ -185,7 +215,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: MEDAM STREET
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district5
     type: type2
@@ -195,7 +227,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: MURUGANPALLI
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district5
     type: type2
@@ -204,7 +238,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: NEW BALAJI COLONY
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district5
     type: type2
@@ -213,7 +249,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: NEW KRISHNA NAGAR
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district6
     type: type2
@@ -222,7 +260,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: NGOS KADAPA
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district6
     type: type2
@@ -231,7 +271,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: NGOS NANDYAL
+  imageCount: 3
   selectorID: 
+   
     state:  state1
     district: district6
     type: type3
@@ -240,7 +282,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: NIMMANAPALLI
+  imageCount: 3
   selectorID: 
+   
     state:  state2
     district: district6
     type: type3
@@ -250,7 +294,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: OLD KRISHNA NAGAR
+  imageCount: 3
   selectorID: 
+   
     state:  state2
     district: district7
     type: type3
@@ -260,7 +306,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: PANYAM
+  imageCount: 3
   selectorID: 
+   
     state:  state2
     district: district7
     type: type3
@@ -270,7 +318,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: RAJAHMUNDRY
+  imageCount: 3
   selectorID: 
+   
     state:  state2
     district: district7
     type: type3
@@ -279,7 +329,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: SAI NAGAR
+  imageCount: 3
   selectorID: 
+   
     state:  state2
     district: district7
     type: type3
@@ -288,7 +340,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: SANKALBAGH
+  imageCount: 3
   selectorID: 
+   
     state:  state2
     district: district8
     type: type3
@@ -297,7 +351,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: SRI LAKSHMI NAGAR
+  imageCount: 3
   selectorID: 
+   
     state:  state2
     district: district8
     type: type3
@@ -307,7 +363,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: V R COLONY
+  imageCount: 3
   selectorID: 
+   
     state:  state2
     district: district8
     type: type3
@@ -316,7 +374,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: VADIYAMPETA
+  imageCount: 3
   selectorID: 
+   
     state:  state2
     district: district8
     type: type3
@@ -326,7 +386,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: YERRAGUNTLA
+  imageCount: 3
   selectorID: 
+   
     state:  state2
     district: district9
     type: type1
@@ -335,7 +397,9 @@ branches:
   lat: 20.4593683
   long: 78.1962883 
 - title: YMR COLONY
+  imageCount: 3
   selectorID: 
+   
     state:  state2
     district: district9
     type: type1
