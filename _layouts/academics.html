@@ -17,7 +17,7 @@ layout: general_page
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6 mb-20 md-margin " >
-                        <div id="section1-img" class="carousel slide carousel-fade" data-ride="carousel">
+                        <div id="section1-img" class="carousel slide carousel-fade" data-ride="carousel" data-interval="4000">
 
                             <ul class="carousel-indicators">
                                 <li data-target="#section1-img" data-slide-to="0" class="active"></li>
@@ -27,11 +27,11 @@ layout: general_page
                             </ul>
 
                             <div class="carousel-inner">
-                                <div class="carousel-item active" data-interval="1000">
+                                <div class="carousel-item active" >
                                     <img src="{{site.baseurl}}/assets/images/academics-section1.jpg" width="100%">
                                 </div>
                                 {% for i in (2..page.sections.i1.imageCount) %}
-                                <div class="carousel-item" data-interval="1000">
+                                <div class="carousel-item" >
                                 <img src="{{site.baseurl}}/assets/images/academics-section1-{{ i | minus: 1 }}.jpg" width="100%">
                                 </div>
                                 {% endfor %}
