@@ -7,6 +7,7 @@ sections:
     text: |-
       KESHAVA REDDY EDUCATIONAL INSTITUTIONS have always been known to be synonymous with success. Victory is a trend and tradition here, no matter whatever the battle be. The finest thing about this success is its consistency notonly in SSC but also in all the State and National Level Talent Search Examinations.
       The success on the arena of SSC itself is the most echoing factor of the prevailing standards of Keshava Reddy Educational Institutions. Not just one, two or three ... but Fifteen students scored almost 600. The results speak for themselves. state top almost cleansweep for the past 4 SSC’s 95% of the students stood in Top A, B grades. Out of every three two got above 500 marks.
+    image: about-us-section1.jpg
   i2:
     title: Success Story
     text: Keshava Reddy is undoubtedly the legend in the arena of SSC In fact its
@@ -21,6 +22,7 @@ sections:
       showing rapid expansion every year to meet this overwhelming rush. Today the
       institutions flourishing with 42 esteemed campuses for this academic year owned
       and adorned of Keshava Reddy.
+    image: about-us-section1.jpg
   i3:
     cards:
       i1:
@@ -29,18 +31,21 @@ sections:
         text: "“Excellence through Education” Excellence means perfection. Doing a
           thing in a perfect manner gains the attention as well as the commendation
           of the world. "
+        image: about-us-section3-card1.jpg
       i2:
         title1: Bharath Reddy
         title2: 'Chairman '
         text: "“Excellence through Education” Excellence means perfection. Doing a
           thing in a perfect manner gains the attention as well as the commendation
           of the world."
+        image: about-us-section3-card2.jpg
       i3:
         title1: Gangadhar Reddy
         title2: Director
         text: "“Excellence through Education” Excellence means perfection. Doing a
           thing in a perfect manner gains the attention as well as the commendation
           of the world."
+        image: about-us-section3-card3.jpg
       i4:
         title: Misson
         text: "“Excellence through Education” Excellence means perfection. Doing a

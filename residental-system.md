@@ -8,11 +8,13 @@ sections:
       the World Health Organization, "Hygiene refers to conditions and practices that
       help to maintain health and prevent the spread of diseases." Personal hygiene
       refers to maintaining the body's cleanliness.
+    image: residental-section1.jpg
   i2:
     title: Discipline
     text: the practice of training people to obey rules or a code of behaviour, using
       punishment to correct disobedience.the practice of training people to obey rules
       or a code of behaviour, using punishment to correct disobedience.
+    image: residental-section2.jpg
   i3:
     title: Ease of Living
     text: the practice of training people to obey rules or a code of behaviour, using
@@ -23,32 +25,39 @@ sections:
         title: Praesent malesuada placerat
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
+        image: residental-section3-card1.jpg
       i2:
         title: Praesent malesuada placerat
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
+        image: residental-section3-card2.jpg
       i3:
         title: Praesent malesuada placerat
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
+        image: residental-section3-card3.jpg
       i4:
         title: Praesent malesuada placerat
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
+        image: residental-section3-card4.jpg
       i5:
         title: Praesent malesuada placerat
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
+        image: residental-section3-card5.jpg
       i6:
         title: Praesent malesuada placerat
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
+        image: residental-section3-card6.jpg
   i4:
     title: Security
     text: Securityis freedom from, or resilience against,potentialharm (or other unwantedcoercivechange)
       caused by others. Beneficiaries (technicallyreferents) of security may be of
       persons and social groups, objects and institutions, ecosystems or any other
       entity or phenomenon vulnerable to unwanted change by its environment.
+    image: residental-section4.jpg
   i5:
     counter:
       i1:
@@ -70,8 +79,9 @@ sections:
   i6:
     title: Healthy Life Style
     text: Enjoy plenty of fruits and vegetables. Reduce salt and sugar intake. Eat
-      regularly, control the portion size. Drink plenty of fluids. Maintain a **healthy
-      **body weight.
+      regularly, control the portion size. Drink plenty of fluids. Maintain a healthy
+      body weight.
+    image: residental-section6.jpg
 layout: residental-system
 ---
 
