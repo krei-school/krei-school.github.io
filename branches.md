@@ -53,7 +53,7 @@ branches:
   - card2.jpg
   selectorID:
     state: state1
-    district: Srikakulam
+    district: district6
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,Rajiv Nagar (V), Singupuram (P), Srikakulam (M&Dist),
     PIN– 532185.
@@ -67,7 +67,7 @@ branches:
   - card2.jpg
   selectorID:
     state: state2
-    district: Mahaboobnagar
+    district: district7
     type: Residential
   text: KESHAVA REDDY SCHOOL,APPANNAPALLI (V),MAHABOOBNAGAR (DIST)-509001.
   phone: "+91-9876543210"
@@ -80,7 +80,7 @@ branches:
   - card2.jpg
   selectorID:
     state: state1
-    district: Srikakulam
+    district: district6
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,Kajipeta (V&P), Arasavalli Road, Near - Indira
     Vignan Bhavan,Srikakulam (M&Dist), PIN - 532001.
@@ -94,7 +94,7 @@ branches:
   - card2.jpg
   selectorID:
     state: state2
-    district: Medchal
+    district: district8
     type: Residential
   text: 'SURVEY NO: 56/B,KESHAVA REDDY E-LEARNING SCHOOL,INDRA NAGAR COLONY,BACHUPALLY
     (V&P),QUTHBULLAPUT (M),MEDCHAL (DIST.,)-500090.'
@@ -133,8 +133,8 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Ranga Reddy
-    district: state2
+    state: state2
+    district: district9
     type: Residential
   text: KESHAVA REDDY SCHOOL, MANNEGUDA X ROAD, VIKARABAD, TELANGANA
   phone: 1234
@@ -160,7 +160,7 @@ branches:
   - card2.jpg
   selectorID:
     state: state1
-    district: Srikakulam
+    district: district6
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,Etcherla (P&M), Srikakulam (Dist.)- 532410.
   phone: 1234
