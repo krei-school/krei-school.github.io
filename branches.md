@@ -42,7 +42,7 @@ selectors:
     - id: district2
       name: Medchal
     - id: district3
-      name: Vikarabad
+      name: Ranga Reddy
     - id: district4
       name: Sangareddy
 branches:
