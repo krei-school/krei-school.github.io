@@ -52,7 +52,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Srikakulam
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,Rajiv Nagar (V), Singupuram (P), Srikakulam (M&Dist),
@@ -79,7 +79,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Srikakulam
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,Kajipeta (V&P), Arasavalli Road, Near - Indira
@@ -107,7 +107,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Kurnool
     type: Residential
   text: KESHAVA REDDY SCHOOL,BALAJI COMPLEX,NANDYAL, KURNOOL (DIST)-518501.
@@ -120,7 +120,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Chittor
     type: Residential
   text: KESHAVA REDDY RESIDENTIAL SCHOOL,THONDAVADA (V), CHANDRAGIRI (M),TIRUPATI-517101.
@@ -146,7 +146,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Anantapur
     type: Residential
   text: H.No:26-69,KESHAVA REDDY EM SCHOOL,CHITTARI STREET-518001.
@@ -159,7 +159,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Srikakulam
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,Etcherla (P&M), Srikakulam (Dist.)- 532410.
@@ -172,7 +172,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Chittor
     type: Residential
   text: KESHAVA REDDY e-LEARNING SCHOOL,BAIRAGIPATTEDA,HATHIRAMJI COLONY, TIRUPATI-517507.
@@ -185,7 +185,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Chittor
     type: Residential
   text: KESHAVAREDDY CONCEPT SCHOOL,JAYA NAGAR,TIRUPATI-517501.
@@ -211,7 +211,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Chittor
     type: Residential
   text: KESHAVAREDDY CONCEPT SCHOOL,SANTHI NAGAR, M.R.PALLI, TIRUPATI-517502.
@@ -224,7 +224,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Chittor
     type: Residential
   text: KESHAVA REDDY SCHOOL,MAMANDUR (V&P),RENIGUTA (M), CHITTOOR (DIST)-517520.
@@ -237,7 +237,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Anantapur
     type: Residential
   text: KESHAVA REDDY SCHOOL, MARUTHI NAGAR,ANANTAPUR, PIN -515004.
@@ -250,7 +250,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Kurnool
     type: Residential
   text: H.No:26-69, KESHAVA REDDY E.M. SCHOOL,MADAM VARI SATRAM,NEAR I TOWN POLICE
@@ -264,7 +264,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Chittor
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,MURUGANIPALLI,CHITTOOR-517001.
@@ -277,7 +277,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Chittor
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,NEW BALAJI COLONY, CHITTOOR-517001.
@@ -290,7 +290,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Kurnool
     type: Residential
   text: H.No-78-8-A-5-1-B,KESHAVA REDDY E.M. SCHOOL,NEW KRISHNA NAGAR, KURNOOL- 518003.
@@ -303,7 +303,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Kadapa
     type: Residential
   text: KESHAVA REDDY SCHOOL,OLD R.T.C. BYPASS ROAD,CHINNA CHOWK, KADAPA.-516002.
@@ -316,7 +316,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Kurnool
     type: Residential
   text: KESHAVA REDDY SCHOOL,NGO'S COLONY, NANDYAL,KURNOOL (DIST)-518502.
@@ -329,7 +329,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: 'Chittor
 
 '
@@ -345,7 +345,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Kurnool
     type: Residential
   text: H.No-80-128,KESHAVA REDDY E.M. SCHOOL,KRISHNA NAGAR,NEAR BIRLA GATE, KURNOOL-
@@ -359,7 +359,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Kurnool
     type: Residential
   text: KESHAVA REDDY SCHOOL,KESHAVAREDDYNAGAR,NERAWADA (P&V), PANYAM (M),KURNOOL
@@ -373,7 +373,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: East Godavari
     type: Residential
   text: KESHAVA REDDY SCHOOL,N.H-5 ROAD, OPP. EANADU OFFICE, HUKUMPET (V), RAJAHMUNDRY-533107
@@ -386,7 +386,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Anantapur
     type: Residential
   text: KESHAVA REDDY SCHOOL,6th CROSS SAI NAGAR,ANANTAPUR.PIN - 515004.
@@ -399,7 +399,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Kurnool
     type: Residential
   text: H.No-43-253-B-1-1,KESHAVA REDDY E.M. SCHOOL,SANKAL BAGH, KURNOOL- 518004.
@@ -412,7 +412,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Kurnool
     type: Residential
   text: H.No-87-140-A,KESHAVA REDDY E.M. SCHOOL,OPP.GOVT. DEGREE COLLEGE FOR MEN,SRI
@@ -426,7 +426,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Kurnool
     type: Residential
   text: H.No:4-72-1,KESHAVA REDDY E.M. SCHOOL,VENKATA RAMANA COLONY,KURNOOL- 518004.
@@ -439,7 +439,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Anantapur
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,VADIYAMPETA (V & P),Bukkarayasamudram (M),Anantapur
@@ -453,7 +453,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Kadapa
     type: Residential
   text: KESHAVA REDDY SCHOOL,YERRAGUNTLA ROAD, POTLADURTHI,PRODDATUR KADAPA (DIST)-516360.
@@ -466,7 +466,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state1
     district: Kadapa
     type: Residential
   text: KESHAVA REDDY SCHOOL,YMR COLONY, PRODDATUR,KADAPA (DIST).PINCODE-516360.
