@@ -93,7 +93,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Telangana
+    state: state2
     district: Medchal
     type: Residential
   text: 'SURVEY NO: 56/B,KESHAVA REDDY E-LEARNING SCHOOL,INDRA NAGAR COLONY,BACHUPALLY
@@ -134,7 +134,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Ranga Reddy
-    district: Telangana
+    district: state2
     type: Residential
   text: KESHAVA REDDY SCHOOL, MANNEGUDA X ROAD, VIKARABAD, TELANGANA
   phone: 1234
@@ -198,7 +198,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Telangana
+    state: state2
     district: Sangareddy
     type: Residential
   text: KESHAVA REDDY SCHOOL, NEAR IIT, KANDI VILLAGE, SANGAREDDY DIST., TELANGANA
