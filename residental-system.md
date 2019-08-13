@@ -77,7 +77,7 @@ sections:
         title: Branches
         count: 32
   i6:
-    title: Healthy Life Style
+    title: Study Hours and Residential Faculty
     text: Enjoy plenty of fruits and vegetables. Reduce salt and sugar intake. Eat
       regularly, control the portion size. Drink plenty of fluids. Maintain a healthy
       body weight.
