@@ -20,29 +20,29 @@ selectors:
     name: Type 3
   states:
   - id: state1
-    name: State 1
+    name: Andhra Pradesh
     districts:
     - id: district1
-      name: District 1
+      name: Kurnool
     - id: district2
-      name: District 2
+      name: Kadapa
     - id: district3
-      name: District 3
+      name: Srikakulam
     - id: district4
-      name: District 4
+      name: Anantapur
+    - id: 
+      name: 
   - id: state2
-    name: State 2
+    name: Telangana
     districts:
     - id: district5
-      name: District 5
+      name: SANGAREDDY
     - id: district6
-      name: District 6
+      name: MEDCHAL
     - id: district7
-      name: District 7
+      name: MAHABOOBNAGAR
     - id: district8
-      name: District 8
-    - id: district9
-      name: District 9
+      name: VIKARABAD
 branches:
 - title: AMPOLU
   images:
