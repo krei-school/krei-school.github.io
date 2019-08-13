@@ -68,7 +68,7 @@ sections:
     title: Communication Skills
     cards:
       i1:
-        title: Spoken English
+        title: THE Program
         text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
           nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
           Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
@@ -79,7 +79,7 @@ sections:
           nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
         image: academics-section5-card1.jpg
       i2:
-        title: HandWriting
+        title: Spoken English
         text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
           nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
           Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
@@ -90,7 +90,7 @@ sections:
           nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
         image: academics-section5-card2.jpg
   i6:
-    title: Career guidance
+    title: Teacher Training
     text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
       egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
       blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
