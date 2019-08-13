@@ -3,6 +3,46 @@ layout: general_page
 ---
 
 <main>
+        <section class="grey-bg">
+        <div class="container-fluid pt-50">
+            <div class="container">
+
+                <div class="row pt-60" id="section1">
+                    <div class="col-xl-6 col-lg-6 mb-40" >
+                        <div class="section-title">
+                            <h2>{{page.sections.i8.title}}</h2>
+                        </div>
+                        <div class="about-content">
+                            <p>{{page.sections.i8.text | newline_to_br}}</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-xl-6 col-lg-6 mb-20 md-margin " >
+                        <div id="section1-img" class="carousel slide carousel-fade" data-ride="carousel" data-interval="4000">
+
+                            <ul class="carousel-indicators">
+                                {% for image in page.sections.i8.images %}
+                                <li data-target="#section1-img" data-slide-to="{{forloop.index | minus: 1}}" {% if forloop.index == 1 %} class="active" {% endif %}></li>
+
+                                {% endfor %}
+                            </ul>
+
+                            <div class="carousel-inner">
+                                {% for image in page.sections.i8.images %}
+                                <div class="carousel-item {% if forloop.index == 1 %} active {% endif %}" >
+                                    <img src="{{site.baseurl}}/assets/images/{{image}}" width="100%">
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+    
+            </div>
+        </div>
+    </section>
+    
     <!-- 4 Card Section -->
     
     <section class="jkl-home-highlt grey-bg pb-70 pt-100">
