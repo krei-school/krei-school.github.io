@@ -28,13 +28,14 @@ footer:
     isActive: true
     twitter.com: 
   address:
-    title: Lorem Ipsum
-    text: |-
-      13/4, Sum dolor sit amet,
-      Consec tetur, Adipisicing,
-      Incididuntut - 234556
-    phone: "+91-9876543210"
-    email: sber@example.com
+    title: Keshava Reddy Educational Institutions
+    text: |
+      Venkata Ramana Colony,
+      Kurnool,
+      Andhra Pradesh, INDIA
+      Fax: +91-8514 249330
+    phone: "+91-9885722994"
+    email: admin@keshavareddy.com
 header:
   links:
     i1:
