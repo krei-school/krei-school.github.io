@@ -61,6 +61,17 @@ sections:
       image: testimony_person.jpg
   i3:
     title: Updates
+  i4:
+    counter:
+      i1:
+        title: Students
+        count: 50000
+      i2:
+        title: Staffs
+        count: 25000
+      i3:
+        title: Branches
+        count: 32
 layout: home
 ---
 
