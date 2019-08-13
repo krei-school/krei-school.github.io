@@ -12,10 +12,10 @@ sections:
       dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
       nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
       quis, sem. Nulla consequat massa quis enim."
-    images: 
-      - academics-section1.jpg
-      - academics-section1-1.jpg
-      - academics-section1-2.jpg
+    images:
+    - academics-section1.jpg
+    - academics-section1-1.jpg
+    - academics-section1-2.jpg
   i2:
     title: IIT & NEET Foundation
     text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
@@ -27,7 +27,6 @@ sections:
       nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
       quis, sem. Nulla consequat massa quis enim."
     image: academics-section2.jpg
-
   i3:
     title: Labs
     cards:
@@ -101,7 +100,6 @@ sections:
       nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
       quis, sem. Nulla consequat massa quis enim."
     image: academics-section6.jpg
-
 layout: academics
 ---
 
