@@ -23,26 +23,28 @@ selectors:
     name: Andhra Pradesh
     districts:
     - id: district1
-      name: Kurnool
-    - id: district2
-      name: Kadapa
-    - id: district3
-      name: Srikakulam
-    - id: district4
       name: Anantapur
-    - id: district4
+    - id: district2
       name: Chittor
+    - id: district3
+      name: East Godavari
+    - id: district4
+      name: Kadapa
+    - id: district5
+      name: Kurnool
+    - id: district6
+      name: Srikakulam
   - id: state2
     name: Telangana
     districts:
-    - id: district5
-      name: SANGAREDDY
-    - id: district6
-      name: MEDCHAL
-    - id: district7
-      name: MAHABOOBNAGAR
-    - id: district8
-      name: VIKARABAD
+    - id: district1
+      name: Mahaboobnagar
+    - id: district2
+      name: Medchal
+    - id: district3
+      name: Vikarabad
+    - id: district4
+      name: Sangareddy
 branches:
 - title: AMPOLU
   images:
