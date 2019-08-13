@@ -147,7 +147,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district3
+    district: Anantapur
     type: type1
   text: H.No:26-69,KESHAVA REDDY EM SCHOOL,CHITTARI STREET-518001.
   phone: 1234
@@ -160,7 +160,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district3
+    district: Srikakulam
     type: type1
   text: KESHAVA REDDY CONCEPT SCHOOL,Etcherla (P&M), Srikakulam (Dist.)- 532410.
   phone: 1234
@@ -173,7 +173,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district3
+    district: Chittor
     type: type1
   text: KESHAVA REDDY e-LEARNING SCHOOL,BAIRAGIPATTEDA,HATHIRAMJI COLONY, TIRUPATI-517507.
   phone: 1234
@@ -186,7 +186,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district4
+    district: Chittor
     type: type2
   text: KESHAVAREDDY CONCEPT SCHOOL,JAYA NAGAR,TIRUPATI-517501.
   phone: 1234
@@ -199,7 +199,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Telangana
-    district: district4
+    district: Sangareddy
     type: type2
   text: KESHAVA REDDY SCHOOL, NEAR IIT, KANDI VILLAGE, SANGAREDDY DIST., TELANGANA
   phone: 1234
@@ -212,7 +212,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district4
+    district: Chittor
     type: type2
   text: KESHAVAREDDY CONCEPT SCHOOL,SANTHI NAGAR, M.R.PALLI, TIRUPATI-517502.
   phone: 1234
@@ -225,7 +225,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district4
+    district: Chittor
     type: type2
   text: KESHAVA REDDY SCHOOL,MAMANDUR (V&P),RENIGUTA (M), CHITTOOR (DIST)-517520.
   phone: 1234
@@ -238,7 +238,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district5
+    district: Anantapur
     type: type2
   text: KESHAVA REDDY SCHOOL, MARUTHI NAGAR,ANANTAPUR, PIN -515004.
   phone: 1234
@@ -251,7 +251,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district5
+    district: Kurnool
     type: type2
   text: H.No:26-69, KESHAVA REDDY E.M. SCHOOL,MADAM VARI SATRAM,NEAR I TOWN POLICE
     STATION,KURNOOL- 518001.
@@ -265,7 +265,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district5
+    district: Chittor
     type: type2
   text: KESHAVA REDDY CONCEPT SCHOOL,MURUGANIPALLI,CHITTOOR-517001.
   phone: 1234
@@ -278,7 +278,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district5
+    district: Chittor
     type: type2
   text: KESHAVA REDDY CONCEPT SCHOOL,NEW BALAJI COLONY, CHITTOOR-517001.
   phone: 1234
@@ -291,7 +291,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district6
+    district: Kurnool
     type: type2
   text: H.No-78-8-A-5-1-B,KESHAVA REDDY E.M. SCHOOL,NEW KRISHNA NAGAR, KURNOOL- 518003.
   phone: 1234
@@ -304,7 +304,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district6
+    district: Kadapa
     type: type2
   text: KESHAVA REDDY SCHOOL,OLD R.T.C. BYPASS ROAD,CHINNA CHOWK, KADAPA.-516002.
   phone: 1234
@@ -317,7 +317,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district6
+    district: Kurnool
     type: type3
   text: KESHAVA REDDY SCHOOL,NGO'S COLONY, NANDYAL,KURNOOL (DIST)-518502.
   phone: 1234
@@ -330,7 +330,9 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district6
+    district: 'Chittor
+
+'
     type: type3
   text: KESHAVA REDDY e-LEARNING SCHOOL,MACHIREDDYGARIPALLI,NIMMANAPALLI (M),MADANAPALLI,
     CHITTOOR (DIST)-517325.
@@ -344,7 +346,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district7
+    district: Kurnool
     type: type3
   text: H.No-80-128,KESHAVA REDDY E.M. SCHOOL,KRISHNA NAGAR,NEAR BIRLA GATE, KURNOOL-
     518003.
@@ -358,7 +360,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district7
+    district: Kurnool
     type: type3
   text: KESHAVA REDDY SCHOOL,KESHAVAREDDYNAGAR,NERAWADA (P&V), PANYAM (M),KURNOOL
     (DIST)-518112.
@@ -372,7 +374,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district7
+    district: East Godavari
     type: type3
   text: KESHAVA REDDY SCHOOL,N.H-5 ROAD, OPP. EANADU OFFICE, HUKUMPET (V), RAJAHMUNDRY-533107
   phone: 1234
@@ -385,7 +387,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district7
+    district: Anantapur
     type: type3
   text: KESHAVA REDDY SCHOOL,6th CROSS SAI NAGAR,ANANTAPUR.PIN - 515004.
   phone: 1234
@@ -398,7 +400,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district8
+    district: Kurnool
     type: type3
   text: H.No-43-253-B-1-1,KESHAVA REDDY E.M. SCHOOL,SANKAL BAGH, KURNOOL- 518004.
   phone: 1234
@@ -411,7 +413,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district8
+    district: Kurnool
     type: type3
   text: H.No-87-140-A,KESHAVA REDDY E.M. SCHOOL,OPP.GOVT. DEGREE COLLEGE FOR MEN,SRI
     LAKSHMI NAGAR, KURNOOL-518001.
@@ -425,7 +427,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district8
+    district: Kurnool
     type: type3
   text: H.No:4-72-1,KESHAVA REDDY E.M. SCHOOL,VENKATA RAMANA COLONY,KURNOOL- 518004.
   phone: 1234
@@ -438,7 +440,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district8
+    district: Anantapur
     type: type3
   text: KESHAVA REDDY CONCEPT SCHOOL,VADIYAMPETA (V & P),Bukkarayasamudram (M),Anantapur
     (Dist), PIN – 515731.
@@ -452,7 +454,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district9
+    district: Kadapa
     type: type1
   text: KESHAVA REDDY SCHOOL,YERRAGUNTLA ROAD, POTLADURTHI,PRODDATUR KADAPA (DIST)-516360.
   phone: 1234
@@ -465,7 +467,7 @@ branches:
   - card2.jpg
   selectorID:
     state: Andhra Pradesh
-    district: district9
+    district: Kadapa
     type: type1
   text: KESHAVA REDDY SCHOOL,YMR COLONY, PRODDATUR,KADAPA (DIST).PINCODE-516360.
   phone: 1234
