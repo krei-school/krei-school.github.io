@@ -17,7 +17,7 @@ sections:
     - academics-section1-1.jpg
     - academics-section1-2.jpg
   i2:
-    title: IIT & NEET Foundation
+    title: SMS Program
     text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
       egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
       blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
@@ -28,7 +28,7 @@ sections:
       quis, sem. Nulla consequat massa quis enim."
     image: academics-section2.jpg
   i3:
-    title: Labs
+    title: 10th Result Oriented
     cards:
       i1:
         title: Science
@@ -43,7 +43,7 @@ sections:
           quis enim."
         image: academics-section3-card1.jpg
       i2:
-        title: IT
+        title: IIT and NEET Foundation
         text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
           nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
           Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
@@ -54,7 +54,7 @@ sections:
           nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
         image: academics-section3-card2.jpg
   i4:
-    title: Teacher Training
+    title: Labs and ICT
     text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
       egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
       blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
@@ -90,7 +90,7 @@ sections:
           nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
         image: academics-section5-card2.jpg
   i6:
-    title: Teacher Training
+    title: Calligraphy
     text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
       egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
       blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
