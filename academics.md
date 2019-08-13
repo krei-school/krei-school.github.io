@@ -28,10 +28,10 @@ sections:
       quis, sem. Nulla consequat massa quis enim."
     image: academics-section2.jpg
   i3:
-    title: 10th Result Oriented
+    title: Result Oriented Approach
     cards:
       i1:
-        title: Science
+        title: 10th Result Oriented
         text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
           nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
           Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
