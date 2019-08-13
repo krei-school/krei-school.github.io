@@ -128,11 +128,11 @@ sections:
       i1:
         title: Schedule
         text: Schedule
-        image: 
+        image: residential-section9.jpg
       i2:
         title: Sports and Games
         text: Sports
-        image: 
+        image: residential-section9.jpg
 layout: residental-system
 ---
 
