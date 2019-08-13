@@ -66,7 +66,7 @@ branches:
   - card1.jpg
   - card2.jpg
   selectorID:
-    state: Andhra Pradesh
+    state: state2
     district: Mahaboobnagar
     type: Residential
   text: KESHAVA REDDY SCHOOL,APPANNAPALLI (V),MAHABOOBNAGAR (DIST)-509001.
