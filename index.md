@@ -65,13 +65,16 @@ sections:
     counter:
       i1:
         title: Students
-        count: 50000
-      i2:
-        title: Staffs
         count: 25000
+      i2:
+        title: Staff
+        count: 5000
       i3:
         title: Branches
         count: 32
+      i4:
+        title: Residential Students
+        count: 17000
 layout: home
 ---
 
