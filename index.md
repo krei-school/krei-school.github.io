@@ -30,19 +30,19 @@ sections:
     - text: "My school is truly a magnificent learning institution that stands head
         & shoulders \nabove the rest. It makes learning fun, and produces students
         of the highest quality. \n"
-      person: Bibendum Orci
+      person: Alekhya
+      position: X Student
+      image: testimony_person.jpg
+    - text: "My school is truly a magnificent learning institution that stands head
+        & shoulders \nabove the rest. It makes learning fun, and produces students
+        of the highest quality. "
+      person: Nikhita
       position: sagittis
       image: testimony_person.jpg
-    - text: |-
-        Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-        Ut in ligula quis lorem sagittis rhoncus.
-      person: Bibendum Orci
-      position: sagittis
-      image: testimony_person.jpg
-    - text: |-
-        Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-        Ut in ligula quis lorem sagittis rhoncus.
-      person: Bibendum Orci
+    - text: "My school is truly a magnificent learning institution that stands head
+        & shoulders \nabove the rest. It makes learning fun, and produces students
+        of the highest quality. "
+      person: Harsha
       position: sagittis
       image: testimony_person.jpg
     - text: |-
