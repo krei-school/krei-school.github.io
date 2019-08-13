@@ -152,14 +152,14 @@ sections:
           Ut in ligula quis lorem sagittis rhoncus.
         image: student-life-section5-card6.jpg
   i6:
-    title: 'All Round Development '
+    title: Career Counselling
     text: 'Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
       egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
       blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
       nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. '
     cards:
       i1:
-        title: Community Celebration
+        title: Personal Guidance
         text: Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
           nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
           Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
