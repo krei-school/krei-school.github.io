@@ -7,7 +7,7 @@ layout: general_page
         <div class="container-fluid pt-50">
             <div class="container">
 
-                <div class="row pt-60" id="section1">
+                <div class="row pt-60" id="section8">
                     <div class="col-xl-6 col-lg-6 mb-40" >
                         <div class="section-title">
                             <h2>{{page.sections.i8.title}}</h2>
@@ -22,7 +22,7 @@ layout: general_page
 
                             <ul class="carousel-indicators">
                                 {% for image in page.sections.i8.images %}
-                                <li data-target="#section1-img" data-slide-to="{{forloop.index | minus: 1}}" {% if forloop.index == 1 %} class="active" {% endif %}></li>
+                                <li data-target="#section8-img" data-slide-to="{{forloop.index | minus: 1}}" {% if forloop.index == 1 %} class="active" {% endif %}></li>
 
                                 {% endfor %}
                             </ul>
@@ -145,7 +145,7 @@ layout: general_page
                     </div>
 
                 </div>
-                <div class="row pt-60" id="section2">
+              <!--  <div class="row pt-60" id="section2">
                     <div class="col-xl-6 col-lg-6 mb-40">
                         <div class="section-title">
                             <h2>{{page.sections.i2.title}}</h2>
@@ -159,7 +159,8 @@ layout: general_page
                             <img src="{{site.baseurl}}/assets/images/{{page.sections.i2.image}}" class="img-fluid" alt="">
                         </div>
                     </div>
-                </div>
+                </div> -->
+                    
             </div>
         </div>
     </section>
