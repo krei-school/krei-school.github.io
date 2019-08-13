@@ -83,31 +83,14 @@ sections:
       body weight.
     image: residental-section6.jpg
   i7:
-    title: Infrastructure
-    text: |-
-      Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-      Ut in ligula quis lorem sagittis rhoncus.
-    i1:
-      title: Praesent malesuada placerat
-      text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-        Ut in ligula quis lorem sagittis rhoncus.
-      url: "/academics.html"
-      image: card.jpg
-    i2:
-      title: Residential  title 2
-      text: Residential  text 2
-      url: "/academics.html"
-      image: card.jpg
-    i3:
-      title: Residential  title 3
-      text: Residential  title 3
-      url: "/academics.html"
-      image: card.jpg
-    i4:
-      title: Residential  title 4
-      text: Residential  text 3
-      url: "/academics.html"
-      image: card.jpg
+    title: Resi Title 1
+    text: Textbgvfcxccfgvbhnm,
+    cards:
+      i1:
+        title: 'card 1 '
+        text: ".;l,jnhbgvfvghjm,hjbnm"
+        url: "/academics.html"
+        image: card.jpg
 layout: residental-system
 ---
 
