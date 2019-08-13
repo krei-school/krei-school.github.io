@@ -37,13 +37,13 @@ selectors:
   - id: state2
     name: Telangana
     districts:
-    - id: district1
+    - id: district7
       name: Mahaboobnagar
-    - id: district2
+    - id: district8
       name: Medchal
-    - id: district3
+    - id: district9
       name: Ranga Reddy
-    - id: district4
+    - id: district10
       name: Sangareddy
 branches:
 - title: AMPOLU
