@@ -83,7 +83,7 @@ sections:
       body weight.
     image: residental-section6.jpg
   i7:
-    title: Infrastructure
+    title: Care
     text: Enjoy plenty of fruits and vegetables. Reduce salt and sugar intake. Eat
       regularly, control the portion size. Drink plenty of fluids. Maintain a healthy
       body weight.
