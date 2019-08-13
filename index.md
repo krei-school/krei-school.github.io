@@ -27,9 +27,9 @@ sections:
   i2:
     title: Testimonials
     testimonials:
-    - text: |-
-        Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-        Ut in ligula quis lorem sagittis rhoncus.
+    - text: "My school is truly a magnificent learning institution that stands head
+        & shoulders \nabove the rest. It makes learning fun, and produces students
+        of the highest quality. \n"
       person: Bibendum Orci
       position: sagittis
       image: testimony_person.jpg
