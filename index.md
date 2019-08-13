@@ -29,27 +29,35 @@ sections:
     testimonials:
     - text: "My school is truly a magnificent learning institution that stands head
         & shoulders \nabove the rest. It makes learning fun, and produces students
-        of the highest quality. \n"
+        of the highest quality.Faculty is the best asset the school has got, the amount
+        of effort they put in nurturing each student and the dedication, is priceless.
+        \n\n"
       person: Alekhya
       position: X Student
       image: testimony_person.jpg
     - text: "My school is truly a magnificent learning institution that stands head
         & shoulders \nabove the rest. It makes learning fun, and produces students
-        of the highest quality. "
+        of the highest quality.Faculty is the best asset the school has got, the amount
+        of effort they put in nurturing each student and the dedication, is priceless.
+        \n "
       person: Nikhita
-      position: sagittis
+      position: VIII Student
       image: testimony_person.jpg
     - text: "My school is truly a magnificent learning institution that stands head
         & shoulders \nabove the rest. It makes learning fun, and produces students
-        of the highest quality. "
+        of the highest quality.Faculty is the best asset the school has got, the amount
+        of effort they put in nurturing each student and the dedication, is priceless.
+        \n "
       person: Harsha
-      position: sagittis
+      position: X student
       image: testimony_person.jpg
-    - text: |-
-        Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-        Ut in ligula quis lorem sagittis rhoncus.
-      person: Bibendum Orci
-      position: sagittis
+    - text: "My school is truly a magnificent learning institution that stands head
+        & shoulders \nabove the rest. It makes learning fun, and produces students
+        of the highest quality.Faculty is the best asset the school has got, the amount
+        of effort they put in nurturing each student and the dedication, is priceless.
+        \n "
+      person: Sai Charan
+      position: IX student
       image: testimony_person.jpg
   i3:
     title: Updates
