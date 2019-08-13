@@ -147,7 +147,7 @@ branches:
   - card2.jpg
   selectorID:
     state: state1
-    district: Anantapur
+    district: district1
     type: Residential
   text: H.No:26-69,KESHAVA REDDY EM SCHOOL,CHITTARI STREET-518001.
   phone: 1234
@@ -238,7 +238,7 @@ branches:
   - card2.jpg
   selectorID:
     state: state1
-    district: Anantapur
+    district: district1
     type: Residential
   text: KESHAVA REDDY SCHOOL, MARUTHI NAGAR,ANANTAPUR, PIN -515004.
   phone: 1234
@@ -387,7 +387,7 @@ branches:
   - card2.jpg
   selectorID:
     state: state1
-    district: Anantapur
+    district: district1
     type: Residential
   text: KESHAVA REDDY SCHOOL,6th CROSS SAI NAGAR,ANANTAPUR.PIN - 515004.
   phone: 1234
@@ -440,7 +440,7 @@ branches:
   - card2.jpg
   selectorID:
     state: state1
-    district: Anantapur
+    district: district1
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,VADIYAMPETA (V & P),Bukkarayasamudram (M),Anantapur
     (Dist), PIN – 515731.
