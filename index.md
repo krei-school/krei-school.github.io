@@ -23,7 +23,7 @@ sections:
       examinations present a true reflection of the strength of this foundation. The
       beyond corporate infrastructure and facilities here have helped in singling
       them out in the arena of IIT & Medicine Foundation..
-    video: https://www.youtube.com/embed/watch?v=hNQFjqDvPhA&list=PLx-qGAzjv13c00FYZMLAJm65WjsT3ZmDR
+    video: https://www.youtube.com/embed/VfltqSBVX80?v=hNQFjqDvPhA&list=PLx-qGAzjv13c00FYZMLAJm65WjsT3ZmDR
   i2:
     title: Testimonials
     testimonials:
