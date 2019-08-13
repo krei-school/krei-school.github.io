@@ -122,6 +122,17 @@ sections:
     - residential-section8.jpg
     - residential-section8.jpg
     - residential-section8.jpg
+  i9:
+    title: Activities
+    cards:
+      i1:
+        title: Schedule
+        text: Schedule
+        image: 
+      i2:
+        title: Sports and Games
+        text: Sports
+        image: 
 layout: residental-system
 ---
 
