@@ -83,13 +83,30 @@ sections:
       body weight.
     image: residental-section6.jpg
   i7:
-    title: Resi Title 1
-    text: Textbgvfcxccfgvbhnm,
+    title: Infrastructure
+    text: Enjoy plenty of fruits and vegetables. Reduce salt and sugar intake. Eat
+      regularly, control the portion size. Drink plenty of fluids. Maintain a healthy
+      body weight.
     cards:
       i1:
         title: 'card 1 '
         text: ".;l,jnhbgvfvghjm,hjbnm"
         url: "/academics.html"
+        image: card.jpg
+      i2:
+        title: 
+        text: 
+        url: 
+        image: card.jpg
+      i3:
+        title: 
+        text: 
+        url: 
+        image: card.jpg
+      i4:
+        title: 
+        text: 
+        url: 
         image: card.jpg
 layout: residental-system
 ---
