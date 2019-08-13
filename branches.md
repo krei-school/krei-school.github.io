@@ -13,11 +13,11 @@ sections:
 selectors:
   type:
   - id: type1
-    name: Type 1
+    name: Residential
   - id: type2
-    name: Type 2
+    name: Day Scholars
   - id: type3
-    name: Type 3
+    name: Semi-Residential
   states:
   - id: state1
     name: Andhra Pradesh
@@ -30,8 +30,8 @@ selectors:
       name: Srikakulam
     - id: district4
       name: Anantapur
-    - id: 
-      name: 
+    - id: district4
+      name: Chittor
   - id: state2
     name: Telangana
     districts:
