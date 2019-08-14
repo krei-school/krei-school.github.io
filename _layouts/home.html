@@ -10,57 +10,60 @@ layout: default
 </header>
 <main style="overflow: visible">
     <section id="section1" class="about-area pb-60 60" style="overflow: hidden">
+        <div class="container pt-50">
+            <div class="row">
+                <div class="col-xl-12 text-center mb-40">
+                    <div class="section-title service-title">
+                        <h2>{{page.sections.i1.title}}</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 col-lg-6 mb-40">
+                <div class="about-content">
+                    <p>
+                        {{page.sections.i1.cards.i1.text | newline_to_br}}
+                    </p>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-6 mb-20 md-margin">
+                <div class="row">
+                    <div class="col-xl-6 col-md-6 mb-20">
+                        <div class="jkl-home-about-img" >
+                            <img src="{{site.baseurl}}/assets/images/{{page.sections.i1.cards.i1.image1}}" class="img-fluid" alt="">
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-md-6 mb-20">
+                        <div class="jkl-home-about-img">
+                            <img src="{{site.baseurl}}/assets/images/{{page.sections.i1.cards.i1.image2}}" class="img-fluid" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
         <div class="container">
         <div class="row pt-60">
             <div class="col-xl-6 col-lg-6 mb-20 md-margin" >
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item"
-                            src="{{page.sections.i1.video}}"
+                            src="{{page.sections.i1.cards.i2.video}}"
                             allowfullscreen></iframe>
                 </div>
             </div>
 
             <div class="col-xl-6 col-lg-6 mb-40" >
-                <div class="section-title">
-                    <h2>{{page.sections.i1.title}}</h2>
-                </div>
                 <div class="about-content">
-                    <p>{{page.sections.i1.text | newline_to_br}}</p>
+                    <p>{{page.sections.i1.cards.i2.text | newline_to_br}}</p>
                 </div>
             </div>
 
         </div>
         </div>
-        <!--  Old About US
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 mb-40">
-                            <div class="section-title">
-                                <h2>{{page.sections.i1.title}}</h2>
-                            </div>
-                            <div class="about-content">
-                                <p>
-                                    {{page.sections.i1.text | newline_to_br}}
-                                </p>
-                  </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 mb-20 md-margin">
-                            <div class="row">
-                                <div class="col-xl-6 col-md-6 mb-20">
-                                    <div class="jkl-home-about-img">
-                                        <img src="{{site.baseurl}}/assets/images/home-section1-img1.jpg" class="img-fluid" alt="">
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 col-md-6 mb-20">
-                                    <div class="jkl-home-about-img">
-                                        <img src="{{site.baseurl}}/assets/images/home-section1-img2.jpg" class="img-fluid" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                -->
+
     </section>
 <!--
     <section id="section2"  style="overflow: hidden">
