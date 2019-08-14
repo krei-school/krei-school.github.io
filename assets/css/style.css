@@ -1149,7 +1149,7 @@ main {
 .shadow-effect .img-center img {
     display: block;
     width: 150px !important;
-    height: 150px;
+    height: 150px !important;
     margin: auto;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -1338,5 +1338,43 @@ main {
         top: -40px;
         margin-right: 65%;
         text-shadow: 0 1px 0 #fff;
+    }
+}
+
+
+
+@media (max-width: 767.98px) {
+    .big-title {
+        position: relative;
+        font-size: 15px;
+        line-height: 28px;
+        font-weight: 600;
+        margin-bottom: 36px;
+        margin-bottom: 5%;
+        padding: 0;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .img-center {
+        display: block;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .shadow-effect {
+        margin: 0;
+        padding: 0;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .shadow-effect .img-center img {
+        margin: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border-radius: 50%;
     }
 }
