@@ -14,7 +14,7 @@ defaults:
     type: posts
   values:
     page_title: Updates
-google_maps_api: AIzaSyAT-pBv8URWztGRwHMzSxCbjExKbU9LFzg
+google_maps_api: AIzaSyBG9k6FO2Cfri67hsJuO3x8PfyJ4TK8I3M
 plugins:
 - jekyll-paginate
 paginate: 10
