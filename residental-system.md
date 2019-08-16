@@ -182,57 +182,70 @@ sections:
         Ut in ligula quis lorem sagittis rhoncus.
       image: residential-section10-card6.jpg
   i11:
-    title: 
-    text: 
+    title: Keshava Reddy Campuses
+    text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare. Ut
+      in ligula quis lorem sagittis rhoncus.
     cards:
       i1:
-        title: 
-        text: 
-        image: 1
+        title: Keshava Reddy Campuses
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: student-life-section11-card1.jpg
       i2:
-        title: 
-        text: 
-        image: 2
+        title: Keshava Reddy Campuses
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: student-life-section11-card2.jpg
       i3:
-        title: 
-        text: 
-        image: 3
+        title: Keshava Reddy Campuses
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: student-life-section11-card3.jpg
       i4:
-        title: 
-        text: 
-        image: 4
+        title: Keshava Reddy Campuses
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: student-life-section11-card4.jpg
       i5:
-        title: 
-        text: 
-        image: 5
+        title: Keshava Reddy Campuses
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: student-life-section11-card5.jpg
       i6:
-        title: 
-        text: 
-        image: 6
+        title: Keshava Reddy Campuses
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: student-life-section11-card6.jpg
       i7:
-        title: 
-        text: 
-        image: 7
+        title: Keshava Reddy Campuses
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: student-life-section11-card7.jpg
       i8:
-        title: 
-        text: 
-        image: 8
+        title: Keshava Reddy Campuses
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: student-life-section11-card8.jpg
       i9:
-        title: 
-        text: 
-        image: 9
+        title: Keshava Reddy Campuses
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: student-life-section11-card9.jpg
       i10:
-        title: 
-        text: 
-        image: 10
+        title: Keshava Reddy Campuses
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: student-life-section11-card10.jpg
       i11:
-        title: 
-        text: 
-        image: 11
+        title: Keshava Reddy Campuses
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: student-life-section11-card11.jpg
       i12:
-        title: 
-        text: 
-        image: 12
+        title: Keshava Reddy Campuses
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: student-life-section11-card12.jpg
 layout: residental-system
 ---
 
