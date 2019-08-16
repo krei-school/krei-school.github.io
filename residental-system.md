@@ -190,7 +190,7 @@ sections:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: student-life-section11-card1.jpg
+        image: residential-section11-card1.jpg
       i2:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
