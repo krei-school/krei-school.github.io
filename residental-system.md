@@ -137,7 +137,7 @@ sections:
           nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
         image: residential-section9.jpg
       i2:
-        title: Sports and Games
+        title: Personal Guidance
         text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
           nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
           Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
