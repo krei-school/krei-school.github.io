@@ -181,6 +181,58 @@ sections:
       text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
         Ut in ligula quis lorem sagittis rhoncus.
       image: residential-section10-card6.jpg
+  i11:
+    title: 
+    text: 
+    cards:
+      i1:
+        title: 
+        text: 
+        image: 1
+      i2:
+        title: 
+        text: 
+        image: 2
+      i3:
+        title: 
+        text: 
+        image: 3
+      i4:
+        title: 
+        text: 
+        image: 4
+      i5:
+        title: 
+        text: 
+        image: 5
+      i6:
+        title: 
+        text: 
+        image: 6
+      i7:
+        title: 
+        text: 
+        image: 7
+      i8:
+        title: 
+        text: 
+        image: 8
+      i9:
+        title: 
+        text: 
+        image: 9
+      i10:
+        title: 
+        text: 
+        image: 10
+      i11:
+        title: 
+        text: 
+        image: 11
+      i12:
+        title: 
+        text: 
+        image: 12
 layout: residental-system
 ---
 
