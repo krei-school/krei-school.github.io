@@ -122,6 +122,41 @@ sections:
       nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
       quis, sem. Nulla consequat massa quis enim."
     image: academics-section7.jpg
+  i8:
+    title: Labs and ICT
+    text: Quisque vestibulum metus vel erat ornare, nec venenatis odio tempus. Aenean
+      nec lectus vitae justo maximus tincidunt quis sed metusble.
+    cards:
+      i1:
+        title: Praesent malesuada placerat
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: academics-section8-card1.jpg
+      i2:
+        title: Praesent malesuada placerat
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: academics-section8-card2.jpg
+      i3:
+        title: Praesent malesuada placerat
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: academics-section8-card3.jpg
+      i4:
+        title: Praesent malesuada placerat
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: academics-section8-card4.jpg
+      i5:
+        title: Praesent malesuada placerat
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: academics-section8-card5.jpg
+      i6:
+        title: Praesent malesuada placerat
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: academics-section8-card6.jpg
 layout: academics
 ---
 
