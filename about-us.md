@@ -30,7 +30,7 @@ sections:
         title2: Founder
         text: "“Excellence through Education” Excellence means perfection. Doing a
           thing in a perfect manner gains the attention as well as the commendation
-          of the world. "
+          of the world.  "
         image: about-us-section3-card1.jpg
       i2:
         title1: Bharath Reddy
