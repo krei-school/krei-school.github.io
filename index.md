@@ -16,6 +16,14 @@ sliders:
     title: All Round Development
     desc: Stress Free Education and All round Development
     url: "/about-us.html"
+  i4:
+    title: Infrastructure 1
+    desc: The Best Infrastructure 1
+    url: "/about-us.html"
+  i5:
+    title: Infrastructure 2
+    desc: The Best Infrastructure 2
+    url: "/about-us.html"
 sections:
   i1:
     title: About Us
