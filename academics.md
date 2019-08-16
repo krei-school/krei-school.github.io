@@ -63,7 +63,7 @@ sections:
           ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
           dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
           nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
-        image: academics-section2.jpg
+        image: academics-section3-card3.jpg
   i4:
     title: Labs and ICT
     text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
