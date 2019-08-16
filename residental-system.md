@@ -177,10 +177,11 @@ sections:
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
         image: residential-section10-card1.jpg
-      title: Praesent malesuada placerat
-      text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-        Ut in ligula quis lorem sagittis rhoncus.
-      image: residential-section10-card1.jpg
+      i6:
+        title: Praesent malesuada placerat
+        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
+          Ut in ligula quis lorem sagittis rhoncus.
+        image: residential-section10-card1.jpg
   i11:
     title: Keshava Reddy Campuses
     text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare. Ut
