@@ -27,14 +27,14 @@ sections:
     cards:
       i1:
         title1: Keshava Reddy
-        title2: Founder
+        title2: Founder and Chairman
         text: "“Excellence through Education” Excellence means perfection. Doing a
           thing in a perfect manner gains the attention as well as the commendation
           of the world.  "
         image: about-us-section3-card1.jpg
       i2:
         title1: Bharath Reddy
-        title2: 'Chairman '
+        title2: Director
         text: "“Excellence through Education” Excellence means perfection. Doing a
           thing in a perfect manner gains the attention as well as the commendation
           of the world."
