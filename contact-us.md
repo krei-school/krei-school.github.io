@@ -5,7 +5,7 @@ sections:
   i1:
     cards:
       i1:
-        title: Contact 1
+        title: Contact
         address: |-
           Keshava Reddy Educational Institutions
           Venkata Ramana Colony,
