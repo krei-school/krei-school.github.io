@@ -1378,3 +1378,11 @@ main {
         border-radius: 50%;
     }
 }
+
+
+
+// fixes
+main.contact-us #section2{
+    height:500px;
+}
+
