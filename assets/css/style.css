@@ -1382,7 +1382,7 @@ main {
 
 
 /* fixes */
-main.contact-us #section2{
+main.contact-us #section2>div{
     height:500px;
 }
 
