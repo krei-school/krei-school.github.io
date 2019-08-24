@@ -1385,9 +1385,9 @@ main {
 
 
 /* fixes */
-/* main.contact-us #section2>div{
-    height:500px;
-} */
+main.contact-us .bg-contact *{
+    color:#fff !important;
+}
 html body .freebirdFormviewerViewFormCard:first-of-type{
     box-shadow: none;
 }
