@@ -1385,11 +1385,14 @@ main {
 
 
 /* fixes */
-main.contact-us .bg-contact *{
+/* main.contact-us .bg-contact *{
     color:#fff !important;
+} */
+main.contact-us .jkl-contact-us-bg{
+    background-image: none;
 }
-html body .freebirdFormviewerViewFormCard:first-of-type{
+/* html body .freebirdFormviewerViewFormCard:first-of-type{
     box-shadow: none;
-}
+} */
 
 
