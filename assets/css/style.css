@@ -1388,4 +1388,8 @@ main {
 main.contact-us #section2>div{
     height:500px;
 }
+html body .freebirdFormviewerViewFormCard:first-of-type{
+    box-shadow: none;
+}
+
 
