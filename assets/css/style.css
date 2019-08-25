@@ -662,6 +662,8 @@ ul {
     font-weight: 700;
     line-height: .9;
     color: white;
+    position: relative;
+    display: inline-block;
 }
 .jkl-home-about-info-white-text h2:before{
      text-align: center;
