@@ -1396,7 +1396,7 @@ main {
     }
     .row.branch-cards .col-xl-6.col-lg-6.col-md-6.col-sm-12.align-self-center.text-center{
         float:left;
-        height:210px;
+        padding-bottom: 10px;
     }
 }
 
