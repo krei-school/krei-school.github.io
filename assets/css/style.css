@@ -1388,8 +1388,9 @@ main {
         padding-top:0;
     }
     .jkl-footer-logo{        
-        padding-left: 35%;
-        padding-top:100%;
+        padding-left: 0;
+        top: 20%;
+        opacity: 0.5;
     }
 }
 
