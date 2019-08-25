@@ -663,7 +663,18 @@ ul {
     line-height: .9;
     color: white;
 }
-
+.jkl-home-about-info-white-text h2:before{
+     text-align: center;
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 80px;
+    height: 2px;
+    background: #ff5e14;
+    bottom: -15px;
+    right: 0;
+    margin: auto;
+}
 
 
 .about-info-text p {
