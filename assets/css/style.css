@@ -606,7 +606,7 @@ ul {
 .section-title h2 {
     position: relative;
     margin-bottom: 45px;
-/*     display: inline-block; */
+    display: block;
     font-weight: 600;
     line-height: 1;
     text-align: center;
