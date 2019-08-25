@@ -1390,7 +1390,7 @@ main {
     main>section.grey-bg:first-child>.container-fluid.pt-50{
         padding-top:0;
     }
-    .row.m-0>.col-xl-6.col-lg-6.col-md-6.col-sm-12.p-0.text-center>a{
+    .row.m-0>.col-xl-6.col-lg-6.col-md-6.col-sm-12.p-0.text-center>a[role='button']{
          height: auto;
          float: left;
     }
