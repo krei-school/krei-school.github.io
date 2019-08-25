@@ -1397,4 +1397,13 @@ main.contact-us .jkl-contact-us-bg{
 main.contact-us #section1{
    background-image: linear-gradient(#F8F9FA, #fff);
 }
+ html body .quantumWizTextinputPaperinputMainContent{
+     height:auto;
+}
+ html body .freebirdFormviewerViewHeaderHeader{
+    margin-bottom:0;
+}
+html body .freebirdFormviewerViewHeaderTitle, html body .freebirdFormviewerViewItemsItemItemTitle{
+    line-height: 18px;
+}
 
