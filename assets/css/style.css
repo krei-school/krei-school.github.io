@@ -1372,6 +1372,10 @@ main {
     main>section.grey-bg:first-child>.container-fluid.pt-50{
         padding-top:0;
     }
+    .jkl-footer-logo{
+        position: relative;
+        padding-left: 0;
+    }
 }
 
 
