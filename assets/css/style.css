@@ -691,7 +691,7 @@ ul {
     font-size: 14px;
     margin-bottom: 26px;
     color: #f6f6f6;
-    text-center: center;
+    text-align: center;
 }
 
 .about-content p {
@@ -1241,6 +1241,19 @@ main {
 
 .testi-without-image p h4 span {
     margin-top: 25%;
+}
+
+.jkl-footer-widget-heading h2:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -15px;
+    height: 2px;
+    width: 50px;
+    background: #ff5e14;
+}
+.jkl-footer-widget-heading h2{
+    margin-bottom:25px;
 }
 
 .big-title::before {
