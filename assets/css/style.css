@@ -614,13 +614,23 @@ ul {
     margin-bottom: 15px;
 }
 .section-title h2::before {
-    content: "";
+   /* content: "";
     position: absolute;
     left: 0;
     width: 60px;
     height: 2px;
     background: #ff5e14;
-    bottom: -25px;
+    bottom: -25px;*/
+    text-align: center;
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 80px;
+    height: 2px;
+    background: #ff5e14;
+    bottom: -15px;
+    right: 0;
+    margin: auto;
 }
 .service-title h2::before {
     content: "";
