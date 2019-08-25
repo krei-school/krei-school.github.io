@@ -606,9 +606,10 @@ ul {
 .section-title h2 {
     position: relative;
     margin-bottom: 45px;
-    display: inline-block;
+/*     display: inline-block; */
     font-weight: 600;
     line-height: 1;
+    text-align: center;
 }
 .post-comments .section-title h2 {
     margin-bottom: 15px;
@@ -663,7 +664,8 @@ ul {
     line-height: .9;
     color: white;
     position: relative;
-    display: inline-block;
+    text-align:center;
+/*     display: inline-block; */
 }
 .jkl-home-about-info-white-text h2:before{
      text-align: center;
