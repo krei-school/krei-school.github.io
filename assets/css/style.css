@@ -1394,5 +1394,7 @@ main.contact-us .jkl-contact-us-bg{
 /* html body .freebirdFormviewerViewFormCard:first-of-type{
     box-shadow: none;
 } */
-
+main.contact-us #section1{
+   background-image: linear-gradient(#F8F9FA, #fff);
+}
 
