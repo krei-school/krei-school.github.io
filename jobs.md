@@ -54,6 +54,6 @@ sections:
         phone: "+91-9885722994"
   i2:
     url: https://docs.google.com/forms/d/e/1FAIpQLSdbrONDclCrMx0jCFl7Q31V3HzyaxpM_FO8RBhN5dZjgk4x8Q/viewform?embedded=true
-layout: contact-us
+layout: jobs
 ---
 
