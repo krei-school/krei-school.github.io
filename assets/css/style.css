@@ -537,6 +537,7 @@ ul {
 }
 .jkl-footer-logo {
     margin-bottom: 30px;
+    opacity: 0.5;
 }
 .jkl-footer-text p {
     margin-bottom: 14px;
