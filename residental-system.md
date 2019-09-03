@@ -137,7 +137,7 @@ sections:
           nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
         image: residential-section9.jpg
       i2:
-        title: Personal Guidance
+        title: Study Hours
         text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
           nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
           Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
@@ -146,7 +146,7 @@ sections:
           ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
           dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
           nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
-        image: residential-section9.jpg
+        image: residential-studyhours.jpg
   i10:
     title: Sports
     text: Quisque vestibulum metus vel erat ornare, nec venenatis odio tempus. Aenean
