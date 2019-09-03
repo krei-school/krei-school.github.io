@@ -7,7 +7,7 @@ sliders:
     desc: '25 years of excellence in Education. '
     url: "/about-us.html"
   i2:
-    title: Best SSC Results in 2 states consistently
+    title: Best SSC Results consistently
     desc: Be it in Ranking or grading system our students have been leading in both
       the states consistently.
     url: "/about-us.html"
