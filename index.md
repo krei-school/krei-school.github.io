@@ -4,25 +4,27 @@ page_title: Home
 sliders:
   i1:
     title: Excellence through Education
-    desc: 25 years of excellence in Education. Best Results in 2 states year on year
-      consistently
+    desc: '25 years of excellence in Education. '
     url: "/about-us.html"
   i2:
-    title: The Best Residential System
-    desc: The Best Residential System in 2 states. Largest chain of Residential Schools
-      in South India.Feels like Home and memorable Stay.
+    title: Best SSC Results in 2 states consistently
+    desc: Be it in Ranking or grading system our students have been leading in both
+      the states consistently.
     url: "/about-us.html"
   i3:
-    title: All Round Development
-    desc: Stress Free Education and All round Development
+    title: The Best Residential System
+    desc: The Best Residential System in 2 states. The largest chain of Residential
+      Schools in South India. Feels like Home and a memorable Stay.
     url: "/about-us.html"
   i4:
-    title: Infrastructure 1
-    desc: The Best Infrastructure 1
+    title: All Round Development
+    desc: Stress-free education and all-round development with sports, games, extra
+      & co-curricular activities.
     url: "/about-us.html"
   i5:
-    title: Infrastructure 2
-    desc: The Best Infrastructure 2
+    title: Best in class Infrastructure
+    desc: 'Clean, green and spacious campuses that provide the right kind of environment
+      for a complete education. '
     url: "/about-us.html"
 sections:
   i1:
