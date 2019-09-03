@@ -53,7 +53,7 @@ sections:
           www.keshavareddy.com
         phone: "+91-9885722994"
   i2:
-    url: https://docs.google.com/forms/d/e/1FAIpQLSdbrONDclCrMx0jCFl7Q31V3HzyaxpM_FO8RBhN5dZjgk4x8Q/viewform?embedded=true
+    url: https://docs.google.com/forms/d/e/1FAIpQLSdX9Aj5YmuBd5RVAMaYoTZa1E8KMV9YAmvuzDWQNUhIS_4rNQ/viewform?usp=sf_link
 layout: jobs
 ---
 
