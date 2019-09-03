@@ -119,9 +119,9 @@ sections:
       nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
       quis, sem. Nulla consequat massa quis enim."
     images:
-    - residential-section8.jpg
-    - residential-section8.jpg
-    - residential-section8.jpg
+    - residential-infrastructure1.jpg
+    - residential-infrastructure2.jpg
+    - residential-infrastructure3.jpg
   i9:
     title: Activities
     cards:
