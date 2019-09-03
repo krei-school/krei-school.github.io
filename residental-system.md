@@ -191,62 +191,62 @@ sections:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section11-card1.jpg
+        image: residential-campus1.jpg
       i2:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section11-card1.jpg
+        image: residential-campus2.jpg
       i3:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section11-card1.jpg
+        image: residential-campus3.jpg
       i4:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section11-card1.jpg
+        image: residential-campus4.jpg
       i5:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section11-card1.jpg
+        image: residential-campus5.jpg
       i6:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section11-card1.jpg
+        image: residential-campus6.jpg
       i7:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section11-card1.jpg
+        image: residential-campus7.jpg
       i8:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section11-card1.jpg
+        image: residential-campus8.jpg
       i9:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section11-card1.jpg
+        image: residential-campus9.jpg
       i10:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section11-card1.jpg
+        image: residential-campus10.jpg
       i11:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section11-card1.jpg
+        image: residential-campus11.jpg
       i12:
         title: Keshava Reddy Campuses
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section11-card1.jpg
+        image: residential-campus12.jpg
 layout: residental-system
 ---
 
