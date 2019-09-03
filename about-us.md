@@ -22,7 +22,7 @@ sections:
       showing rapid expansion every year to meet this overwhelming rush. Today the
       institutions flourishing with 42 esteemed campuses for this academic year owned
       and adorned of Keshava Reddy.
-    image: about-us-section1.jpg
+    image: about-us-section2.jpg
   i3:
     cards:
       i1:
