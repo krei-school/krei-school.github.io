@@ -64,18 +64,18 @@ sections:
         title: |-
           Total Area
           (Acres)
-        count: 5789
+        count: 167+
       i2:
         title: |-
-          Play Ground
+          Constructed Area
           (Sq.Ft)
-        count: 567444
+        count: 17 Lakhs
       i3:
-        title: Bus
-        count: 123
+        title: Residential Branches
+        count: 12
       i4:
-        title: Branches
-        count: 32
+        title: Residential Strength
+        count: 7000+
   i6:
     title: Caretaker System
     text: Enjoy plenty of fruits and vegetables. Reduce salt and sugar intake. Eat
