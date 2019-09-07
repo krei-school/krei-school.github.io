@@ -147,7 +147,7 @@ branches:
   - card2.jpg
   selectorID:
     state: state1
-    district: district1
+    district: district5
     type: Day Scholars
   text: H.No:26-69,KESHAVA REDDY EM SCHOOL,CHITTARI STREET-518001.
   phone: 1234
@@ -199,7 +199,7 @@ branches:
   - card2.jpg
   selectorID:
     state: state2
-    district: Sangareddy
+    district: district10
     type: Residential
   text: KESHAVA REDDY SCHOOL, NEAR IIT, KANDI VILLAGE, SANGAREDDY DIST., TELANGANA
   phone: 1234
