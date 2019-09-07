@@ -58,8 +58,8 @@ branches:
   text: KESHAVA REDDY CONCEPT SCHOOL,Rajiv Nagar (V), Singupuram (P), Srikakulam (M&Dist),
     PIN– 532185.
   phone: 9701344952
-  lat: 18.286657
-  long: 83.822422
+  lat: 18.327131
+  long: 83.952607
 - title: APPANAPALLY
   images:
   - card.jpg
@@ -71,8 +71,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY SCHOOL,APPANNAPALLI (V),MAHABOOBNAGAR (DIST)-509001.
   phone: "+91-9876543210"
-  lat: 16.763111
-  long: 78.085947
+  lat: 16.762779
+  long: 78.085956
 - title: ARASAVALLI
   images:
   - card.jpg
@@ -85,8 +85,8 @@ branches:
   text: KESHAVA REDDY CONCEPT SCHOOL,Kajipeta (V&P), Arasavalli Road, Near - Indira
     Vignan Bhavan,Srikakulam (M&Dist), PIN - 532001.
   phone: "+91-9876543210"
-  lat: 18.288578
-  long: 83.905411
+  lat: 18.288252
+  long: 83.905328
 - title: BACHUPALLY
   images:
   - card.jpg
@@ -99,8 +99,8 @@ branches:
   text: 'SURVEY NO: 56/B,KESHAVA REDDY E-LEARNING SCHOOL,INDRA NAGAR COLONY,BACHUPALLY
     (V&P),QUTHBULLAPUT (M),MEDCHAL (DIST.,)-500090.'
   phone: "+91-9876543210"
-  lat: 17.544538
-  long: 78.371962
+  lat: 17.544208
+  long: 78.371931
 - title: BALAJI COMPLEX
   images:
   - card.jpg
@@ -112,8 +112,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY SCHOOL,BALAJI COMPLEX,NANDYAL, KURNOOL (DIST)-518501.
   phone: "+91-9876543210"
-  lat: 15.840644
-  long: 78.0188
+  lat: 15.484246
+  long: 78.489891
 - title: CHANDRAGIRI
   images:
   - card.jpg
@@ -125,8 +125,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY RESIDENTIAL SCHOOL,THONDAVADA (V), CHANDRAGIRI (M),TIRUPATI-517101.
   phone: "+91-9876543210"
-  lat: 13.594799
-  long: 79.328333
+  lat: 13.594431
+  long: 79.328404
 - title: CHEVELLA
   images:
   - card.jpg
@@ -138,8 +138,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY SCHOOL, MANNEGUDA X ROAD, VIKARABAD, TELANGANA
   phone: 1234
-  lat: 17.351914
-  long: 77.976501
+  lat: 17.279025
+  long: 77.978911
 - title: CHITTARI STREET
   images:
   - card.jpg
@@ -151,8 +151,8 @@ branches:
     type: Residential
   text: H.No:26-69,KESHAVA REDDY EM SCHOOL,CHITTARI STREET-518001.
   phone: 1234
-  lat: 14.662741
-  long: 77.588662
+  lat: 15.825311
+  long: 78.053908
 - title: ETCHERLA
   images:
   - card.jpg
@@ -164,8 +164,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,Etcherla (P&M), Srikakulam (Dist.)- 532410.
   phone: 1234
-  lat: 18.283035
-  long: 83.821525
+  lat: 18.281523
+  long: 83.821666
 - title: HATHIRAMJI COLONY
   images:
   - card.jpg
@@ -177,8 +177,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY e-LEARNING SCHOOL,BAIRAGIPATTEDA,HATHIRAMJI COLONY, TIRUPATI-517507.
   phone: 1234
-  lat: 13.623232
-  long: 79.419585
+  lat: 13.62075
+  long: 79.41955
 - title: JAYA NAGAR
   images:
   - card.jpg
@@ -190,8 +190,8 @@ branches:
     type: Residential
   text: KESHAVAREDDY CONCEPT SCHOOL,JAYA NAGAR,TIRUPATI-517501.
   phone: 1234
-  lat: 13.627236
-  long: 79.431515
+  lat: 13.624644
+  long: 79.431527
 - title: KANDI
   images:
   - card.jpg
@@ -203,8 +203,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY SCHOOL, NEAR IIT, KANDI VILLAGE, SANGAREDDY DIST., TELANGANA
   phone: 1234
-  lat: 17.586241
-  long: 78.117397
+  lat: 17.586036
+  long: 78.117136
 - title: M R PALLI
   images:
   - card.jpg
@@ -216,8 +216,8 @@ branches:
     type: Residential
   text: KESHAVAREDDY CONCEPT SCHOOL,SANTHI NAGAR, M.R.PALLI, TIRUPATI-517502.
   phone: 1234
-  lat: 13.624399
-  long: 79.408083
+  lat: 13.621659
+  long: 79.408204
 - title: MAMANDUR
   images:
   - card.jpg
@@ -229,8 +229,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY SCHOOL,MAMANDUR (V&P),RENIGUTA (M), CHITTOOR (DIST)-517520.
   phone: 1234
-  lat: 13.781673
-  long: 79.421357
+  lat: 13.781382
+  long: 79.42135
 - title: MARUTHI NAGAR
   images:
   - card.jpg
@@ -242,8 +242,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY SCHOOL, MARUTHI NAGAR,ANANTAPUR, PIN -515004.
   phone: 1234
-  lat: 14.662741
-  long: 77.588662
+  lat: 14.662547
+  long: 77.588685
 - title: MEDAM STREET
   images:
   - card.jpg
@@ -256,8 +256,8 @@ branches:
   text: H.No:26-69, KESHAVA REDDY E.M. SCHOOL,MADAM VARI SATRAM,NEAR I TOWN POLICE
     STATION,KURNOOL- 518001.
   phone: 1234
-  lat: 15.840644
-  long: 78.0188
+  lat: 15.823131
+  long: 78.051525
 - title: MURUGANPALLI
   images:
   - card.jpg
@@ -269,8 +269,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,MURUGANIPALLI,CHITTOOR-517001.
   phone: 1234
-  lat: 13.781673
-  long: 79.421357
+  lat: 13.224571
+  long: 79.117641
 - title: NEW BALAJI COLONY
   images:
   - card.jpg
@@ -282,8 +282,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY CONCEPT SCHOOL,NEW BALAJI COLONY, CHITTOOR-517001.
   phone: 1234
-  lat: 13.214404
-  long: 79.091595
+  lat: 13.214294
+  long: 79.091606
 - title: NEW KRISHNA NAGAR
   images:
   - card.jpg
