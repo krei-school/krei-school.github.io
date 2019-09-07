@@ -295,8 +295,8 @@ branches:
     type: Residential
   text: H.No-78-8-A-5-1-B,KESHAVA REDDY E.M. SCHOOL,NEW KRISHNA NAGAR, KURNOOL- 518003.
   phone: 1234
-  lat: 15.840644
-  long: 78.0188
+  lat: 15.807175
+  long: 78.036986
 - title: NGOS KADAPA
   images:
   - card.jpg
@@ -308,8 +308,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY SCHOOL,OLD R.T.C. BYPASS ROAD,CHINNA CHOWK, KADAPA.-516002.
   phone: 1234
-  lat: 14.466425
-  long: 78.839822
+  lat: 14.466294
+  long: 78.839813
 - title: NGOS NANDYAL
   images:
   - card.jpg
@@ -321,8 +321,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY SCHOOL,NGO'S COLONY, NANDYAL,KURNOOL (DIST)-518502.
   phone: 1234
-  lat: 15.840644
-  long: 78.0188
+  lat: 15.466734
+  long: 78.488496
 - title: NIMMANAPALLI
   images:
   - card.jpg
@@ -335,8 +335,8 @@ branches:
   text: KESHAVA REDDY e-LEARNING SCHOOL,MACHIREDDYGARIPALLI,NIMMANAPALLI (M),MADANAPALLI,
     CHITTOOR (DIST)-517325.
   phone: 1234
-  lat: 13.781673
-  long: 79.421357
+  lat: 13.55415
+  long: 78.555926
 - title: OLD KRISHNA NAGAR
   images:
   - card.jpg
@@ -349,8 +349,8 @@ branches:
   text: H.No-80-128,KESHAVA REDDY E.M. SCHOOL,KRISHNA NAGAR,NEAR BIRLA GATE, KURNOOL-
     518003.
   phone: 1234
-  lat: 15.840644
-  long: 78.0188
+  lat: 15.812259
+  long: 78.035134
 - title: PANYAM
   images:
   - card.jpg
@@ -363,8 +363,8 @@ branches:
   text: KESHAVA REDDY SCHOOL,KESHAVAREDDYNAGAR,NERAWADA (P&V), PANYAM (M),KURNOOL
     (DIST)-518112.
   phone: 1234
-  lat: 15.840644
-  long: 78.0188
+  lat: 15.502613
+  long: 78.382731
 - title: RAJAHMUNDRY
   images:
   - card.jpg
@@ -376,8 +376,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY SCHOOL,N.H-5 ROAD, OPP. EANADU OFFICE, HUKUMPET (V), RAJAHMUNDRY-533107
   phone: 1234
-  lat: 16.980273
-  long: 81.797598
+  lat: 16.979191
+  long: 81.797178
 - title: SAI NAGAR
   images:
   - card.jpg
@@ -389,8 +389,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY SCHOOL,6th CROSS SAI NAGAR,ANANTAPUR.PIN - 515004.
   phone: 1234
-  lat: 14.673139
-  long: 77.601477
+  lat: 14.672874
+  long: 77.601465
 - title: SANKALBAGH
   images:
   - card.jpg
@@ -402,8 +402,8 @@ branches:
     type: Residential
   text: H.No-43-253-B-1-1,KESHAVA REDDY E.M. SCHOOL,SANKAL BAGH, KURNOOL- 518004.
   phone: 1234
-  lat: 15.840644
-  long: 78.0188
+  lat: 15.841663
+  long: 78.040451
 - title: SRI LAKSHMI NAGAR
   images:
   - card.jpg
@@ -416,8 +416,8 @@ branches:
   text: H.No-87-140-A,KESHAVA REDDY E.M. SCHOOL,OPP.GOVT. DEGREE COLLEGE FOR MEN,SRI
     LAKSHMI NAGAR, KURNOOL-518001.
   phone: 1234
-  lat: 15.840644
-  long: 78.0188
+  lat: 15.797772
+  long: 78.042785
 - title: V R COLONY
   images:
   - card.jpg
@@ -429,8 +429,8 @@ branches:
     type: Residential
   text: H.No:4-72-1,KESHAVA REDDY E.M. SCHOOL,VENKATA RAMANA COLONY,KURNOOL- 518004.
   phone: 1234
-  lat: 15.840644
-  long: 78.0188
+  lat: 15.838111
+  long: 78.019017
 - title: VADIYAMPETA
   images:
   - card.jpg
@@ -443,8 +443,8 @@ branches:
   text: KESHAVA REDDY CONCEPT SCHOOL,VADIYAMPETA (V & P),Bukkarayasamudram (M),Anantapur
     (Dist), PIN – 515731.
   phone: 1234
-  lat: 14.673139
-  long: 77.601477
+  lat: 14.763087
+  long: 77.600013
 - title: YERRAGUNTLA
   images:
   - card.jpg
@@ -456,8 +456,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY SCHOOL,YERRAGUNTLA ROAD, POTLADURTHI,PRODDATUR KADAPA (DIST)-516360.
   phone: 1234
-  lat: 14.669336
-  long: 78.543664
+  lat: 14.719857
+  long: 78.543017
 - title: YMR COLONY
   images:
   - card.jpg
@@ -469,8 +469,8 @@ branches:
     type: Residential
   text: KESHAVA REDDY SCHOOL,YMR COLONY, PRODDATUR,KADAPA (DIST).PINCODE-516360.
   phone: 1234
-  lat: 14.765218
-  long: 78.549286
+  lat: 14.763811
+  long: 78.549207
 layout: branches
 ---
 
