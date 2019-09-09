@@ -148,40 +148,10 @@ sections:
           nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
         image: residential-studyhours.jpg
   i10:
-    title: Sports
+    title: Hygiene
     text: Quisque vestibulum metus vel erat ornare, nec venenatis odio tempus. Aenean
       nec lectus vitae justo maximus tincidunt quis sed metusble.
-    cards:
-      i1:
-        title: Praesent malesuada placerat
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section10-card1.jpg
-      i2:
-        title: Praesent malesuada placerat
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section10-card1.jpg
-      i3:
-        title: Praesent malesuada placerat
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section10-card1.jpg
-      i4:
-        title: Praesent malesuada placerat
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section10-card1.jpg
-      i5:
-        title: Praesent malesuada placerat
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section10-card1.jpg
-      i6:
-        title: Praesent malesuada placerat
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
-        image: residential-section10-card1.jpg
+    image: residental-section10.jpg
   i11:
     title: Keshava Reddy Campuses
     text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare. Ut
