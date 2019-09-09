@@ -136,7 +136,7 @@ branches:
     state: state2
     district: district9
     type: type1
-  text: KESHAVA REDDY SCHOOL, MANNEGUDA X ROAD, VIKARABAD, TELANGANA
+  text: "MANNEGUDA X ROAD, \nVIKARABAD, \nTELANGANA"
   phone: 1234
   lat: 17.279025
   long: 77.978911
