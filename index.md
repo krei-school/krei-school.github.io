@@ -31,16 +31,23 @@ sections:
     title: About Us
     cards:
       i1:
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin
-          nibh in mi euismod, quis porta metus aliquam. Morbi non consectetur metus.
-          Aenean eu lectus augue. Duis vehicula diam sit amet arcu semper commodo.
-          Aenean vel sapien mollis odio elementum gravida. Aenean aliquam auctor nisl
-          sed pulvinar. Donec lobortis ex sodales urna pharetra suscipit.\n\nVivamus
-          mi lectus, interdum a enim vitae, lobortis mollis magna. Mauris facilisis
-          et dui sed dictum. Curabitur eget lobortis ex, id aliquam libero. Vivamus
-          sed dui commodo eros imperdiet aliquet id ut leo. Nullam commodo feugiat
-          quam, sed elementum orci commodo non. Vivamus consectetur quam a iaculis
-          fringilla. Aliquam erat volutpat. "
+        text: "Keshava reddy schools have been a pioneer in giving the best quality
+          education in both the states of Andhra Pradesh and Telangana. The schools
+          have humble beginnings in Rayalaseema where the first school was started
+          in Nandyal in 1993. Right now there are 32 branches spread across 10 districts
+          in both the Telugu states. 12 of these are residential campuses with best
+          in class infrastructure which provide just the right environment for happy
+          and healthy learning for the child. Our focus is also on exposing the child
+          to sports, games, extra & co-curricular activities to bring out innate talents
+          that make them all-rounders in life. \n \nWe understand and strongly believe
+          that each child’s learning needs are unique. That's why through our unique
+          Adoption program we ensure that each and every child is given individual
+          attention and care. Stress-free education on our campuses ensures that learning
+          becomes a joy rather than a burden for the child. Our continuously trained
+          faculty makes sure that the students have a strong grounding in the basics
+          and fundamentals of various subjects. The best results being achieved by
+          our students in SSC exams in both states every year bears testimony to our
+          vision of becoming the best provider of quality stress-free education.\n"
         image1: home-section1-img2.jpg
         image2: home-section1-img1.jpg
       i2:
