@@ -48,8 +48,7 @@ sections:
           and fundamentals of various subjects. The best results being achieved by
           our students in SSC exams in both states every year bears testimony to our
           vision of becoming the best provider of quality stress-free education.\n"
-        image1: home-section1-img2.jpg
-        image2: home-section1-img1.jpg
+        image: home-section1-img2.jpg
       i2:
         text: The sensational results of IIT and Medicine Foundation in various entrance
           examinations present a true reflection of the strength of this foundation.
