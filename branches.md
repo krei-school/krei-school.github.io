@@ -54,7 +54,7 @@ branches:
   selectorID:
     state: state1
     district: district6
-    type: Residential
+    type: type1
   text: KESHAVA REDDY CONCEPT SCHOOL,Rajiv Nagar (V), Singupuram (P), Srikakulam (M&Dist),
     PIN– 532185.
   phone: 9701344952
@@ -68,7 +68,7 @@ branches:
   selectorID:
     state: state2
     district: district7
-    type: Residential
+    type: type1
   text: KESHAVA REDDY SCHOOL,APPANNAPALLI (V),MAHABOOBNAGAR (DIST)-509001.
   phone: "+91-9876543210"
   lat: 16.762779
@@ -81,7 +81,7 @@ branches:
   selectorID:
     state: state1
     district: district6
-    type: Day Scholars
+    type: type2
   text: KESHAVA REDDY CONCEPT SCHOOL,Kajipeta (V&P), Arasavalli Road, Near - Indira
     Vignan Bhavan,Srikakulam (M&Dist), PIN - 532001.
   phone: "+91-9876543210"
@@ -95,7 +95,7 @@ branches:
   selectorID:
     state: state2
     district: district8
-    type: Residential
+    type: type1
   text: 'SURVEY NO: 56/B,KESHAVA REDDY E-LEARNING SCHOOL,INDRA NAGAR COLONY,BACHUPALLY
     (V&P),QUTHBULLAPUT (M),MEDCHAL (DIST.,)-500090.'
   phone: "+91-9876543210"
@@ -109,7 +109,7 @@ branches:
   selectorID:
     state: state1
     district: district5
-    type: Day Scholars
+    type: type2
   text: KESHAVA REDDY SCHOOL,BALAJI COMPLEX,NANDYAL, KURNOOL (DIST)-518501.
   phone: "+91-9876543210"
   lat: 15.484246
@@ -122,7 +122,7 @@ branches:
   selectorID:
     state: state1
     district: district2
-    type: Residential
+    type: type1
   text: KESHAVA REDDY RESIDENTIAL SCHOOL,THONDAVADA (V), CHANDRAGIRI (M),TIRUPATI-517101.
   phone: "+91-9876543210"
   lat: 13.594431
@@ -135,7 +135,7 @@ branches:
   selectorID:
     state: state2
     district: district9
-    type: Residential
+    type: type1
   text: KESHAVA REDDY SCHOOL, MANNEGUDA X ROAD, VIKARABAD, TELANGANA
   phone: 1234
   lat: 17.279025
@@ -148,7 +148,7 @@ branches:
   selectorID:
     state: state1
     district: district5
-    type: Day Scholars
+    type: type2
   text: H.No:26-69,KESHAVA REDDY EM SCHOOL,CHITTARI STREET-518001.
   phone: 1234
   lat: 15.825311
@@ -161,7 +161,7 @@ branches:
   selectorID:
     state: state1
     district: district6
-    type: Residential
+    type: type1
   text: KESHAVA REDDY CONCEPT SCHOOL,Etcherla (P&M), Srikakulam (Dist.)- 532410.
   phone: 1234
   lat: 18.281523
@@ -174,7 +174,7 @@ branches:
   selectorID:
     state: state1
     district: district2
-    type: Day Scholars
+    type: type2
   text: KESHAVA REDDY e-LEARNING SCHOOL,BAIRAGIPATTEDA,HATHIRAMJI COLONY, TIRUPATI-517507.
   phone: 1234
   lat: 13.62075
@@ -187,7 +187,7 @@ branches:
   selectorID:
     state: state1
     district: district2
-    type: Day Scholars
+    type: type2
   text: KESHAVAREDDY CONCEPT SCHOOL,JAYA NAGAR,TIRUPATI-517501.
   phone: 1234
   lat: 13.624644
@@ -200,7 +200,7 @@ branches:
   selectorID:
     state: state2
     district: district10
-    type: Residential
+    type: type1
   text: KESHAVA REDDY SCHOOL, NEAR IIT, KANDI VILLAGE, SANGAREDDY DIST., TELANGANA
   phone: 1234
   lat: 17.586036
@@ -213,7 +213,7 @@ branches:
   selectorID:
     state: state1
     district: district2
-    type: Day Scholars
+    type: type2
   text: KESHAVAREDDY CONCEPT SCHOOL,SANTHI NAGAR, M.R.PALLI, TIRUPATI-517502.
   phone: 1234
   lat: 13.621659
@@ -226,7 +226,7 @@ branches:
   selectorID:
     state: state1
     district: district2
-    type: Residential
+    type: type1
   text: KESHAVA REDDY SCHOOL,MAMANDUR (V&P),RENIGUTA (M), CHITTOOR (DIST)-517520.
   phone: 1234
   lat: 13.781382
@@ -239,7 +239,7 @@ branches:
   selectorID:
     state: state1
     district: district1
-    type: Day Scholars
+    type: type2
   text: KESHAVA REDDY SCHOOL, MARUTHI NAGAR,ANANTAPUR, PIN -515004.
   phone: 1234
   lat: 14.662547
@@ -252,7 +252,7 @@ branches:
   selectorID:
     state: state1
     district: district5
-    type: Day Scholars
+    type: type2
   text: H.No:26-69, KESHAVA REDDY E.M. SCHOOL,MADAM VARI SATRAM,NEAR I TOWN POLICE
     STATION,KURNOOL- 518001.
   phone: 1234
@@ -266,7 +266,7 @@ branches:
   selectorID:
     state: state1
     district: district2
-    type: Day Scholars
+    type: type2
   text: KESHAVA REDDY CONCEPT SCHOOL,MURUGANIPALLI,CHITTOOR-517001.
   phone: 1234
   lat: 13.224571
@@ -279,7 +279,7 @@ branches:
   selectorID:
     state: state1
     district: district2
-    type: Day Scholars
+    type: type2
   text: KESHAVA REDDY CONCEPT SCHOOL,NEW BALAJI COLONY, CHITTOOR-517001.
   phone: 1234
   lat: 13.214294
@@ -292,7 +292,7 @@ branches:
   selectorID:
     state: state1
     district: district5
-    type: Day Scholars
+    type: type2
   text: H.No-78-8-A-5-1-B,KESHAVA REDDY E.M. SCHOOL,NEW KRISHNA NAGAR, KURNOOL- 518003.
   phone: 1234
   lat: 15.807175
@@ -305,7 +305,7 @@ branches:
   selectorID:
     state: state1
     district: district4
-    type: Day Scholars
+    type: type2
   text: KESHAVA REDDY SCHOOL,OLD R.T.C. BYPASS ROAD,CHINNA CHOWK, KADAPA.-516002.
   phone: 1234
   lat: 14.466294
@@ -318,7 +318,7 @@ branches:
   selectorID:
     state: state1
     district: district5
-    type: Day Scholars
+    type: type2
   text: KESHAVA REDDY SCHOOL,NGO'S COLONY, NANDYAL,KURNOOL (DIST)-518502.
   phone: 1234
   lat: 15.466734
@@ -331,7 +331,7 @@ branches:
   selectorID:
     state: state1
     district: district2
-    type: Residential
+    type: type1
   text: KESHAVA REDDY e-LEARNING SCHOOL,MACHIREDDYGARIPALLI,NIMMANAPALLI (M),MADANAPALLI,
     CHITTOOR (DIST)-517325.
   phone: 1234
@@ -345,7 +345,7 @@ branches:
   selectorID:
     state: state1
     district: district5
-    type: Day Scholars
+    type: type2
   text: H.No-80-128,KESHAVA REDDY E.M. SCHOOL,KRISHNA NAGAR,NEAR BIRLA GATE, KURNOOL-
     518003.
   phone: 1234
@@ -359,7 +359,7 @@ branches:
   selectorID:
     state: state1
     district: district5
-    type: Residential
+    type: type1
   text: KESHAVA REDDY SCHOOL,KESHAVAREDDYNAGAR,NERAWADA (P&V), PANYAM (M),KURNOOL
     (DIST)-518112.
   phone: 1234
@@ -373,7 +373,7 @@ branches:
   selectorID:
     state: state1
     district: district3
-    type: Residential
+    type: type1
   text: KESHAVA REDDY SCHOOL,N.H-5 ROAD, OPP. EANADU OFFICE, HUKUMPET (V), RAJAHMUNDRY-533107
   phone: 1234
   lat: 16.979191
@@ -386,7 +386,7 @@ branches:
   selectorID:
     state: state1
     district: district1
-    type: Day Scholars
+    type: type2
   text: KESHAVA REDDY SCHOOL,6th CROSS SAI NAGAR,ANANTAPUR.PIN - 515004.
   phone: 1234
   lat: 14.672874
@@ -399,7 +399,7 @@ branches:
   selectorID:
     state: state1
     district: district5
-    type: Day Scholars
+    type: type2
   text: H.No-43-253-B-1-1,KESHAVA REDDY E.M. SCHOOL,SANKAL BAGH, KURNOOL- 518004.
   phone: 1234
   lat: 15.841663
@@ -412,7 +412,7 @@ branches:
   selectorID:
     state: state1
     district: district5
-    type: Day Scholars
+    type: type2
   text: H.No-87-140-A,KESHAVA REDDY E.M. SCHOOL,OPP.GOVT. DEGREE COLLEGE FOR MEN,SRI
     LAKSHMI NAGAR, KURNOOL-518001.
   phone: 1234
@@ -426,7 +426,7 @@ branches:
   selectorID:
     state: state1
     district: district5
-    type: Day Scholars
+    type: type2
   text: H.No:4-72-1,KESHAVA REDDY E.M. SCHOOL,VENKATA RAMANA COLONY,KURNOOL- 518004.
   phone: 1234
   lat: 15.838111
@@ -439,7 +439,7 @@ branches:
   selectorID:
     state: state1
     district: district1
-    type: Residential
+    type: type1
   text: KESHAVA REDDY CONCEPT SCHOOL,VADIYAMPETA (V & P),Bukkarayasamudram (M),Anantapur
     (Dist), PIN – 515731.
   phone: 1234
@@ -453,7 +453,7 @@ branches:
   selectorID:
     state: state1
     district: district4
-    type: Day Scholars
+    type: type2
   text: KESHAVA REDDY SCHOOL,YERRAGUNTLA ROAD, POTLADURTHI,PRODDATUR KADAPA (DIST)-516360.
   phone: 1234
   lat: 14.719857
@@ -466,7 +466,7 @@ branches:
   selectorID:
     state: state1
     district: district4
-    type: Day Scholars
+    type: type2
   text: KESHAVA REDDY SCHOOL,YMR COLONY, PRODDATUR,KADAPA (DIST).PINCODE-516360.
   phone: 1234
   lat: 14.763811
