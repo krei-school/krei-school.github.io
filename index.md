@@ -42,6 +42,7 @@ sections:
           quam, sed elementum orci commodo non. Vivamus consectetur quam a iaculis
           fringilla. Aliquam erat volutpat. "
         image1: home-section1-img2.jpg
+        image2: home-section1-img1.jpg
       i2:
         text: The sensational results of IIT and Medicine Foundation in various entrance
           examinations present a true reflection of the strength of this foundation.
