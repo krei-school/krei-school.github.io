@@ -52,7 +52,7 @@ sections:
           Ut in ligula quis lorem sagittis rhoncus.
         image: residental-section3-card6.jpg
   i4:
-    title: Security
+    title: Hygiene
     text: Securityis freedom from, or resilience against,potentialharm (or other unwantedcoercivechange)
       caused by others. Beneficiaries (technicallyreferents) of security may be of
       persons and social groups, objects and institutions, ecosystems or any other
