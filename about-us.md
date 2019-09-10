@@ -66,13 +66,16 @@ sections:
           through Education” is adopted.
   i4:
     title: Approach
-    text: "EDUCATION is a hidden treasure that can make a person prominent everywhere
-      providing all comforts and respects. In a simple manner EDUCATION only can make
-      NILs to be FULLs and Zeros to be Heroes. Taking this as a guideline, to make
-      the future citizens to be ahead in all dimensions, our management and the staff
-      have been working with the simple principles of sincerity and commitment, honoring
-      the demands of the parents, whose satisfaction is highly valued. \n                          -N.
-      Keshava Reddy, Founder and Chairman.\n"
+    text: 'Our approach to imparting education recognizes the importance of the principle
+      that each child is unique when it comes to learning capacities and needs. That''s
+      why we take utmost care in giving individualized attention and care to each
+      child. Our teachers are continuously trained every year through summer workshops
+      not only on the latest pedagogic methods but also on how to care for each and
+      every child. We also believe that healthy and happy learning happens in stress-free
+      environments. This we try to ensure through our spacious and green campuses
+      which provide just the right kind of environment that nurtures the young minds
+      where the adequate focus is also given to sports, games, arts and crafts learning,
+      yoga, meditation etc. '
 layout: about-us
 ---
 
