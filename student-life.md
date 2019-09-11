@@ -4,14 +4,22 @@ page_title: Student Life
 sections:
   i1:
     title: Adoption Program
-    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim."
+    text: "The adoption programme is the most prestigious programme which we implement
+      within our schools. As the name signifies every teacher ‘adopts’ around 15-20
+      students and assumes complete responsibility in taking care of students in academic
+      and behavioural matters. These adoption gurus regularly make calls on a fortnightly
+      basis to parents. Parents give feedback about the student on educational and
+      other behavioural issues that the children may be facing.  \n\nIn the area of
+      academics, individually tailored learning plans prepared and implemented by
+      the guru in coordination with the subject teacher and the parent. The progress
+      is tracked daily and communicated to the parent. Thus the trio of guru, parent
+      and subject teacher act as a supportive structure to the student.\n\nThe guru
+      also identifies the unique specific talents be it in sports, spelling bee, dance,
+      painting etc. in a child. He then carefully nurtures them in coordination with
+      the corresponding support staff. The guru in coordination with the parent also
+      constructively counsels the student on any behavioural issues that the child
+      may be facing. Thus through this programme, every student is given the individual
+      attention that they truly deserve."
     image: student-life-section1.jpg
   i2:
     cards:
