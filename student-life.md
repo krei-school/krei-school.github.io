@@ -64,8 +64,16 @@ sections:
         image: student-life-section2-card4.jpg
   i3:
     title: Sports
-    text: Quisque vestibulum metus vel erat ornare, nec venenatis odio tempus. Aenean
-      nec lectus vitae justo maximus tincidunt quis sed metusble.
+    text: "We strongly believe that student life within the campus should not be confined
+      to just the classrooms. Sports and Games bring many physical benefits to the
+      child. Apart from that, they also help in developing the qualities of team spirit,
+      leadership, respect for authority, mental alertness and boosts self-confidence.\n\nOur
+      spacious campuses and sports infrastructure within it provide ample opportunities
+      for students to excel in various sports. The school carefully nurtures any unique
+      talents that the child has, and they are encouraged to play in zonal/district/state
+      and national level sports competitions. Our schools have a good track record
+      of winning several district/ state and national level sports competitions over
+      the years.  "
     cards:
       i1:
         title: Praesent malesuada placerat
