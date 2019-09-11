@@ -44,14 +44,12 @@ sections:
         image: student-life-section2-card2.jpg
       i3:
         title: Interactive Classes
-        text: "Purus molestie, tempus massa quis, tempor urna. Nam nec nibh egestas,
-          rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer blandit,
-          massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum nibh
-          sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-          ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
-          eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-          montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque
-          eu, pretium quis, sem. Nulla consequat massa quis enim."
+        text: Interactive classes are conducted on the campuses, unlike other schools.
+          A healthy learning environment is cultivated right from day one in which
+          the children are not afraid or feel inconvenienced at speaking up in the
+          classrooms out of hesitation or fear of ridicule. This approach helps in
+          clearing any doubts that the child may be having then and there itself apart
+          from developing self-confidence and self-esteem in them.
         image: student-life-section2-card3.jpg
       i4:
         title: Inclusive Class Room
