@@ -4,9 +4,18 @@ page_title: About Us
 sections:
   i1:
     title: History
-    text: |-
-      KESHAVA REDDY EDUCATIONAL INSTITUTIONS have always been known to be synonymous with success. Victory is a trend and tradition here, no matter whatever the battle be. The finest thing about this success is its consistency notonly in SSC but also in all the State and National Level Talent Search Examinations.
-      The success on the arena of SSC itself is the most echoing factor of the prevailing standards of Keshava Reddy Educational Institutions. Not just one, two or three ... but Fifteen students scored almost 600. The results speak for themselves. state top almost cleansweep for the past 4 SSC’s 95% of the students stood in Top A, B grades. Out of every three two got above 500 marks.
+    text: "Keshava Reddy Schools have been established with the vision of giving stress-free
+      quality education. The schools have its beginning in Nandyal where the first
+      campus was started in 1993 with 190 students. From such a humble start, we have
+      grown continuously over the years, and now our schools have 32 branches spread
+      across ten districts in both the Telugu states.\n \nOur educational institutions,
+      since inception, have become a pioneer in giving stress-free quality education
+      in our spacious and green campuses where every child is given adequate attention
+      and care. The top results achieved by our students in SSC exams every year bears
+      testimony to this fact.   \n \nOver 52000 students have passed out from our
+      schools since inception. Right now, the student strength in our campuses is
+      26500. Over 2000 trained faculty ensures that there a healthy and desired teacher-pupil
+      ratio."
     image: about-us-section1.jpg
   i2:
     title: Success Story
@@ -66,12 +75,12 @@ sections:
           through Education” is adopted.
   i4:
     title: Approach
-    text: 'Our approach to imparting education recognizes the importance of the principle
+    text: 'Our approach to imparting education recognises the importance of the principle
       that each child is unique when it comes to learning capacities and needs. That''s
-      why we take utmost care in giving individualized attention and care to each
+      why we take utmost care in giving individualised attention and care to each
       child. Our teachers are continuously trained every year through summer workshops
-      not only on the latest pedagogic methods but also on how to care for each and
-      every child. We also believe that healthy and happy learning happens in stress-free
+      not only on the latest pedagogical methods but also on how to care for each
+      child. We also believe that healthy and happy learning happens in stress-free
       environments. This we try to ensure through our spacious and green campuses
       which provide just the right kind of environment that nurtures the young minds
       where the adequate focus is also given to sports, games, arts and crafts learning,
