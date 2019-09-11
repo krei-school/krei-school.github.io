@@ -4,14 +4,17 @@ page_title: Academics
 sections:
   i1:
     title: Tender Smiles
-    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim."
+    text: "Tender smiles programme is our exclusive programme is for developing the
+      multiple intelligences among the cute tiny toddlers( nursery to 2nd class).
+      They learn essential competencies through activity-based experiential learning.
+      Ample scope and opportunities are provided for the child to express oneself,
+      which enhance the child's verbal and sentence forming skills. \n\nNecessary
+      numeracy skills are taught using various aids like number lines, number squares,
+      arrow cards, numicon, multilink cubes, clock face etc. Fundamental human and
+      social values like sharing, caring for others, respecting elders, being a team
+      player, about truth, love, fairness etc. are taught through moral stories, role
+      plays and group activities. Our mother teachers take care of the kids with tons
+      and tons of love."
     images:
     - academics-section1.jpg
     - academics-section1-1.jpg
@@ -32,26 +35,31 @@ sections:
     cards:
       i1:
         title: 10th Result Oriented
-        text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
-          nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
-          Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
-          ipsum nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin.
-          \n     \nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-          commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-          magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-          ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa
-          quis enim."
+        text: "Keshava Reddy schools have the unique distinction of being a top performer
+          in SSC board exams in both Andhra Pradesh and Telangana year on year consistently.
+          Every year, more than 90 % of our students have achieved grades of 9 and
+          above, with an average of 25% of the students securing 10/10 in all subjects.\n\nOur
+          trained and experienced faculty, practical approach and real-world examples
+          and scenarios, using ICT tools in teaching, continuous assessment of the
+          students and integrating feedback in the learning plans for students ensure
+          that the students have a solid foundation on various basics and concepts.
+          Particular focus is given on each student to identify the areas/concepts/subjects
+          where they are lagging, and tailor-made improvement plans are implemented.
+          \   "
         image: academics-section3-card1.jpg
       i2:
         title: IIT and NEET Foundation
-        text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
-          nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
-          Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
-          ipsum nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin.
-          \n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-          ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
-          nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+        text: "Our special IIT and NEET foundation course is top-rated among the student
+          community. Apart from covering the SSC board syllabus, various value-added
+          concepts are taught through our specially designed curricula and supplemental
+          study material designed by our IIT subject experts. The faculty in this
+          programme are trained every year by outside subject experts from premier
+          higher educational institutes like IITs and NITs.\n\nThis programme of ours
+          which starts from 6th standard gives the students the extra edge required
+          in Science and Maths to grasp the higher-level concepts which are taught
+          after completion of SSC. Students from this course have been consistently
+          doing better at the intermediate level and have been cracking IIT and NEET
+          exams successfully. "
         image: academics-section3-card2.jpg
       i3:
         title: SMS Program
@@ -66,28 +74,26 @@ sections:
         image: academics-section3-card3.jpg
   i4:
     title: Labs and ICT
-    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim."
+    text: Our well-equipped labs and libraries and the latest ICT tools and content
+      have been integral to our efforts in imparting the best education to the children.
     image: academics-section4.jpg
   i5:
     title: Communication Skills
     cards:
       i1:
         title: THE Program
-        text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
-          nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
-          Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
-          ipsum nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin.
-          \n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-          ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
-          nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+        text: "THE ( Telugu, Hindi, English) programme is designed to enhance the
+          reading levels of the students in all the three languages. As a first step,
+          the current level of reading skills of each student is evaluated by the
+          subject experts. Depending on this assessment every day the particular student
+          is made to read a particular selected paragraphs from the textbook in front
+          of the parents at home and also explain the meaning of it to the parent
+          and communicate the feedback to the subject teacher on a day to day basis.
+          This activity is done continuously until there is a perceptible change in
+          the reading levels of the students.  \n\nThus the parents are also made
+          stakeholders in this programme and are expected to play an active role.
+          The response from results in terms of improvements in reading levels of
+          students across the three languages has been great."
         image: academics-section5-card1.jpg
       i2:
         title: Spoken English
