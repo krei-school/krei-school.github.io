@@ -107,14 +107,10 @@ sections:
         image: student-life-section3-card6.jpg
   i4:
     title: Yoga and Meditation
-    text: Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin.  Lorem ipsum
-      dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-      Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim.
+    text: |-
+      Yoga and meditation have been closely correlated with the physical, mental and spiritual development of an individual. That is why we have included both these in our daily campus routines. Every day in the morning, there is a short 10-minute meditation session done by all the children and staff in the classroom.
+
+       Yoga classes are conducted twice per week for day scholars and daily in the morning for residential students. Apart from this, we also do summer yoga camps every year at the Bachupally campus.
     cards:
       i1:
         image: student-life-section4-card1.jpg
@@ -124,13 +120,12 @@ sections:
         image: student-life-section4-card3.jpg
   i5:
     title: 'Cultural and Extra Curricular Activities '
-    text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora
-      veritatis nemo aut ea iusto eos est expedita,quas ab adipisci. Maecenas tempus,
-      tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing
-      sem neque sed ipsum.Quisque blandit blandit purus vel pretium. Aenean at porta
-      justo. Sed vel massa enim. Nunc auctor, quam sed ultrices lacinia, tellus metus
-      sollicitudin dolor, id maximus erat mauris ac sem. Morbi ut lectus augue. Curabitur
-      vitae justo id odio fringilla viverra.
+    text: 'The benefits of extracurricular activities are many. Engaging in sports,
+      drama, painting, music, singing, dancing, debates etc. apart from providing
+      a productive break from study, they also help students to explore their interests
+      and help develop broader mental perspective, improve self-esteem, improve social
+      skills and networks, teach life skills outside the classroom. They also look
+      good on your admission applications to universities and resumes. '
     cards:
       i1:
         title: Praesent malesuada placerat
@@ -170,15 +165,17 @@ sections:
       nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. '
     cards:
       i1:
-        title: Personal Guidance
-        text: Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
-          nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
-          Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
-          ipsum nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin.
-          Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-          ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
-          nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+        title: Career Counselling
+        text: It's often the case that as we grow up what jobs /careers we are in
+          and what we are good at are not the same, which leads to frustration and
+          disenchantment. We believe that choosing a career path should be determined
+          by one's aptitude and interests rather than what careers are ticking in
+          the industry. Those who are fortunate in aligning their interests and vocations
+          have a deep sense of fulfilment and satisfaction in life. That's why every
+          year we conduct career counselling workshops to the outgoing 10th class
+          students in tie-up with an NGO called Nirmaan Organisation.  Wherein the
+          aptitudes and interests of students are explored and assessed, and we suggest
+          various career paths that are aligned.
         image: student-life-section6-card1.jpg
       i2:
         title: Talent Search
