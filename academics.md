@@ -97,36 +97,38 @@ sections:
         image: academics-section5-card1.jpg
       i2:
         title: Spoken English
-        text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
-          nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
-          Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
-          ipsum nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin.
-          \n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-          ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
-          nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+        text: "English clubs are created for each class to create awareness on the
+          importance of communication skills among the students. Various activities
+          are planned in these clubs which seek to enhance both the verbal and non-verbal
+          communication skills and remove stage fear. Team spirit and leadership qualities
+          are also inculcated among the students in these clubs. \n\nVarious activities
+          in these clubs include Picture talks, Sentence building races, Model conversations,
+          role plays, seminars, speeches,  discussions, debates, dramas, etc. These
+          clubs are organised by English teachers who regularly evaluate students
+          communication skills and presentation, give feedback and help students in
+          overcoming the obstacles of effective communication."
         image: academics-section5-card2.jpg
   i6:
     title: Calligraphy
-    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim."
+    text: "How one presents the knowledge in the exam is equally important to the
+      content one shows. Our calligraphy classes focus on improving the subtle nuances
+      of handwriting and conceptual drawings of the children. We have been a pioneer
+      in Andhra and Telangana in introducing these first of a kind calligraphy classes
+      across our campuses. \n\nMany of our previous students have a deep sense of
+      gratitude towards their alma-mater for moulding their handwriting so beautifully
+      in their formative years and for securing that little extra edge in the competitive
+      exams."
     image: academics-section6.jpg
   i7:
     title: Teacher Training
-    text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh
-      egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer
-      blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum
-      nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-      ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-      dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-      quis, sem. Nulla consequat massa quis enim."
+    text: "‘The pivot in education is the teacher … if the teacher improves, the education
+      system will improve’. We strongly believe in this. That's why every year we
+      conduct mandatory summer training workshops for all the teachers on our campuses.
+      \n\nThese workshops are done by outside educational experts who are well versed
+      in the latest developments in the teaching methods and methodologies. These
+      workshops also provide the opportunity for the faculty to stay up to date on
+      the latest happenings in their subjects. Our dedicated, knowledgeable and well-trained
+      faculty is indeed the strongest pillar of our institutions. "
     image: academics-section7.jpg
   i8:
     title: Labs and ICT
