@@ -31,14 +31,16 @@ sections:
         image: student-life-section2-card1.jpg
       i2:
         title: Innovative Learning
-        text: "Eget purus molestie, tempus massa quis, tempor urna. Nam nec nibh egestas,
-          rhoncus erat sed, ullamcorper justo. Etiam in euismod elit. Integer blandit,
-          massa a volutpat tempus, metus nisi lobortis nibh, at placerat ipsum nibh
-          sed sem. Cras fermentum velit et quam fermentum sollicitudin. \n\nLorem
-          ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
-          eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-          montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque
-          eu, pretium quis, sem. Nulla consequat massa quis enim."
+        text: Various approaches and strategies are used by teachers in our schools
+          so that learning is not just confined to the one way ‘ teacher teaching-
+          student listening’ approach. These include using real-life examples so that
+          the concepts are clearly understood, practical approach to learning, using
+          ICT tools in the delivery of teaching, conducting field trips related to
+          subject learning, encouraging students to participate in science fairs and
+          other competitions like Olympiads, intergroup competitions within the class
+          and also across the campuses, group discussions and debates on issues etc.
+          All these help the students in embracing a learning approach which is innovative,
+          voluntary and fun.
         image: student-life-section2-card2.jpg
       i3:
         title: Interactive Classes
