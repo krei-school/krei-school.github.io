@@ -821,6 +821,9 @@ img {
 .jkl-home-about-img img:hover {
     transform: scale(1.1);
 }
+.jkl-home-card-img {
+    text-align: center
+}
 
 .jkl-home-card-img img {
     transition: .3s;
