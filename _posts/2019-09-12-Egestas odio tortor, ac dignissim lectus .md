@@ -1,11 +1,11 @@
 ---
-title: roin egestas quis nisl consequat finibus.
+title: New Portal for Alumni is launched
 date: 2019-09-12 00:00:00 Z
 categories:
 - Alumni
 tags:
 - Alumni
-page_title: New Portal for Alumni is launched
+page_title: Connect with Alumni
 layout: post
 ---
 
