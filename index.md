@@ -48,10 +48,9 @@ sections:
       i2:
         text: "Q: Why Keshava Reddy?\nA: Our strengths and beliefs, which are:\nSerene
           and huge school campuses\nInnovative teaching with Quality teachers\nConcept
-          clear education\nUnique personal attention\nIIT and Medicine foundation\nChild-friendly
-          beginning\nActivity-based learning\nHomely residential life\nComfortable
-          hostel rooms\nComplete all-round development\n\nWatch our video for a glimpse
-          of what we do. "
+          clear education\nUnique personal attention\nIIT and Medicine foundation\nActivity-based
+          learning\nHomely residential life\nComplete all-round development\n\nWatch
+          our video for a glimpse of what we do. "
         video: https://www.youtube.com/embed/VfltqSBVX80?v=hNQFjqDvPhA&list=PLx-qGAzjv13c00FYZMLAJm65WjsT3ZmDR
   i2:
     title: Testimonials
