@@ -32,28 +32,26 @@ sections:
     cards:
       i1:
         text: "Keshava reddy schools have been a pioneer in giving the best quality
-          education in both the states of Andhra Pradesh and Telangana. The schools
-          have humble beginnings in Rayalaseema where the first school was started
-          in Nandyal in 1993. Right now there are 32 branches spread across 10 districts
-          in both the Telugu states. 12 of these are residential campuses with best
-          in class infrastructure which provide just the right environment for happy
-          and healthy learning for the child. Our focus is also on exposing the child
-          to sports, games, extra & co-curricular activities to bring out innate talents
-          that make them all-rounders in life. \n \nWe understand and strongly believe
-          that each child’s learning needs are unique. That's why through our unique
-          Adoption program we ensure that each and every child is given individual
-          attention and care. Stress-free education on our campuses ensures that learning
-          becomes a joy rather than a burden for the child. Our continuously trained
-          faculty makes sure that the students have a strong grounding in the basics
-          and fundamentals of various subjects. The best results being achieved by
-          our students in SSC exams in both states every year bears testimony to our
-          vision of becoming the best provider of quality stress-free education.\n"
+          education in both the states of Andhra Pradesh and Telangana.  Right now
+          there are 32 campuses spread across ten districts in both the Telugu states.
+          We have the best in class infrastructure, which provides just the right
+          environment for happy and healthy learning for the child. Our focus is also
+          on exposing the child to sports, games, extra & co-curricular activities
+          to bring out innate talents that make them all-rounders in life. \n \nStress-free
+          education on our campuses ensures that learning becomes a joy rather than
+          a burden for the child. Our continuously trained faculty makes sure that
+          the students have a firm grounding in the fundamentals of various subjects.
+          The best results being achieved by our students in SSC exams in both states
+          every year bears testimony to our vision of becoming the best provider of
+          quality stress-free education."
         image: home-section1-img2.jpg
       i2:
-        text: The sensational results of IIT and Medicine Foundation in various entrance
-          examinations present a true reflection of the strength of this foundation.
-          The beyond corporate infrastructure and facilities here have helped in singling
-          them out in the arena of IIT & Medicine Foundation..
+        text: "Q: Why Keshava Reddy?\nA: Our strengths and beliefs, which are:\nSerene
+          and huge school campuses\nInnovative teaching with Quality teachers\nConcept
+          clear education\nUnique personal attention\nIIT and Medicine foundation\nChild-friendly
+          beginning\nActivity-based learning\nHomely residential life\nComfortable
+          hostel rooms\nComplete all-round development\n\nWatch our video for a glimpse
+          of what we do. "
         video: https://www.youtube.com/embed/VfltqSBVX80?v=hNQFjqDvPhA&list=PLx-qGAzjv13c00FYZMLAJm65WjsT3ZmDR
   i2:
     title: Testimonials
