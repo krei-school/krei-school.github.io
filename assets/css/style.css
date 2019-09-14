@@ -1152,6 +1152,8 @@ main {
     background-size: cover;
     z-index:-1
 }
+
+/* job updates bg image */
 .jkl-jobs-updates-bg {
     position: absolute;
     top: 0px;
