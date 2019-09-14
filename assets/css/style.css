@@ -661,7 +661,7 @@ ul {
 
 .jkl-home-about-info-white-text h2 {
     margin-bottom: 23px;
-    padding-top: 23px;
+/*     padding-top: 23px; */
     text-transform: capitalize;
     font-weight: 700;
     line-height: .9;
