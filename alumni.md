@@ -1,13 +1,12 @@
 ---
 title: Alumini
-layout: alumni
 page_title: Alumni
 sections:
   i1:
     title: Keshava Reddy Alumni
     text: Keshava Reddy school has great tradition of having great Alumini. Men and
       women who have completed their studies, esp. at a college or university.
-    url: http://krs.vaave.com/
+    url: http://alumni.keshavareddy.com
     image: alumni-section1.jpg
   i2:
     title: Demo 4 Image Feature
@@ -39,5 +38,6 @@ sections:
           Ut in ligula quis lorem sagittis rhoncus.
         url: "/academics.html"
         image: card.jpg
+layout: alumni
 ---
 
