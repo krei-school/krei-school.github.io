@@ -45,7 +45,37 @@ layout: general_page
         </div>
     </section>
     
-     
+<section style="position:relative;" id="section3">
+        <div class="jkl-home-updates  d-flex align-items-center">
+            <div class="jkl-home-updates-bg"></div>
+            <div class="container-fluid">
+                <div class="container ">
+                    <div class="row">
+                        <div class="col-xl-12 text-center mb-40">
+                            <div class="jkl-home-about-info-white-text">
+                                <h2>{{page.sections.i3.title}}</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row jkl-home-update-container">
+
+                        {% for post in site.posts %}
+                        <div class="col-xl-12 home-update-entry">
+                            <span class="home-date">{{post.date |  date: "%d %b %y"  }}</span> <a href="{{post.url | prepend:site.baseurl}}"> - {{post.title}}</a>
+                        </div>
+                        {% endfor %}
+
+
+                        <div class="col-xl-7 d-flex flex-row-reverse" style="padding-top:10px;padding-bottom:20px">
+                            <a href="{{site.baseurl}}/updates/index.html"><<-- more -->></a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </section>     
 
 
 </main>
