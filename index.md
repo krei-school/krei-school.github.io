@@ -81,7 +81,7 @@ sections:
         all.
       person: Yamuna Ranga Sai K
       position: Batch 2000, Nandyal.
-      image: testimony_person.jpg
+      image: Yamuna.jpg
     - text: |-
         My school is truly a magnificent learning institution that stands head &amp; shoulders above the rest. It makes learning fun and produces students of the highest quality. Faculty is the best asset the school has got, the amount of effort they put in nurturing each student and the dedication, is priceless. The mere fact that all of my teachers still recognise me by name is enough to prove the care and attention they
         pay to an individual student. The strong foundation I had at the school has helped me a lot in my latter education. It made me stand out among others. The most important thing that my school taught me was ethics. I firmly believe that these qualities have to be inculcated in the school level of any child, my teachers have given more than what I could ask for, and I am indebted to them for life. It was here I learnt that the destination is not what that matters but the path you choose.
@@ -91,7 +91,7 @@ sections:
         management has got towards the students.
       person: Hari Kishan Reddy M
       position: Batch of 2001, Nandyal
-      image: testimony_person.jpg
+      image: Harikishan.jpg
     - text: |+
         I can proudly announce that this is the best school which is so student-friendly and gave good value for student's feedback. We use to feel it like a family sitting together and judging out what is best and what is not for the family. So I would rather call it a family than a school.  Keshava Reddy School is at its best in individual attention and care. Each student was specially treated, and their performances were taken care of.
 
