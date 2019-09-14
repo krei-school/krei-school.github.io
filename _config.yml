@@ -14,7 +14,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: jobs
+    type: posts
   values:
     page_title: Updates
 google_maps_api: AIzaSyBG9k6FO2Cfri67hsJuO3x8PfyJ4TK8I3M
