@@ -51,7 +51,7 @@ sections:
           clear education\nUnique personal attention\nIIT and Medicine foundation\nActivity-based
           learning\nHomely residential life\nComplete all-round development\n\nWatch
           our video for a glimpse of what we do. "
-        video: https://www.youtube.com/embed/VfltqSBVX80?v=hNQFjqDvPhA&list=PLx-qGAzjv13c00FYZMLAJm65WjsT3ZmDR
+        video: https://www.youtube.com/embed/VfltqSBVX80?autoplay=0&amp;rel=0&amp;enablejsapi=1
   i2:
     title: Testimonials
     testimonials:
