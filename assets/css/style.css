@@ -1152,6 +1152,19 @@ main {
     background-size: cover;
     z-index:-1
 }
+.jkl-jobs-updates-bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 160%;
+    background-image: url("../images/home-section7-bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index:-1
+}
 
 .jkl-updates-bg::before {
     position: absolute;
