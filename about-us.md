@@ -4,10 +4,18 @@ page_title: About Us
 sections:
   i1:
     title: History
-    text: |-
-      Keshava Reddy Schools have been established with the vision of giving stress-free quality education. The schools have its beginning in Nandyal where the first campus was started in 1993 with 190 students in rented premises. Having a bigger vision to provide quality infrastructure, schools were shifted into spacious, green and own premises.
-
-      From such a humble start, we have grown continuously over the years, from Nandyal to Kurnool, Tirupathi, Anantapur, Hyderabad, Mahabubnagar, Proddatur, Chittor, Kadapa, Madanapalle, Rajahmundry, Srikakulam, Guntur, and Vikarabad. Right now our schools have 32 branches spread across ten districts in both the Telugu states. Over 52000 students have passed out from our schools since inception. Right now, the student strength in our campuses is 26500. Over 2000 trained faculty ensures that there a healthy and desired teacher-pupil ratio.
+    text: "Keshava Reddy Schools have been established with the vision of giving stress-free
+      quality education. The schools have its beginning in Nandyal where the first
+      campus was started in 1993 with 190 students in rented premises. To achieve
+      a bigger vision, we started investing all our efforts, time, energy and money
+      into building spacious, green and own campuses spread across over 100s of acres.
+      \n\nFrom a humble start, we have grown continuously over the years, from Nandyal
+      to Kurnool, Tirupathi, Anantapur, Hyderabad, Mahabubnagar, Proddatur, Chittor,
+      Kadapa, Madanapalle, Rajahmundry, Srikakulam, Guntur, and Vikarabad. Right now
+      our schools have 32 branches spread across ten districts in both the Telugu
+      states. Over 52000 students have passed out from our schools since inception.
+      Right now, the student strength in our campuses is 26500. Over 2000 trained
+      faculty ensures that there a healthy and desired teacher-pupil ratio."
     image: about-us-section1.jpg
   i2:
     title: Success Story
