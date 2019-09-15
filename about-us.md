@@ -4,33 +4,26 @@ page_title: About Us
 sections:
   i1:
     title: History
-    text: "Keshava Reddy Schools have been established with the vision of giving stress-free
-      quality education. The schools have its beginning in Nandyal where the first
-      campus was started in 1993 with 190 students. From such a humble start, we have
-      grown continuously over the years, and now our schools have 32 branches spread
-      across ten districts in both the Telugu states.\n \nOur educational institutions,
-      since inception, have become a pioneer in giving stress-free quality education
-      in our spacious and green campuses where every child is given adequate attention
-      and care. The top results achieved by our students in SSC exams every year bears
-      testimony to this fact.   \n \nOver 52000 students have passed out from our
-      schools since inception. Right now, the student strength in our campuses is
-      26500. Over 2000 trained faculty ensures that there a healthy and desired teacher-pupil
-      ratio."
+    text: |-
+      Keshava Reddy Schools have been established with the vision of giving stress-free quality education. The schools have its beginning in Nandyal where the first campus was started in 1993 with 190 students in rented premises. Having a bigger vision to provide quality infrastructure, schools were shifted into spacious, green and own premises.
+
+      From such a humble start, we have grown continuously over the years, from Nandyal to Kurnool, Tirupathi, Anantapur, Hyderabad, Mahabubnagar, Proddatur, Chittor, Kadapa, Madanapalle, Rajahmundry, Srikakulam, Guntur, and Vikarabad. Right now our schools have 32 branches spread across ten districts in both the Telugu states. Over 52000 students have passed out from our schools since inception. Right now, the student strength in our campuses is 26500. Over 2000 trained faculty ensures that there a healthy and desired teacher-pupil ratio.
     image: about-us-section1.jpg
   i2:
     title: Success Story
-    text: Keshava Reddy is undoubtedly the legend in the arena of SSC In fact its
-      monopoly is not confined only to SSC Keshava Reddy students have been experiencing
-      thumping triumph in competitive exams such as APRJC and even in EAMCET, IIT-JEE
-      with the help of strong basics and fundamentals taught in Keshava Reddy Class
-      Rooms. On the other side of the coin is games, sports and fine arts apex of
-      eminence extended to national and international level revealing the truth that
-      the ultimate name for all-round development is 'Keshava Reddy'. Hence every
-      year 1000s of students hailing from all over Andhra Pradesh enroll in Keshava
-      Reddy campuses. Accordingly Keshava Reddy Educational Institutions are also
-      showing rapid expansion every year to meet this overwhelming rush. Today the
-      institutions flourishing with 42 esteemed campuses for this academic year owned
-      and adorned of Keshava Reddy.
+    text: "Our educational institutions, since inception, have become a pioneer in
+      giving stress-free quality education. Every student is given adequate attention
+      and care in our spacious and green campuses. The top results achieved by our
+      students in SSC exams every year bears testimony to this fact.  Our first breakthrough
+      was in the year 2006 SSC, wherein our students' secured State top ranks and
+      since then the success saga continued every year. Our students scored top ten
+      ranks continuously for several years. Our students continued to outperform others
+      even after the introduction of the grading system.\n\nBecause of the strong
+      foundation laid in our classrooms, our students have been successfully cracking
+      various competitive exams like EAMCET, IIT-JEE, NEET etc. Not just in academics,
+      our students excel in games, sports and fine arts on the national and international
+      level competitions. It reveals the truth that the ultimate name for all-round
+      development is 'Keshava Reddy'. "
     image: about-us-section2.jpg
   i3:
     cards:
