@@ -66,13 +66,16 @@ sections:
         text: 'Our mission is to deliver the best quality education to children. We
           want to achieve this in a stress-free environment by providing the best
           in class teachers, infrastructure, food, accommodation and other sports
-          and games facilities. '
+          and games facilities. We believe that by providing the right kind of exposure,
+          guidance and motivation at an early age, we can turn any child into an allrounder
+          in life. '
       i5:
         title: Vision
         text: 'Our vision is to nurture children into noble human beings who care
-          for the welfare of humanity as well as the planet. We believe that by providing
-          the right kind of exposure, guidance and motivation at an early age, we
-          can turn any child into an allrounder in life.  '
+          for the betterment and welfare of humanity as well as the planet. We want
+          to equip the children with 21st-century skills such as communication, creativity,
+          collaboration, critical thinking etc. and make sure they contribute something
+          back to society. '
   i4:
     title: Approach
     text: 'Our approach to imparting education recognises the importance of the principle
