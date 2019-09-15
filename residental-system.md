@@ -34,7 +34,7 @@ sections:
           Ut in ligula quis lorem sagittis rhoncus.
         image: residental-section3-card2.jpg
       i3:
-        title: Praesent malesuada placerat
+        title: Phone calls to parents
         text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
           Ut in ligula quis lorem sagittis rhoncus.
         image: residental-section3-card3.jpg
