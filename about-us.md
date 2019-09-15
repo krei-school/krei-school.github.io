@@ -23,7 +23,7 @@ sections:
       giving stress-free quality education. Every student is given adequate attention
       and care in our spacious and green campuses. The top results achieved by our
       students in SSC exams every year bears testimony to this fact.  Our first breakthrough
-      was in the year 2006 SSC, wherein our students' secured State top ranks and
+      was in the 2006 SSC results, wherein our students' secured State top ranks and
       since then the success saga continued every year. Our students scored top ten
       ranks continuously for several years. Our students continued to outperform others
       even after the introduction of the grading system.\n\nBecause of the strong
