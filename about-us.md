@@ -7,8 +7,8 @@ sections:
     text: "Keshava Reddy Schools have been established with the vision of giving stress-free
       quality education. The schools have its beginning in Nandyal where the first
       campus was started in 1993 with 190 students in rented premises. To achieve
-      a bigger vision, we started investing all our efforts, time, energy and money
-      into building spacious, green and own campuses spread across over 100s of acres.
+      a bigger vision, we started investing our efforts, time, energy and money into
+      building spacious, green and own campuses spread across over 100s of acres.
       \n\nFrom a humble start, we have grown continuously over the years, from Nandyal
       to Kurnool, Tirupathi, Anantapur, Hyderabad, Mahabubnagar, Proddatur, Chittor,
       Kadapa, Madanapalle, Rajahmundry, Srikakulam, Guntur, and Vikarabad. Right now
