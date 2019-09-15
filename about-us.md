@@ -38,21 +38,21 @@ sections:
       i1:
         title1: Keshava Reddy
         title2: Founder and Chairman
-        text: 'Mr N Keshava Reddy is the Founder and Chairman of the institutions.
+        text: "     Mr N Keshava Reddy is the Founder and Chairman of the institutions.
           He has his humble beginnings as a teacher in Sishumandir schools run by
           the RSS. He also worked as a headmaster and gained a decade of experience
-          in running a school before he started these institutions. Though he does
-          not have any wealthy background, his hard work and dedication made things
-          possible. '
+          in running a school before he started the institutions. Though he does not
+          come from a wealthy background, his hard work and dedication made things
+          possible. "
         image: about-us-section3-card1.jpg
       i2:
         title1: Bharath Reddy
         title2: Director
-        text: 'Mr N Bharath Reddy, S/O Keshava Reddy is an MBA graduate from La Trobe
-          University, Melbourne. He is the managing director for the organisation
-          and takes care of the day to day operations. He also pursued his Post Graduate
-          Diploma in ICT(Information and Communication Technology) in Education from
-          the most prestigious King''s College London. '
+        text: "     Mr N Bharath Reddy, S/o Keshava Reddy is an MBA graduate from
+          La Trobe University, Melbourne. He also pursued his Post Graduate Diploma
+          in ICT (Information and Communication Technology) in Education from the
+          most prestigious King's College London. He is the managing director for
+          the organisation and handles day to day functioning and operations. "
         image: about-us-section3-card2.jpg
       i3:
         title1: Gangadhar Reddy
@@ -63,22 +63,15 @@ sections:
         image: about-us-section3-card3.jpg
       i4:
         title: Misson
-        text: "“Excellence through Education” Excellence means perfection. Doing a
-          thing in a perfect manner gains the attention as well as the commendation
-          of the world. Bright future awaits a person who attains perfection in his
-          field, but perfection cannot be accomplished in a day or two. Constant practice
-          is needed for it. As the proverb goes “Practice makes man perfect”, ample
-          opportunities should be provided to the child for acquiring varied knowledge
-          of things on his own. "
+        text: 'Our mission is to deliver the best quality education to children. We
+          want to achieve this by providing the best in class teachers, infrastructure,
+          food, accommodation and other sports and games facilities. '
       i5:
         title: Vision
-        text: Such an atmosphere only makes the child learn the things by doing himself.
-          It is this sort of self - learning that enables the child transform into
-          an ablest person by reaching perfection or excellence. All the teaching
-          and guidance and the facilities and activities provided in the school aim
-          at imparting such an education as to make the child gain this excellence
-          and become the most successful person in the world. Hence the motto “Excellence
-          through Education” is adopted.
+        text: 'Our vision is to nurture children into noble human beings who care
+          for the welfare of humanity as well as the planet. We believe that by providing
+          the right kind of exposure, guidance and motivation at an early age, we
+          can turn any child into an allrounder in life.  '
   i4:
     title: Approach
     text: 'Our approach to imparting education recognises the importance of the principle
