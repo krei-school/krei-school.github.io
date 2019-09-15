@@ -6,15 +6,9 @@ sections:
     cards:
       i1:
         title: Contact
-        address: |-
-          Keshava Reddy Educational Institutions
-          Venkata Ramana Colony,
-          Kurnool,
-          Andhra Pradesh, INDIA
-          Ph :    +91-9885722994
-          Fax:   +91-8514 249330
-          admin@keshavareddy.com
-          www.keshavareddy.com
+        address: "Keshava Reddy Schools,\nCentral Office, \nSurvey No. 56/B, Bachupally(V),\nQuthbullapur(M),
+          \ Medchal(D),\nHyderabad, Telangana- 500090\nPh1:   +91-9100330121\nPh2:
+          \  +91-9849590406\nemail: contact@keshavareddy.com"
         phone: "+91-9885722994"
       i2:
         title: Contact 2
