@@ -99,7 +99,7 @@ sections:
 '
       person: Vikram Simha Reddy G
       position: Batch of 2001, Nandyal
-      image: testimony_person.jpg
+      image: Vikramsimha.jpg
     - text: I was convinced right on the first day I joined the school that it has
         the best of the faculty available. The school has helped me build good concepts,
         and this had laid a strong foundation for my education throughout. The instructions
@@ -115,7 +115,7 @@ sections:
         memories.
       person: Ashok Reddy MBV
       position: Batch of 2001, Nandyal
-      image: testimony_person.jpg
+      image: Ashok.jpg
   i3:
     title: Updates
   i4:
