@@ -46,7 +46,7 @@ selectors:
     - id: district10
       name: Sangareddy
 branches:
-- title: AMPOLU
+- title: Ampolu, Srikakulam
   images:
   - card.jpg
   - card1.jpg
@@ -55,12 +55,12 @@ branches:
     state: state1
     district: district6
     type: type1
-  text: KESHAVA REDDY CONCEPT SCHOOL,Rajiv Nagar (V), Singupuram (P), Srikakulam (M&Dist),
-    PIN– 532185.
+  text: "KESHAVA REDDY SCHOOL,\nSingupuram-Ampolu Road, \nSrikakulam, \nAndhra Pradesh
+    \n532001"
   phone: 9701344952
   lat: 18.327131
   long: 83.952607
-- title: APPANAPALLY
+- title: Appannapally, Mahabubnagar.
   images:
   - card.jpg
   - card1.jpg
@@ -69,11 +69,15 @@ branches:
     state: state2
     district: district7
     type: type1
-  text: KESHAVA REDDY SCHOOL,APPANNAPALLI (V),MAHABOOBNAGAR (DIST)-509001.
-  phone: "+91-9876543210"
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    Appannapalli(V),
+    Mahabubnagar(DIST),
+    509001.
+  phone: 9618605345
   lat: 16.762779
   long: 78.085956
-- title: ARASAVALLI
+- title: Arasavalli, Srikakulam
   images:
   - card.jpg
   - card1.jpg
@@ -82,12 +86,12 @@ branches:
     state: state1
     district: district6
     type: type2
-  text: KESHAVA REDDY CONCEPT SCHOOL,Kajipeta (V&P), Arasavalli Road, Near - Indira
-    Vignan Bhavan,Srikakulam (M&Dist), PIN - 532001.
+  text: "KESHAVA REDDY SCHOOL,\nArasavalli Road, \nNear Indira Vignan Bhavan,\nSrikakulam
+    (M&Dist), 532001."
   phone: "+91-9876543210"
   lat: 18.288252
   long: 83.905328
-- title: BACHUPALLY
+- title: Bachupally, Hyderabad
   images:
   - card.jpg
   - card1.jpg
@@ -96,8 +100,13 @@ branches:
     state: state2
     district: district8
     type: type1
-  text: 'SURVEY NO: 56/B,KESHAVA REDDY E-LEARNING SCHOOL,INDRA NAGAR COLONY,BACHUPALLY
-    (V&P),QUTHBULLAPUT (M),MEDCHAL (DIST.,)-500090.'
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    SURVEY NO: 56/B,
+    INDRA NAGAR COLONY,
+    BACHUPALLY (V&P),
+    QUTHBULLAPUT (M),
+    MEDCHAL (DIST.,)-500090.
   phone: "+91-9876543210"
   lat: 17.544208
   long: 78.371931
