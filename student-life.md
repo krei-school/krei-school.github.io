@@ -10,8 +10,8 @@ sections:
       and behavioural matters. These adoption gurus regularly make calls on a fortnightly
       basis to parents. Parents give feedback about the student on educational and
       other behavioural issues that the children may be facing.  \n\nIn the area of
-      academics, individually tailored learning plans prepared and implemented by
-      the guru in coordination with the subject teacher and the parent. The progress
+      academics, individually tailored learning plans are prepared and implemented
+      by the guru in coordination with the subject teacher and the parent. The progress
       is tracked daily and communicated to the parent. Thus the trio of guru, parent
       and subject teacher act as a supportive structure to the student.\n\nThe guru
       also identifies the unique specific talents be it in sports, spelling bee, dance,
