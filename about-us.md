@@ -38,16 +38,21 @@ sections:
       i1:
         title1: Keshava Reddy
         title2: Founder and Chairman
-        text: "“Excellence through Education” Excellence means perfection. Doing a
-          thing in a perfect manner gains the attention as well as the commendation
-          of the world.  "
+        text: 'Mr N Keshava Reddy is the Founder and Chairman of the institutions.
+          He has his humble beginnings as a teacher in Sishumandir schools run by
+          the RSS. He also worked as a headmaster and gained a decade of experience
+          in running a school before he started these institutions. Though he does
+          not have any wealthy background, his hard work and dedication made things
+          possible. '
         image: about-us-section3-card1.jpg
       i2:
         title1: Bharath Reddy
         title2: Director
-        text: "“Excellence through Education” Excellence means perfection. Doing a
-          thing in a perfect manner gains the attention as well as the commendation
-          of the world."
+        text: 'Mr N Bharath Reddy, S/O Keshava Reddy is an MBA graduate from La Trobe
+          University, Melbourne. He is the managing director for the organisation
+          and takes care of the day to day operations. He also pursued his Post Graduate
+          Diploma in ICT(Information and Communication Technology) in Education from
+          the most prestigious King''s College London. '
         image: about-us-section3-card2.jpg
       i3:
         title1: Gangadhar Reddy
