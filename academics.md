@@ -130,8 +130,8 @@ sections:
     image: academics-section7.jpg
   i8:
     title: Labs and ICT
-    text: Quisque vestibulum metus vel erat ornare, nec venenatis odio tempus. Aenean
-      nec lectus vitae justo maximus tincidunt quis sed metusble.
+    text: Our well-equipped labs and libraries and the latest ICT tools and content
+      have been integral to our efforts in imparting the best education to the children.
     cards:
       i1:
         title: Praesent malesuada placerat
