@@ -19,10 +19,10 @@ sections:
     image: about-us-section1.jpg
   i2:
     title: Success Story
-    text: "Our educational institutions, since inception, have become a pioneer in
-      giving stress-free quality education. Every student is given adequate attention
-      and care in our spacious and green campuses. The top results achieved by our
-      students in SSC exams every year bears testimony to this fact.  Our first breakthrough
+    text: "Our educational institutions, since inception, have been a pioneer in giving
+      stress-free quality education. Every student is given adequate attention and
+      care in our spacious and green campuses. The top results achieved by our students
+      in SSC exams every year bears testimony to this fact.  Our first breakthrough
       was in the 2006 SSC results, wherein our students' secured State top ranks and
       since then the success saga continued every year. Our students scored top ten
       ranks continuously for several years. Our students continued to outperform others
@@ -64,8 +64,9 @@ sections:
       i4:
         title: Misson
         text: 'Our mission is to deliver the best quality education to children. We
-          want to achieve this by providing the best in class teachers, infrastructure,
-          food, accommodation and other sports and games facilities. '
+          want to achieve this in a stress-free environment by providing the best
+          in class teachers, infrastructure, food, accommodation and other sports
+          and games facilities. '
       i5:
         title: Vision
         text: 'Our vision is to nurture children into noble human beings who care
