@@ -61,15 +61,14 @@ sections:
           exams successfully. "
         image: academics-section3-card2.jpg
       i3:
-        title: SMS Program
-        text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
-          nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
-          Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
-          ipsum nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin.
-          \n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-          ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
-          nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+        title: Competitive Exams
+        text: "Keshava Reddy Students are supported and encouraged to appear for different
+          competitive examinations held by various educational forums on a state,
+          national and international level. \n\nEvery year our students are selected
+          for various math, science, English, and aptitude olympiad tests conducted
+          by NTSE (National Talent Search Exam), INTSO, Unified Council, KAT, SOF
+          and other vital organisations. \n\nOur students also appear for the NSS
+          Space Settlement Contest conducted worldwide by NASA. "
         image: academics-section3-card3.jpg
   i4:
     title: Labs and ICT
