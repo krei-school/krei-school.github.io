@@ -46,11 +46,12 @@ sections:
           quality stress-free education."
         image: home-section1-img2.jpg
       i2:
-        text: "Q: Why Keshava Reddy?\nA: Our strengths and beliefs, which are:\nSerene
-          and huge school campuses\nInnovative teaching with Quality teachers\nConcept
-          clear education\nUnique personal attention\nIIT and Medicine foundation\nActivity-based
-          learning\nHomely residential life\nComplete all-round development\n\nWatch
-          our video for a glimpse of what we do. "
+        text: "To answer a common question of Why choose \"Keshava Reddy\"?\nThe answer
+          lies in our strengths and beliefs, which are:\nSerene and huge school campuses\nInnovative
+          teaching with Quality teachers\nConcept clear education\nUnique personal
+          attention\nIIT and Medicine foundation\nActivity-based learning\nHomely
+          residential life\nComplete all-round development\n\nWatch our video for
+          a glimpse of who we are and what we do. "
         video: https://www.youtube.com/embed/VfltqSBVX80?autoplay=0&amp;rel=0&amp;enablejsapi=1
   i2:
     title: Testimonials
