@@ -4,17 +4,16 @@ page_title: Academics
 sections:
   i1:
     title: Tender Smiles
-    text: "Tender smiles programme is our exclusive programme is for developing the
-      multiple intelligences among the cute tiny toddlers( nursery to 2nd class).
-      They learn essential competencies through activity-based experiential learning.
-      Ample scope and opportunities are provided for the child to express oneself,
-      which enhance the child's verbal and sentence forming skills. \n\nNecessary
-      numeracy skills are taught using various aids like number lines, number squares,
-      arrow cards, numicon, multilink cubes, clock face etc. Fundamental human and
-      social values like sharing, caring for others, respecting elders, being a team
-      player, about truth, love, fairness etc. are taught through moral stories, role
-      plays and group activities. Our mother teachers take care of the kids with tons
-      and tons of love."
+    text: "Tender smiles programme is our exclusive programme for developing the multiple
+      intelligences among the cute tiny toddlers( nursery to 2nd class). They learn
+      essential competencies through activity-based experiential learning. Ample scope
+      and opportunities are provided for the child to express oneself, which enhance
+      the child's verbal and sentence forming skills. \n\nNecessary numeracy skills
+      are taught using various aids like number lines, number squares, arrow cards,
+      numicon, multilink cubes, clock face etc. Fundamental human and social values
+      like sharing, caring for others, respecting elders, being a team player, about
+      truth, love, fairness etc. are taught through moral stories, role plays and
+      group activities. Our mother teachers take care of the kids with tons of love."
     images:
     - academics-section1.jpg
     - academics-section1-1.jpg
