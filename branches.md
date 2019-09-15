@@ -55,8 +55,7 @@ branches:
     state: state1
     district: district6
     type: type1
-  text: "KESHAVA REDDY SCHOOL,\nSingupuram-Ampolu Road, \nSrikakulam, \nAndhra Pradesh
-    \n532001"
+  text: "KESHAVA REDDY SCHOOL,\nSingupuram-Ampolu Road, \nSrikakulam, \nAndhra Pradesh-532001"
   phone: 9701344952
   lat: 18.327131
   long: 83.952607
@@ -73,7 +72,7 @@ branches:
     KESHAVA REDDY SCHOOL,
     Appannapalli(V),
     Mahabubnagar(DIST),
-    509001.
+    Telangana-509001.
   phone: 9618605345
   lat: 16.762779
   long: 78.085956
@@ -87,7 +86,7 @@ branches:
     district: district6
     type: type2
   text: "KESHAVA REDDY SCHOOL,\nArasavalli Road, \nNear Indira Vignan Bhavan,\nSrikakulam
-    (M&Dist), 532001."
+    (M&Dist), \nAndhra Pradesh-532001."
   phone: "+91-9876543210"
   lat: 18.288252
   long: 83.905328
@@ -102,15 +101,16 @@ branches:
     type: type1
   text: |-
     KESHAVA REDDY SCHOOL,
-    SURVEY NO: 56/B,
-    INDRA NAGAR COLONY,
-    BACHUPALLY (V&P),
-    QUTHBULLAPUT (M),
-    MEDCHAL (DIST.,)-500090.
+    Survey No. 56/B,
+    Indra Nagar Colony,
+    Bachupally (V&P),
+    Quthbullapur (M),
+    Medchal (Dist.)
+    Telangana-500090.
   phone: "+91-9876543210"
   lat: 17.544208
   long: 78.371931
-- title: BALAJI COMPLEX
+- title: Balaji Complex, Nandyal
   images:
   - card.jpg
   - card1.jpg
@@ -119,7 +119,7 @@ branches:
     state: state1
     district: district5
     type: type2
-  text: KESHAVA REDDY SCHOOL,BALAJI COMPLEX,NANDYAL, KURNOOL (DIST)-518501.
+  text: "KESHAVA REDDY SCHOOL,\nBalaji Complex, \nNandyal, Kurnool Dist,\nAndhra Pradesh-518501."
   phone: "+91-9876543210"
   lat: 15.484246
   long: 78.489891
