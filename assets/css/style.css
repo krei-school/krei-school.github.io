@@ -716,7 +716,10 @@ ul {
     position: relative;
     overflow: hidden;
 }
-.portfolio-wrapper:hover .portfolio-thumb::before,.portfolio-wrapper:hover .portfolio-thumb::after,.portfolio-wrapper:hover .view i{
+.portfolio-wrapper:hover .portfolio-thumb::before, .portfolio-wrapper:hover .portfolio-thumb::after,.portfolio-wrapper:hover .view i{
+   opacity: .8;
+}
+.academics-block .portfolio-wrapper:hover .portfolio-thumb::before, .academics-block .portfolio-wrapper:hover .academics-block .portfolio-thumb::after, .academics-block.portfolio-wrapper:hover .view i{
 /*     opacity: .8; */
      opacity: 0;
 }
