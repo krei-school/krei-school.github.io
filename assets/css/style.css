@@ -1512,3 +1512,6 @@ html body .freebirdFormviewerViewHeaderTitle, html body .freebirdFormviewerViewI
 .about-content, .about-content p{
     text-align: justify;
 }
+.almuni-block .pt-60 {
+    padding-top: 0px;
+}
