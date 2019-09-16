@@ -717,7 +717,8 @@ ul {
     overflow: hidden;
 }
 .portfolio-wrapper:hover .portfolio-thumb::before,.portfolio-wrapper:hover .portfolio-thumb::after,.portfolio-wrapper:hover .view i{
-    opacity: .8;
+/*     opacity: .8; */
+     opacity: 0;
 }
 .portfolio-wrapper:hover .portfolio-content{
     transform: translateY(0);
