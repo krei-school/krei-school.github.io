@@ -954,7 +954,8 @@ img {
 .jkl-counter {
     position: relative;
     top: 0px;
-    background-image: url("../images/home_section4-bg.jpg");
+/*     background-image: url("../images/home_section4-bg.jpg"); */
+     background-image: url("../images/Statistics Background.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
