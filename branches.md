@@ -49,8 +49,8 @@ branches:
 - title: Ampolu, Srikakulam
   images:
   - branch1.jpg
-  - card1.jpg
-  - card2.jpg
+  - branch2.jpg
+  - branch3.jpg
   selectorID:
     state: state1
     district: district6
