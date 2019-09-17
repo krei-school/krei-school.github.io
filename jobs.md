@@ -1,5 +1,5 @@
 ---
-title: jobs
+title: Jobs
 page_title: Jobs
 sections:
   i1:
