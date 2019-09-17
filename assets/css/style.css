@@ -1530,3 +1530,6 @@ html body .freebirdFormviewerViewHeaderTitle, html body .freebirdFormviewerViewI
 .almuni-block .pt-60 {
     padding-top: 0px;
 }
+.student-life .portfolio-content{
+    visibility: hidden;
+}
