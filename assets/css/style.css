@@ -732,7 +732,10 @@ ul {
 /*     opacity: .8; */
      opacity: 0;
 }
-
+.student-life .portfolio-wrapper:hover .portfolio-thumb::before, .student-life .portfolio-wrapper:hover .portfolio-thumb::after, .student-life .portfolio-wrapper:hover .view i{
+/*     opacity: .8; */
+     opacity: 0;
+}
 .portfolio-wrapper:hover .portfolio-content{
     transform: translateY(0);
 }
