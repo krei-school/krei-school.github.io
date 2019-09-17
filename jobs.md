@@ -1,6 +1,6 @@
 ---
 title: jobs
-page_title: jobs
+page_title: Jobs
 sections:
   i1:
     cards:
