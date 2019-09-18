@@ -59,7 +59,7 @@ branches:
   phone: "+919701344952"
   lat: 18.327131
   long: 83.952607
-- title: Appannapally, Mahabubnagar
+- title: Mahabubnagar
   images:
   - branch1.jpg
   - Appannapalli2.jpg
@@ -359,7 +359,7 @@ branches:
   phone: "+919963840999"
   lat: 15.466734
   long: 78.488496
-- title: Nimmanapalli Road, Madanapalli
+- title: Madanapalli
   images:
   - branch21.jpg
   - Madanapalli2.jpg
