@@ -8,18 +8,14 @@ sections:
       within our schools. As the name signifies every teacher ‘adopts’ around 15-20
       students and assumes complete responsibility in taking care of students in academic
       and behavioural matters. These adoption gurus regularly make calls on a fortnightly
-      basis to parents. Parents give feedback about the student on educational and
-      other behavioural issues that the children may be facing.  \n\nIn the area of
-      academics, individually tailored learning plans are prepared and implemented
-      by the guru in coordination with the subject teacher and the parent. The progress
-      is tracked daily and communicated to the parent. Thus the trio of guru, parent
-      and subject teacher act as a supportive structure to the student.\n\nThe guru
-      also identifies the unique specific talents be it in sports, spelling bee, dance,
-      painting etc. in a child. He then carefully nurtures them in coordination with
-      the corresponding support staff. The guru in coordination with the parent also
-      constructively counsels the student on any behavioural issues that the child
-      may be facing. Thus through this programme, every student is given the individual
-      attention that they truly deserve."
+      basis to parents to receive feedback.  \n\nIn the area of academics, individually
+      tailored learning plans are prepared and implemented by the guru in coordination
+      with the subject teacher and the parent. The progress is tracked daily and communicated
+      to the parent. The guru also identifies the unique specific talents be it in
+      sports, spelling bee, dance, painting etc. in a child. The guru in coordination
+      with the parent also constructively counsels the student on any behavioural
+      issues that the child may be facing. Thus the trio of guru, parent and subject
+      teacher act as a supportive structure to the student."
     image: student-life-section1.jpg
   i2:
     cards:
