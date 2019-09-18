@@ -138,7 +138,12 @@ sections:
           they have a one hour study hour session. They start getting ready for school
           from 7.30 am and have a healthy and tasty breakfast by 8.45 am. They attend
           prayer at 8.45 am to 9 am and go on to their regular classes until 1 pm.
-          \n\nThey have lunch by 1.40 am "
+          \n\nThe afternoon session starts at 1.40 pm, and classes go on until 5.00
+          pm. Students participate in different kinds of Games and Sports until 6.30
+          pm and then freshen up and get ready for evening study hours. After the
+          2 hour study hour session, they have dinner at 8.30 pm and call it a day
+          by 9.00 pm. This is a typical schedule and may vary depending on the campus
+          location. "
         image: residential-section9.jpg
       i2:
         title: Study Hours
