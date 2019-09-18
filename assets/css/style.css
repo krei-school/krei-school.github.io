@@ -850,7 +850,8 @@ img {
 }
 
 .jkl-home-card-img img:hover {
-    transform: rotate(1deg) scale(1.05);
+/*     transform: rotate(1deg) scale(1.05); */
+    transform:none;
 }
 
 .jkl-home-parallex {
