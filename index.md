@@ -86,7 +86,7 @@ sections:
       person: Hari Kishan Reddy M
       position: Batch of 2001, Nandyal
       image: Harikishan.jpg
-    - text: 'I can proudly announce that this is the best school which is so student-friendly
+    - text: 'I can proudly say that this is the best school which is so student-friendly
         and gave good value for student''s feedback. We use to feel it like a family
         sitting together and judging out what is best and what is not for the family.
         So I would rather call it a family than a school.  Keshava Reddy School is
