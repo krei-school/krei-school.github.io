@@ -21,9 +21,13 @@ sections:
     cards:
       i1:
         title: Motherly Care
-        text: The teachers in the primary classes are specially trained to be sensitive
+        text: "The teachers in the primary classes are specially trained to be sensitive
           to the individual needs of the young minds from nursery to 2nd class. Teachers
-          take extra care, and that is why they are aptly called ‘ Mother teachers’.
+          take extra care, and that is why they are aptly called ‘ Mother teachers’.\n\nComplete
+          monitoring of the child is done at all times, and special care is given
+          children who need special assistance. We do not believe in physical punishments.
+          Hence regular counselling is given to the child regarding behavioural issues,
+          and the parent is communicated with all the happenings at school. "
         image: student-life-section2-card1.jpg
       i2:
         title: Innovative Learning
