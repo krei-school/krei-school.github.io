@@ -37,10 +37,9 @@ footer:
       Survey No. 56/B, Bachupally(V),
       Quthbullapur(M), Medchal(D),
       Hyderabad, Telangana- 500090
-    phone: "+919100330121"
+    phone1: "+919100330121"
+    phone2: "+919100330121"
     email: contact@keshavareddy.com
-  address2:
-    phone: "+919100330121"
 header:
   links:
     i1:
