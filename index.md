@@ -15,17 +15,17 @@ sliders:
     title: The Best Residential System
     desc: The Best Residential System in 2 states. The largest chain of Residential
       Schools in South India. Feels like Home and a memorable Stay.
-    url: "/about-us.html"
+    url: "/residential-system.html"
   i4:
     title: All Round Development
     desc: Stress-free education and all-round development with sports, games, extra
       & co-curricular activities.
-    url: "/about-us.html"
+    url: "/student-life.html"
   i5:
     title: Best in class Infrastructure
     desc: 'Clean, green and spacious campuses that provide the right kind of environment
       for a complete education. '
-    url: "/about-us.html"
+    url: "/campuses.html"
 sections:
   i1:
     title: About Us
