@@ -26,10 +26,10 @@ baseurl:
 footer:
   twitter:
     isActive: true
-    twitter.com: 
+    twitter.com: https://twitter.com/keshavareddyedu
   facebook:
     isActive: true
-    url: facebook.com
+    url: https://www.facebook.com/keshavareddyschools/
   address:
     title: Keshava Reddy Educational Institutions
     text: |-
