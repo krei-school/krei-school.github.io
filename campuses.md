@@ -260,9 +260,7 @@ branches:
   long: 79.42135
 - title: Maruthi Nagar, Anantapur
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Maruthi Nagar1.jpg
   selectorID:
     state: state1
     district: district1
@@ -277,9 +275,7 @@ branches:
   long: 77.588685
 - title: Medam Street, Kurnool
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Medam street1.jpg
   selectorID:
     state: state1
     district: district5
@@ -291,9 +287,7 @@ branches:
   long: 78.051525
 - title: Muruganipalli, Chittor
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Muruganipalli2.jpg
   selectorID:
     state: state1
     district: district2
@@ -308,9 +302,7 @@ branches:
   long: 79.117641
 - title: New Balaji Colony, Chittor
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - New Balaji colony1.jpg
   selectorID:
     state: state1
     district: district2
@@ -325,9 +317,8 @@ branches:
   long: 79.091606
 - title: New Krishna Nagar, Kurnool
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - New Krishnanagar1.jpg
+  - New Krishnanagar2.jpg
   selectorID:
     state: state1
     district: district5
@@ -343,9 +334,7 @@ branches:
   long: 78.036986
 - title: NGOs Colony, Kadapa
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - NGOs Kadapa1.jpg
   selectorID:
     state: state1
     district: district4
@@ -361,9 +350,7 @@ branches:
   long: 78.839813
 - title: NGOs Colony, Nandyal
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - NGOs Nandyal1.jpg
   selectorID:
     state: state1
     district: district5
@@ -374,9 +361,9 @@ branches:
   long: 78.488496
 - title: Nimmanapalli Road, Madanapalli
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Madanapalli1.jpg
+  - Madanapalli2.jpg
+  - Madanapalli3.jpg
   selectorID:
     state: state1
     district: district2
@@ -393,9 +380,9 @@ branches:
   long: 78.555926
 - title: Old Krishna Nagar, Kurnool
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Old Krishna Nagar1.jpg
+  - Old Krishna Nagar2.jpg
+  - Old Krishnanagar2.jpg
   selectorID:
     state: state1
     district: district5
@@ -407,9 +394,12 @@ branches:
   long: 78.035134
 - title: Panyam, Nandyal
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Panyam1.jpg
+  - Panyam2.jpg
+  - Panyam3.jpg
+  - Panyam4.jpg
+  - Panyam5.jpg
+  - Panyam6.jpg
   selectorID:
     state: state1
     district: district5
@@ -424,9 +414,8 @@ branches:
   long: 78.382731
 - title: Hukumpet, Rajahmundry
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Rajahmundry1.jpg
+  - Rajahmundry2.jpg
   selectorID:
     state: state1
     district: district3
@@ -442,9 +431,7 @@ branches:
   long: 81.797178
 - title: Sai Nagar, Anantapur
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Sainagar1.jpg
   selectorID:
     state: state1
     district: district1
@@ -460,9 +447,9 @@ branches:
   long: 77.601465
 - title: Sankalbagh, Kurnool
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Sankalbagh1.jpg
+  - Sankalbagh2.jpg
+  - Sankalbagh3.jpg
   selectorID:
     state: state1
     district: district5
@@ -477,9 +464,8 @@ branches:
   long: 78.040451
 - title: Sri Lakshmi Nagar, Kurnool
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Srilakshminagar1.jpg
+  - Srilakshminagar2.jpg
   selectorID:
     state: state1
     district: district5
@@ -496,9 +482,9 @@ branches:
   long: 78.042785
 - title: V.R. Colony, Kurnool
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - VR Colony1.jpg
+  - VR Colony2.jpg
+  - VR Colony3.jpg
   selectorID:
     state: state1
     district: district5
@@ -514,9 +500,10 @@ branches:
   long: 78.019017
 - title: Vadiyampeta, Anantapur
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Vadiyampeta1.jpg
+  - Vadiyampeta2.jpg
+  - Vadiyampeta3.jpg
+  - Vadiyampeta4.jpg
   selectorID:
     state: state1
     district: district1
@@ -528,9 +515,7 @@ branches:
   long: 77.600013
 - title: Potladurthi, Proddatur
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Potladurthi1.jpg
   selectorID:
     state: state1
     district: district4
@@ -542,9 +527,9 @@ branches:
   long: 78.543017
 - title: YMR Colony, Proddatur
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - YMR Colony1.jpg
+  - YMR Colony2.jpg
+  - YMR Colony3.jpg
   selectorID:
     state: state1
     district: district4
