@@ -132,14 +132,13 @@ sections:
     cards:
       i1:
         title: Schedule
-        text: "Nullam eget purus molestie, tempus massa quis, tempor urna. Nam nec
-          nibh egestas, rhoncus erat sed, ullamcorper justo. Etiam in euismod elit.
-          Integer blandit, massa a volutpat tempus, metus nisi lobortis nibh, at placerat
-          ipsum nibh sed sem. Cras fermentum velit et quam fermentum sollicitudin.
-          \n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-          ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
-          nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+        text: "For residential students, the day starts early at 5 am — the morning
+          rituals include getting ready for Yoga, Karate, Swimming, Games, Gosh etc.
+          After they are done with the play activities of their interest by 6.30 am,
+          they have a one hour study hour session. They start getting ready for school
+          from 7.30 am and have a healthy and tasty breakfast by 8.45 am. They attend
+          prayer at 8.45 am to 9 am and go on to their regular classes until 1 pm.
+          \n\nThey have lunch by 1.40 am "
         image: residential-section9.jpg
       i2:
         title: Study Hours
