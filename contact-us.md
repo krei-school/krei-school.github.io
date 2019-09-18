@@ -8,7 +8,9 @@ sections:
         title: Contact
         address: "Keshava Reddy Schools,\nCentral Office, \nSurvey No. 56/B, Bachupally(V),\nQuthbullapur(M),
           \ Medchal(D),\nHyderabad, Telangana- 500090\n\nemail: contact@keshavareddy.com"
-        phone: "+919100330121"
+        phone: |-
+          +919100330121
+          +916304734545
       i2:
         title: Contact 2
         address: |-
