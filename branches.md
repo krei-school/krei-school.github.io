@@ -159,7 +159,7 @@ branches:
     state: state1
     district: district5
     type: type2
-  text: H.No:26-69,KESHAVA REDDY EM SCHOOL,CHITTARI STREET-518001.
+  text: "KESHAVA REDDY SCHOOL,\nH.No-26-69, \nChittari Street,\nKurnool,\nAndhra Pradesh-518001\n"
   phone: "+919849590406"
   lat: 15.825311
   long: 78.053908
@@ -172,7 +172,11 @@ branches:
     state: state1
     district: district6
     type: type1
-  text: KESHAVA REDDY CONCEPT SCHOOL,Etcherla (P&M), Srikakulam (Dist.)- 532410.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    NH-16, Etcherla(V&M),
+    Srikakulam,
+    Andhra Pradesh-532410
   phone: "+919618994345"
   lat: 18.281523
   long: 83.821666
@@ -185,7 +189,12 @@ branches:
     state: state1
     district: district2
     type: type2
-  text: KESHAVA REDDY e-LEARNING SCHOOL,BAIRAGIPATTEDA,HATHIRAMJI COLONY, TIRUPATI-517507.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    Bairagipatteda,
+    Hathiramji Colony,
+    Tirupati,
+    Andhra Pradesh-517501
   phone: "+919502285999"
   lat: 13.62075
   long: 79.41955
@@ -198,7 +207,11 @@ branches:
     state: state1
     district: district2
     type: type2
-  text: KESHAVAREDDY CONCEPT SCHOOL,JAYA NAGAR,TIRUPATI-517501.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    Jayanagar,
+    Tirupati,
+    Andhra Pradesh-517501
   phone: "+919618619345"
   lat: 13.624644
   long: 79.431527
@@ -211,7 +224,12 @@ branches:
     state: state2
     district: district10
     type: type1
-  text: KESHAVA REDDY SCHOOL, NEAR IIT, KANDI VILLAGE, SANGAREDDY DIST., TELANGANA
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    Next to IIT Hyderabad,
+    Kandi(V), Sanga Reddy(M),
+    Medak(D),
+    Telangana-502285
   phone: "+919100032843"
   lat: 17.586036
   long: 78.117136
@@ -224,7 +242,11 @@ branches:
     state: state1
     district: district2
     type: type2
-  text: KESHAVAREDDY CONCEPT SCHOOL,SANTHI NAGAR, M.R.PALLI, TIRUPATI-517502.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    Shanthi Nagar,
+    M.R.Palli, Tirupati,
+    Andhra Pradesh-517502
   phone: "+919618619234"
   lat: 13.621659
   long: 79.408204
