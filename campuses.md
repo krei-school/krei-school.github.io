@@ -48,7 +48,7 @@ selectors:
 branches:
 - title: Ampolu, Srikakulam
   images:
-  - Branch0.jpg
+  - branch0.jpg
   - Ampolu2.jpg
   - Ampolu3.jpg
   selectorID:
