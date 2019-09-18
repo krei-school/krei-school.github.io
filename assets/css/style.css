@@ -1534,3 +1534,6 @@ html body .freebirdFormviewerViewHeaderTitle, html body .freebirdFormviewerViewI
 .student-life .portfolio-content, .residental-esae-of-living .portfolio-content{
     visibility: hidden;
 }
+.student-life .jkl-extra-activity-parallex {
+    min-height:1035px;
+}
