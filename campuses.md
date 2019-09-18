@@ -61,7 +61,7 @@ branches:
   long: 83.952607
 - title: Appannapally, Mahabubnagar
   images:
-  - Appannapalli1.jpg
+  - branch1.jpg
   - Appannapalli2.jpg
   - Appannapalli3.jpg
   selectorID:
@@ -79,7 +79,7 @@ branches:
   long: 78.085956
 - title: Arasavalli, Srikakulam
   images:
-  - Arasavalli1.jpg
+  - branch2.jpg
   selectorID:
     state: state1
     district: district6
@@ -91,7 +91,7 @@ branches:
   long: 83.905328
 - title: Bachupally, Hyderabad
   images:
-  - Bachupally1.jpg
+  - branch3.jpg
   - Bachupally2.jpg
   - Bachupally3.jpg
   selectorID:
@@ -110,7 +110,7 @@ branches:
   long: 78.371931
 - title: Balaji Complex, Nandyal
   images:
-  - Balaji Complex1.jpg
+  - branch4.jpg
   - Balaji Complex2.jpg
   - Balaji Complex3.jpg
   selectorID:
@@ -123,7 +123,7 @@ branches:
   long: 78.489891
 - title: Chandragiri, Tirupati
   images:
-  - Chandragiri1.jpg
+  - branch5.jpg
   - Chandragiri2.jpg
   selectorID:
     state: state1
@@ -135,7 +135,7 @@ branches:
   long: 79.328404
 - title: Manneguda, Chevella
   images:
-  - Chevella1.jpg
+  - branch6.jpg
   - Chevella2.jpg
   - Chevella3.jpg
   - Chevella4.jpg
@@ -150,7 +150,7 @@ branches:
   long: 77.978911
 - title: Chittari Street, Kurnool
   images:
-  - Chittari Street1.jpg
+  - branch7.jpg
   selectorID:
     state: state1
     district: district5
@@ -161,7 +161,7 @@ branches:
   long: 78.053908
 - title: Etcherla, Srikakulam
   images:
-  - Etcherla1.jpg
+  - branch8.jpg
   - Etcherla2.jpg
   - Etcherla3.jpg
   selectorID:
@@ -178,7 +178,7 @@ branches:
   long: 83.821666
 - title: Hathiramji Colony, Tirupati
   images:
-  - Hathiramji Colony1.jpg
+  - branch9.jpg
   selectorID:
     state: state1
     district: district2
@@ -194,7 +194,7 @@ branches:
   long: 79.41955
 - title: Jaya Nagar, Tirupati
   images:
-  - Jayanagar1.jpg
+  - branch10.jpg
   selectorID:
     state: state1
     district: district2
@@ -209,7 +209,7 @@ branches:
   long: 79.431527
 - title: Kandi, Sanga Reddy
   images:
-  - Kandi1.jpg
+  - branch11.jpg
   - Kandi2.jpg
   - Kandi3.jpg
   selectorID:
@@ -227,7 +227,7 @@ branches:
   long: 78.117136
 - title: M.R. Palli, Tirupati
   images:
-  - MR Palli1.jpg
+  - branch12.jpg
   selectorID:
     state: state1
     district: district2
@@ -242,7 +242,7 @@ branches:
   long: 79.408204
 - title: Mamandur, Tirupati
   images:
-  - Mamandur1.jpg
+  - branch13.jpg
   - Mamandur2.jpg
   - Mamandur3.jpg
   selectorID:
@@ -260,7 +260,7 @@ branches:
   long: 79.42135
 - title: Maruthi Nagar, Anantapur
   images:
-  - Maruthi Nagar1.jpg
+  - branch14.jpg
   selectorID:
     state: state1
     district: district1
@@ -275,7 +275,7 @@ branches:
   long: 77.588685
 - title: Medam Street, Kurnool
   images:
-  - Medam street1.jpg
+  - branch15.jpg
   selectorID:
     state: state1
     district: district5
@@ -287,7 +287,7 @@ branches:
   long: 78.051525
 - title: Muruganipalli, Chittor
   images:
-  - Muruganipalli2.jpg
+  - branch16.jpg
   selectorID:
     state: state1
     district: district2
@@ -302,7 +302,7 @@ branches:
   long: 79.117641
 - title: New Balaji Colony, Chittor
   images:
-  - New Balaji colony1.jpg
+  - branch17.jpg
   selectorID:
     state: state1
     district: district2
@@ -317,7 +317,7 @@ branches:
   long: 79.091606
 - title: New Krishna Nagar, Kurnool
   images:
-  - New Krishnanagar1.jpg
+  - branch18.jpg
   - New Krishnanagar2.jpg
   selectorID:
     state: state1
@@ -334,7 +334,7 @@ branches:
   long: 78.036986
 - title: NGOs Colony, Kadapa
   images:
-  - NGOs Kadapa1.jpg
+  - branch19.jpg
   selectorID:
     state: state1
     district: district4
@@ -350,7 +350,7 @@ branches:
   long: 78.839813
 - title: NGOs Colony, Nandyal
   images:
-  - NGOs Nandyal1.jpg
+  - branch20.jpg
   selectorID:
     state: state1
     district: district5
@@ -361,7 +361,7 @@ branches:
   long: 78.488496
 - title: Nimmanapalli Road, Madanapalli
   images:
-  - Madanapalli1.jpg
+  - branch21.jpg
   - Madanapalli2.jpg
   - Madanapalli3.jpg
   selectorID:
@@ -380,7 +380,7 @@ branches:
   long: 78.555926
 - title: Old Krishna Nagar, Kurnool
   images:
-  - Old Krishna Nagar1.jpg
+  - branch22.jpg
   - Old Krishna Nagar2.jpg
   - Old Krishnanagar2.jpg
   selectorID:
