@@ -159,61 +159,51 @@ sections:
     cards:
       i1:
         title: Panyam, Nandyal
-        text: For more photos visit campuses page.
+        text: For Complete address and more photos visit campuses page.
         image: residential-campus1.jpg
       i2:
         title: Vadiyampeta, Anantapur
-        text: For more photos visit campuses page.
+        text: For Complete address and more photos visit campuses page.
         image: residential-campus2.jpg
       i3:
-        title: Keshava Reddy Campuses
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
+        title: Mamandur, Tirupati
+        text: For Complete address and more photos visit campuses page.
         image: residential-campus3.jpg
       i4:
-        title: Keshava Reddy Campuses
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
+        title: Nimmanapalli Road, Madanapalli
+        text: For Complete address and more photos visit campuses page.
         image: residential-campus4.jpg
       i5:
-        title: Keshava Reddy Campuses
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
+        title: Chandragiri, Tirupati
+        text: For Complete address and more photos visit campuses page.
         image: residential-campus5.jpg
       i6:
-        title: Keshava Reddy Campuses
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
+        title: Hukumpet, Rajahmundry
+        text: For Complete address and more photos visit campuses page.
         image: residential-campus6.jpg
       i7:
-        title: Keshava Reddy Campuses
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
+        title: Etcherla, Srikakulam
+        text: For Complete address and more photos visit campuses page.
         image: residential-campus7.jpg
       i8:
-        title: Keshava Reddy Campuses
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
+        title: Ampolu, Srikakulam
+        text: For Complete address and more photos visit campuses page.
         image: residential-campus8.jpg
       i9:
-        title: Keshava Reddy Campuses
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
+        title: Kandi, Sangareddy
+        text: For Complete address and more photos visit campuses page.
         image: residential-campus9.jpg
       i10:
-        title: Keshava Reddy Campuses
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
+        title: Manneguda, Chevella
+        text: For Complete address and more photos visit campuses page.
         image: residential-campus10.jpg
       i11:
-        title: Keshava Reddy Campuses
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
+        title: Bachupally, Hyderabad
+        text: For Complete address and more photos visit campuses page.
         image: residential-campus11.jpg
       i12:
-        title: Keshava Reddy Campuses
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
+        title: Appannapalli, Mahabubnagar
+        text: For Complete address and more photos visit campuses page.
         image: residential-campus12.jpg
 layout: residental-system
 ---
