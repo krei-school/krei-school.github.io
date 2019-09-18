@@ -394,7 +394,7 @@ branches:
   long: 78.035134
 - title: Panyam, Nandyal
   images:
-  - Panyam1.jpg
+  - branch23.jpg
   - Panyam2.jpg
   - Panyam3.jpg
   - Panyam4.jpg
@@ -414,7 +414,7 @@ branches:
   long: 78.382731
 - title: Hukumpet, Rajahmundry
   images:
-  - Rajahmundry1.jpg
+  - branch24.jpg
   - Rajahmundry2.jpg
   selectorID:
     state: state1
@@ -431,7 +431,7 @@ branches:
   long: 81.797178
 - title: Sai Nagar, Anantapur
   images:
-  - Sainagar1.jpg
+  - branch25.jpg
   selectorID:
     state: state1
     district: district1
@@ -447,7 +447,7 @@ branches:
   long: 77.601465
 - title: Sankalbagh, Kurnool
   images:
-  - Sankalbagh1.jpg
+  - branch26.jpg
   - Sankalbagh2.jpg
   - Sankalbagh3.jpg
   selectorID:
@@ -464,7 +464,7 @@ branches:
   long: 78.040451
 - title: Sri Lakshmi Nagar, Kurnool
   images:
-  - Srilakshminagar1.jpg
+  - branch27.jpg
   - Srilakshminagar2.jpg
   selectorID:
     state: state1
@@ -482,7 +482,7 @@ branches:
   long: 78.042785
 - title: V.R. Colony, Kurnool
   images:
-  - VR Colony1.jpg
+  - branch28.jpg
   - VR Colony2.jpg
   - VR Colony3.jpg
   selectorID:
@@ -500,7 +500,7 @@ branches:
   long: 78.019017
 - title: Vadiyampeta, Anantapur
   images:
-  - Vadiyampeta1.jpg
+  - branch29.jpg
   - Vadiyampeta2.jpg
   - Vadiyampeta3.jpg
   - Vadiyampeta4.jpg
@@ -515,7 +515,7 @@ branches:
   long: 77.600013
 - title: Potladurthi, Proddatur
   images:
-  - Potladurthi1.jpg
+  - branch30.jpg
   selectorID:
     state: state1
     district: district4
@@ -527,7 +527,7 @@ branches:
   long: 78.543017
 - title: YMR Colony, Proddatur
   images:
-  - YMR Colony1.jpg
+  - branch31.jpg
   - YMR Colony2.jpg
   - YMR Colony3.jpg
   selectorID:
