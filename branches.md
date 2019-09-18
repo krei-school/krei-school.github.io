@@ -136,7 +136,7 @@ branches:
   phone: "+91-7893977723"
   lat: 13.594431
   long: 79.328404
-- title: Manneguda, Vikarabad
+- title: Manneguda, Chevella
   images:
   - card.jpg
   - card1.jpg
@@ -150,7 +150,7 @@ branches:
   phone: "+917893074111"
   lat: 17.279025
   long: 77.978911
-- title: CHITTARI STREET
+- title: Chittari Street, Kurnool
   images:
   - card.jpg
   - card1.jpg
@@ -163,7 +163,7 @@ branches:
   phone: "+919849590406"
   lat: 15.825311
   long: 78.053908
-- title: ETCHERLA
+- title: Etcherla, Srikakulam
   images:
   - card.jpg
   - card1.jpg
@@ -180,7 +180,7 @@ branches:
   phone: "+919618994345"
   lat: 18.281523
   long: 83.821666
-- title: HATHIRAMJI COLONY
+- title: Hathiramji Colony, Tirupati
   images:
   - card.jpg
   - card1.jpg
@@ -198,7 +198,7 @@ branches:
   phone: "+919502285999"
   lat: 13.62075
   long: 79.41955
-- title: JAYA NAGAR
+- title: Jaya Nagar, Tirupati
   images:
   - card.jpg
   - card1.jpg
@@ -215,7 +215,7 @@ branches:
   phone: "+919618619345"
   lat: 13.624644
   long: 79.431527
-- title: KANDI
+- title: Kandi, Sanga Reddy
   images:
   - card.jpg
   - card1.jpg
@@ -233,7 +233,7 @@ branches:
   phone: "+919100032843"
   lat: 17.586036
   long: 78.117136
-- title: M R PALLI
+- title: M.R. Palli, Tirupati
   images:
   - card.jpg
   - card1.jpg
@@ -250,7 +250,7 @@ branches:
   phone: "+919618619234"
   lat: 13.621659
   long: 79.408204
-- title: MAMANDUR
+- title: Mamandur, Tirupati
   images:
   - card.jpg
   - card1.jpg
@@ -268,7 +268,7 @@ branches:
   phone: "+917893070222"
   lat: 13.781382
   long: 79.42135
-- title: MARUTHI NAGAR
+- title: Maruthi Nagar, Anantapur
   images:
   - card.jpg
   - card1.jpg
@@ -285,7 +285,7 @@ branches:
   phone: "+917702999049"
   lat: 14.662547
   long: 77.588685
-- title: MEDAM STREET
+- title: Medam Street, Kurnool
   images:
   - card.jpg
   - card1.jpg
@@ -299,7 +299,7 @@ branches:
   phone: "+919100032810"
   lat: 15.823131
   long: 78.051525
-- title: MURUGANPALLI
+- title: Muruganipalli, Chittor
   images:
   - card.jpg
   - card1.jpg
@@ -316,7 +316,7 @@ branches:
   phone: "+919100032808"
   lat: 13.224571
   long: 79.117641
-- title: NEW BALAJI COLONY
+- title: New Balaji Colony, Chittor
   images:
   - card.jpg
   - card1.jpg
@@ -333,7 +333,7 @@ branches:
   phone: "+919100032807"
   lat: 13.214294
   long: 79.091606
-- title: NEW KRISHNA NAGAR
+- title: New Krishna Nagar, Kurnool
   images:
   - card.jpg
   - card1.jpg
@@ -351,7 +351,7 @@ branches:
   phone: "+919652709666"
   lat: 15.807175
   long: 78.036986
-- title: NGOS KADAPA
+- title: NGOs Colony, Kadapa
   images:
   - card.jpg
   - card1.jpg
@@ -369,7 +369,7 @@ branches:
   phone: "+919701344948"
   lat: 14.466294
   long: 78.839813
-- title: NGOS NANDYAL
+- title: NGOs Colony, Nandyal
   images:
   - card.jpg
   - card1.jpg
@@ -382,7 +382,7 @@ branches:
   phone: "+919963840999"
   lat: 15.466734
   long: 78.488496
-- title: NIMMANAPALLI
+- title: Nimmanapalli Road, Madanapalli
   images:
   - card.jpg
   - card1.jpg
@@ -401,7 +401,7 @@ branches:
   phone: "+917893079444"
   lat: 13.55415
   long: 78.555926
-- title: OLD KRISHNA NAGAR
+- title: Old Krishna Nagar, Kurnool
   images:
   - card.jpg
   - card1.jpg
@@ -415,7 +415,7 @@ branches:
   phone: "+919652709444"
   lat: 15.812259
   long: 78.035134
-- title: PANYAM
+- title: Panyam, Nandyal
   images:
   - card.jpg
   - card1.jpg
@@ -432,7 +432,7 @@ branches:
   phone: "+919000202999"
   lat: 15.502613
   long: 78.382731
-- title: RAJAHMUNDRY
+- title: Hukumpet, Rajahmundry
   images:
   - card.jpg
   - card1.jpg
@@ -450,7 +450,7 @@ branches:
   phone: "+917893098883"
   lat: 16.979191
   long: 81.797178
-- title: SAI NAGAR
+- title: Sai Nagar, Anantapur
   images:
   - card.jpg
   - card1.jpg
@@ -468,7 +468,7 @@ branches:
   phone: "+919989850099"
   lat: 14.672874
   long: 77.601465
-- title: SANKALBAGH
+- title: Sankalbagh, Kurnool
   images:
   - card.jpg
   - card1.jpg
@@ -485,7 +485,7 @@ branches:
   phone: "+919618605123"
   lat: 15.841663
   long: 78.040451
-- title: SRI LAKSHMI NAGAR
+- title: Sri Lakshmi Nagar, Kurnool
   images:
   - card.jpg
   - card1.jpg
@@ -504,7 +504,7 @@ branches:
   phone: "+919100032806"
   lat: 15.797772
   long: 78.042785
-- title: V R COLONY
+- title: V.R. Colony, Kurnool
   images:
   - card.jpg
   - card1.jpg
@@ -522,7 +522,7 @@ branches:
   phone: "+919618614678"
   lat: 15.838111
   long: 78.019017
-- title: VADIYAMPETA
+- title: Vadiyampeta, Anantapur
   images:
   - card.jpg
   - card1.jpg
@@ -536,7 +536,7 @@ branches:
   phone: "+919618573444"
   lat: 14.763087
   long: 77.600013
-- title: YERRAGUNTLA
+- title: Potladurthi, Proddatur
   images:
   - card.jpg
   - card1.jpg
@@ -550,7 +550,7 @@ branches:
   phone: "+919618514234"
   lat: 14.719857
   long: 78.543017
-- title: YMR COLONY
+- title: YMR Colony, Proddatur
   images:
   - card.jpg
   - card1.jpg
