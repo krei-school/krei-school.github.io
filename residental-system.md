@@ -158,14 +158,12 @@ sections:
     text: Our sprawling green residential campuses
     cards:
       i1:
-        title: Keshava Reddy Campuses
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
+        title: Panyam, Nandyal
+        text: For more photos visit campuses page.
         image: residential-campus1.jpg
       i2:
-        title: Keshava Reddy Campuses
-        text: Quisque fringilla nisl non lacus elementum, eget bibendum orci ornare.
-          Ut in ligula quis lorem sagittis rhoncus.
+        title: Vadiyampeta, Anantapur
+        text: For more photos visit campuses page.
         image: residential-campus2.jpg
       i3:
         title: Keshava Reddy Campuses
