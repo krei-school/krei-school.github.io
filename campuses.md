@@ -48,9 +48,9 @@ selectors:
 branches:
 - title: Ampolu, Srikakulam
   images:
-  - branch1.jpg
-  - branch2.jpg
-  - branch3.jpg
+  - Ampolu1.jpg
+  - Ampolu2.jpg
+  - Ampolu3.jpg
   selectorID:
     state: state1
     district: district6
@@ -61,9 +61,9 @@ branches:
   long: 83.952607
 - title: Appannapally, Mahabubnagar
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Appannapalli1.jpg
+  - Appannapalli2.jpg
+  - Appannapalli3.jpg
   selectorID:
     state: state2
     district: district7
@@ -79,9 +79,7 @@ branches:
   long: 78.085956
 - title: Arasavalli, Srikakulam
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Arasavalli1.jpg
   selectorID:
     state: state1
     district: district6
@@ -93,9 +91,9 @@ branches:
   long: 83.905328
 - title: Bachupally, Hyderabad
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Bachupally1.jpg
+  - Bachupally2.jpg
+  - Bachupally3.jpg
   selectorID:
     state: state2
     district: district8
@@ -112,9 +110,9 @@ branches:
   long: 78.371931
 - title: Balaji Complex, Nandyal
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Balaji Complex1.jpg
+  - Balaji Complex2.jpg
+  - Balaji Complex3.jpg
   selectorID:
     state: state1
     district: district5
@@ -125,9 +123,8 @@ branches:
   long: 78.489891
 - title: Chandragiri, Tirupati
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Chandragiri1.jpg
+  - Chandragiri2.jpg
   selectorID:
     state: state1
     district: district2
@@ -138,9 +135,10 @@ branches:
   long: 79.328404
 - title: Manneguda, Chevella
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Chevella1.jpg
+  - Chevella2.jpg
+  - Chevella3.jpg
+  - Chevella4.jpg
   selectorID:
     state: state2
     district: district9
@@ -152,9 +150,7 @@ branches:
   long: 77.978911
 - title: Chittari Street, Kurnool
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Chittari Street1.jpg
   selectorID:
     state: state1
     district: district5
@@ -165,9 +161,9 @@ branches:
   long: 78.053908
 - title: Etcherla, Srikakulam
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Etcherla1.jpg
+  - Etcherla2.jpg
+  - Etcherla3.jpg
   selectorID:
     state: state1
     district: district6
@@ -182,9 +178,7 @@ branches:
   long: 83.821666
 - title: Hathiramji Colony, Tirupati
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Hathiramji Colony1.jpg
   selectorID:
     state: state1
     district: district2
@@ -200,9 +194,7 @@ branches:
   long: 79.41955
 - title: Jaya Nagar, Tirupati
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Jayanagar1.jpg
   selectorID:
     state: state1
     district: district2
@@ -217,9 +209,9 @@ branches:
   long: 79.431527
 - title: Kandi, Sanga Reddy
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Kandi1.jpg
+  - Kandi2.jpg
+  - Kandi3.jpg
   selectorID:
     state: state2
     district: district10
@@ -235,9 +227,7 @@ branches:
   long: 78.117136
 - title: M.R. Palli, Tirupati
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - MR Palli1.jpg
   selectorID:
     state: state1
     district: district2
@@ -252,9 +242,9 @@ branches:
   long: 79.408204
 - title: Mamandur, Tirupati
   images:
-  - card.jpg
-  - card1.jpg
-  - card2.jpg
+  - Mamandur1.jpg
+  - Mamandur2.jpg
+  - Mamandur3.jpg
   selectorID:
     state: state1
     district: district2
