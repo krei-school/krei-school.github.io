@@ -351,6 +351,7 @@ branches:
 - title: NGOs Colony, Nandyal
   images:
   - branch20.jpg
+  - NGOs Nandyal1.jpg
   selectorID:
     state: state1
     district: district5
