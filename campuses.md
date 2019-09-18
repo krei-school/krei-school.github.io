@@ -1,6 +1,6 @@
 ---
 title: Campuses
-page_title: Branches
+page_title: Campuses
 sections:
   i1:
     title: 32 Branches
