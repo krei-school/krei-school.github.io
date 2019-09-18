@@ -20,7 +20,7 @@ sections:
       be taking up social activities in the fields of education, health, agriculture,
       environment, disaster relief in partnership with other like-minded NGOs. \n\nClick
       on the below portal link to join our official alumni social network. "
-    url: http://alumni.keshavareddy.com
+    url: https://alumni.keshavareddy.com/members.dz
     image: alumni-section1.jpg
   i2:
     title: Demo 4 Image Feature
