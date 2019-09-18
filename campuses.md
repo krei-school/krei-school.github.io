@@ -1,5 +1,5 @@
 ---
-title: Branches
+title: Campuses
 page_title: Branches
 sections:
   i1:
