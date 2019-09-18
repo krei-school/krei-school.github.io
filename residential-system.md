@@ -211,6 +211,6 @@ sections:
         title: Appannapalli, Mahabubnagar
         text: For Complete address and more photos visit campuses page.
         image: residential-campus12.jpg
-layout: residental-system
+layout: residential-system
 ---
 
