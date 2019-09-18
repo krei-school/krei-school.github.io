@@ -132,18 +132,17 @@ sections:
     cards:
       i1:
         title: Schedule
-        text: "For residential students, the day starts early at 5 am — the morning
-          rituals include getting ready for Yoga, Karate, Swimming, Games, Gosh etc.
-          After they are done with the play activities of their interest by 6.30 am,
-          they have a one hour study hour session. They start getting ready for school
+        text: "The day starts early at 5 am with morning rituals that include freshening
+          up and getting ready for Yoga, Karate, Swimming, Games, Gosh etc. After
+          they are done with the play activities of their interest by 6.30 am, they
+          have a one hour study hour session. They start getting ready for school
           from 7.30 am and have a healthy and tasty breakfast by 8.45 am. They attend
           prayer at 8.45 am to 9 am and go on to their regular classes until 1 pm.
           \n\nThe afternoon session starts at 1.40 pm, and classes go on until 5.00
           pm. Students participate in different kinds of Games and Sports until 6.30
           pm and then freshen up and get ready for evening study hours. After the
           2 hour study hour session, they have dinner at 8.30 pm and call it a day
-          by 9.00 pm. This is a typical schedule and may vary depending on the campus
-          location. "
+          by 9.00 pm. "
         image: residential-section9.jpg
       i2:
         title: Study Hours
