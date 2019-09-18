@@ -259,7 +259,12 @@ branches:
     state: state1
     district: district2
     type: type1
-  text: KESHAVA REDDY SCHOOL,MAMANDUR (V&P),RENIGUTA (M), CHITTOOR (DIST)-517520.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    Mamandur(V&P),
+    Renigunta(M),
+    Chittor(D),
+    Andhra Pradesh-517520
   phone: "+917893070222"
   lat: 13.781382
   long: 79.42135
@@ -272,7 +277,11 @@ branches:
     state: state1
     district: district1
     type: type2
-  text: KESHAVA REDDY SCHOOL, MARUTHI NAGAR,ANANTAPUR, PIN -515004.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    Maruthi Nagar,
+    Anantapur,
+    Andhra Pradesh-515004
   phone: "+917702999049"
   lat: 14.662547
   long: 77.588685
@@ -285,8 +294,8 @@ branches:
     state: state1
     district: district5
     type: type2
-  text: H.No:26-69, KESHAVA REDDY E.M. SCHOOL,MADAM VARI SATRAM,NEAR I TOWN POLICE
-    STATION,KURNOOL- 518001.
+  text: "KESHAVA REDDY SCHOOL,\nH.No-1/228, \nMedamvari Satram,\nMedam Street, Kurnool,\nAndhra
+    Pradesh-518001"
   phone: "+919100032810"
   lat: 15.823131
   long: 78.051525
@@ -299,7 +308,11 @@ branches:
     state: state1
     district: district2
     type: type2
-  text: KESHAVA REDDY CONCEPT SCHOOL,MURUGANIPALLI,CHITTOOR-517001.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    Muruganipalli,
+    Chittor,
+    Andhra Pradesh-517001
   phone: "+919100032808"
   lat: 13.224571
   long: 79.117641
@@ -312,7 +325,11 @@ branches:
     state: state1
     district: district2
     type: type2
-  text: KESHAVA REDDY CONCEPT SCHOOL,NEW BALAJI COLONY, CHITTOOR-517001.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    New Balaji Colony,
+    Chittor,
+    Andhra Pradesh-517001
   phone: "+919100032807"
   lat: 13.214294
   long: 79.091606
@@ -325,7 +342,12 @@ branches:
     state: state1
     district: district5
     type: type2
-  text: H.No-78-8-A-5-1-B,KESHAVA REDDY E.M. SCHOOL,NEW KRISHNA NAGAR, KURNOOL- 518003.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    H. No-80-128,
+    Krishna Nagar,
+    Near Birla Gate, Kurnool,
+    Andhra Pradesh-518003
   phone: "+919652709666"
   lat: 15.807175
   long: 78.036986
@@ -338,7 +360,12 @@ branches:
     state: state1
     district: district4
     type: type2
-  text: KESHAVA REDDY SCHOOL,OLD R.T.C. BYPASS ROAD,CHINNA CHOWK, KADAPA.-516002.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    Old RTC Bypass Road,
+    NGOs Colony,
+    Kadapa
+    Andhra Pradesh-516002
   phone: "+919701344948"
   lat: 14.466294
   long: 78.839813
@@ -351,7 +378,7 @@ branches:
     state: state1
     district: district5
     type: type2
-  text: KESHAVA REDDY SCHOOL,NGO'S COLONY, NANDYAL,KURNOOL (DIST)-518502.
+  text: "KESHAVA REDDY SCHOOL,\nNGOs Colony, \nNandyal, Kurnool(D),\nAndhra Pradesh-518502"
   phone: "+919963840999"
   lat: 15.466734
   long: 78.488496
@@ -364,8 +391,13 @@ branches:
     state: state1
     district: district2
     type: type1
-  text: KESHAVA REDDY e-LEARNING SCHOOL,MACHIREDDYGARIPALLI,NIMMANAPALLI (M),MADANAPALLI,
-    CHITTOOR (DIST)-517325.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    Nimmanapalli Road,
+    Machireddy Garipalli(V),
+    Nimmanapalli(M),
+    Madanapalli, Chittor(D),
+    Andhra Pradesh-517325
   phone: "+917893079444"
   lat: 13.55415
   long: 78.555926
@@ -378,8 +410,8 @@ branches:
     state: state1
     district: district5
     type: type2
-  text: H.No-80-128,KESHAVA REDDY E.M. SCHOOL,KRISHNA NAGAR,NEAR BIRLA GATE, KURNOOL-
-    518003.
+  text: "KESHAVA REDDY SCHOOL,\nH.No-78-8-A-5-1-B, \nNew Krishna Nagar,\nKurnool,\nAndhra
+    Pradesh-518003"
   phone: "+919652709444"
   lat: 15.812259
   long: 78.035134
@@ -392,8 +424,11 @@ branches:
     state: state1
     district: district5
     type: type1
-  text: KESHAVA REDDY SCHOOL,KESHAVAREDDYNAGAR,NERAWADA (P&V), PANYAM (M),KURNOOL
-    (DIST)-518112.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    Nerawada(V&P), Panyam(M),
+    Kurnool(D),
+    Andhra Pradesh-518112
   phone: "+919000202999"
   lat: 15.502613
   long: 78.382731
@@ -406,7 +441,12 @@ branches:
     state: state1
     district: district3
     type: type1
-  text: KESHAVA REDDY SCHOOL,N.H-5 ROAD, OPP. EANADU OFFICE, HUKUMPET (V), RAJAHMUNDRY-533107
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    NH-5, Opp. Eenadu Office,
+    Hukumpet(V),
+    Rajahmundry,
+    Andhra Pradesh-533103
   phone: "+917893098883"
   lat: 16.979191
   long: 81.797178
@@ -419,7 +459,12 @@ branches:
     state: state1
     district: district1
     type: type2
-  text: KESHAVA REDDY SCHOOL,6th CROSS SAI NAGAR,ANANTAPUR.PIN - 515004.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    6th Cross,
+    Sai Nagar,
+    Anantapur,
+    Andhra Pradesh-515004
   phone: "+919989850099"
   lat: 14.672874
   long: 77.601465
@@ -432,7 +477,11 @@ branches:
     state: state1
     district: district5
     type: type2
-  text: H.No-43-253-B-1-1,KESHAVA REDDY E.M. SCHOOL,SANKAL BAGH, KURNOOL- 518004.
+  text: |
+    KESHAVA REDDY SCHOOL,
+    H. No-43-253-B-1-1,
+    Sankalbagh, Kurnool,
+    Andhra Pradesh-518004
   phone: "+919618605123"
   lat: 15.841663
   long: 78.040451
@@ -445,8 +494,13 @@ branches:
     state: state1
     district: district5
     type: type2
-  text: H.No-87-140-A,KESHAVA REDDY E.M. SCHOOL,OPP.GOVT. DEGREE COLLEGE FOR MEN,SRI
-    LAKSHMI NAGAR, KURNOOL-518001.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    H.No.-87-140-A,
+    Opp. Govt. Degree College,
+    Sri Lakshmi Nagar,
+    Kurnool,
+    Andhra Pradesh-518001
   phone: "+919100032806"
   lat: 15.797772
   long: 78.042785
@@ -459,7 +513,12 @@ branches:
     state: state1
     district: district5
     type: type2
-  text: H.No:4-72-1,KESHAVA REDDY E.M. SCHOOL,VENKATA RAMANA COLONY,KURNOOL- 518004.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    H.No-4-72-1,
+    Venkata Ramana Colony,
+    Kurnool,
+    Andhra Pradesh-518004
   phone: "+919618614678"
   lat: 15.838111
   long: 78.019017
@@ -472,8 +531,8 @@ branches:
     state: state1
     district: district1
     type: type1
-  text: KESHAVA REDDY CONCEPT SCHOOL,VADIYAMPETA (V & P),Bukkarayasamudram (M),Anantapur
-    (Dist), PIN – 515731.
+  text: "KESHAVA REDDY SCHOOL,\nVadiyampeta(P&V), \nBukkarayasamudram(M), \nAnantapur(D),\nAndhra
+    Pradesh-515731"
   phone: "+919618573444"
   lat: 14.763087
   long: 77.600013
@@ -486,7 +545,8 @@ branches:
     state: state1
     district: district4
     type: type2
-  text: KESHAVA REDDY SCHOOL,YERRAGUNTLA ROAD, POTLADURTHI,PRODDATUR KADAPA (DIST)-516360.
+  text: "KESHAVA REDDY SCHOOL,\nYerraguntla Road, \nPotladurthi,\nProddatur, Kadapa(D),\nAndhra
+    Pradesh-516360"
   phone: "+919618514234"
   lat: 14.719857
   long: 78.543017
@@ -499,7 +559,11 @@ branches:
     state: state1
     district: district4
     type: type2
-  text: KESHAVA REDDY SCHOOL,YMR COLONY, PRODDATUR,KADAPA (DIST).PINCODE-516360.
+  text: |-
+    KESHAVA REDDY SCHOOL,
+    YMR Colony,
+    Proddatur, Kadapa(D),
+    Andhra Pradesh-516360
   phone: "+917893108884"
   lat: 14.763811
   long: 78.549207
