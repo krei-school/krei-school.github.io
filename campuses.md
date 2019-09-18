@@ -8,7 +8,7 @@ sections:
       schools"
     image: branches-section1.jpg
   i2:
-    title: Branches
+    title: Campuses
     text: All Branch Addresses
 selectors:
   type:
