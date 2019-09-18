@@ -73,9 +73,10 @@ sections:
         title: Vision
         text: 'Our vision is to nurture children into noble human beings who care
           for the betterment and welfare of humanity as well as the planet. We want
-          to equip the children with 21st-century skills such as communication, creativity,
-          collaboration, critical thinking etc. and make sure they contribute something
-          back to society. '
+          to empower the children with 21st-century skills such as communication,
+          creativity, collaboration, critical thinking etc. and moral values like
+          integrity, empathy, humility and responsibility to ensure they contribute
+          something back to society. '
   i4:
     title: Approach
     text: 'Our approach to imparting education recognises the importance of the principle
