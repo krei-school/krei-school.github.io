@@ -10,7 +10,7 @@ sections:
           Medchal(D),\nHyderabad, Telangana- 500090\n\nPlease fill the form and also
           \nemail your resume to \njobs@keshavareddy.com"
         phone1: "+919100330121"
-        phone2: "+919100330121"
+        phone2: "+916304734545"
   i2:
     url: https://docs.google.com/forms/d/e/1FAIpQLSdX9Aj5YmuBd5RVAMaYoTZa1E8KMV9YAmvuzDWQNUhIS_4rNQ/viewform?usp=sf_link
   i3:
