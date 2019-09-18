@@ -9,9 +9,7 @@ sections:
         address: "Keshava Reddy Schools,\nCentral Office,\nSurvey No. 56/B, Bachupally(V),\nQuthbullapur(M),
           Medchal(D),\nHyderabad, Telangana- 500090\n\nPlease fill the form and also
           \nemail your resume to \njobs@keshavareddy.com"
-        phone: |-
-          +919100330121
-          +916304734545
+        phone: "+919100330121"
       i2:
         title: Contact 2
         address: |-
