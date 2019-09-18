@@ -147,9 +147,12 @@ sections:
       i2:
         title: Study Hours
         text: Daily study hours are conducted within the campus without fail for three
-          hours - 1 hour in the morning and two hours in the evening. Faculty who
-          reside within the campus supervises these study hours. Thus any doubts/clarifications
-          of the students are immediately attended to by these faculty.
+          hours - 1 hour in the morning and two hours in the evening. This time helps
+          the child to revise all the topics that are taught in the classroom during
+          the day. Faculty who reside within the school supervises these study hours.
+          Thus any doubts/clarifications of the students are immediately attended
+          to by these faculty. It helps the children and teachers to a bond with each
+          other.
         image: residential-studyhours.jpg
   i10:
     title: Hygiene
