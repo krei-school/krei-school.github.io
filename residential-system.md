@@ -1,6 +1,6 @@
 ---
 title: Residential System
-page_title: Residental System
+page_title: Residential System
 sections:
   i1:
     title: Wholesome Nutrition
