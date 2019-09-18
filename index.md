@@ -10,7 +10,7 @@ sliders:
     title: Best SSC Results consistently
     desc: Be it in Ranking or grading system our students have been leading in both
       the states consistently.
-    url: "/about-us.html"
+    url: "/academics.html"
   i3:
     title: The Best Residential System
     desc: The Best Residential System in 2 states. The largest chain of Residential
