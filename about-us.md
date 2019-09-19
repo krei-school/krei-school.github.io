@@ -42,8 +42,9 @@ sections:
           He has his humble beginnings as a teacher in Sishumandir schools run by
           the RSS. He also worked as a headmaster and gained a decade of experience
           in running a school before he started the institutions. Though he does not
-          come from a wealthy background, his hard work and dedication made things
-          possible. "
+          come from wealthy family background, his noble vision,  hard work, and dedication
+          were instrumental in creating such beautiful campuses that help shaped bright
+          future for thousands of students. "
         image: about-us-section3-card1.jpg
       i2:
         title1: Bharath Reddy
@@ -52,7 +53,9 @@ sections:
           La Trobe University, Melbourne. He also pursued his Post Graduate Diploma
           in ICT (Information and Communication Technology) in Education from the
           most prestigious King's College London. He is the managing director for
-          the organisation and handles day to day functioning and operations. "
+          the organisation and handles day to day functioning and operations. His
+          exposure to the outside world helped effectively transform academic, administrative
+          and financial systems within the organisation. "
         image: about-us-section3-card2.jpg
       i3:
         title1: Gangadhar Reddy
