@@ -54,8 +54,8 @@ sections:
           in ICT (Information and Communication Technology) in Education from the
           most prestigious King's College London. He is the managing director for
           the organisation and handles day to day functioning and operations. His
-          exposure to the outside world helped effectively transform academic, administrative
-          and financial systems within the organisation. "
+          exposure to the outside world helped in implementing best practises in academic,
+          administrative and financial systems within the organisation. "
         image: about-us-section3-card2.jpg
       i3:
         title1: Gangadhar Reddy
