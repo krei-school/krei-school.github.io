@@ -22,6 +22,7 @@ sections:
       on the below portal link to join our official alumni social network. "
     url: https://alumni.keshavareddy.com/members.dz
     image: alumni-section1.jpg
+    aluminiurl: https://alumni.keshavareddy.com
   i2:
     title: Demo 4 Image Feature
     text: |-
