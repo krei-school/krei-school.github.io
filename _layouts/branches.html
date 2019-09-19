@@ -88,7 +88,7 @@ layout: general_page
                     {% for branch in page.branches %}
 
                     <div class="col-xl-6 col-lg-6 6 col-sm-12 mt-20 ml-10  element-item {{ branch.selectorID.state }} {{branch.selectorID.district}} {{branch.selectorID.type}}">
-                        <div class="row m-0" style="background-color: #e9ecef; height: 270px">
+                        <div class="row m-0" style="background-color: #e9ecef">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 p-0  text-center">
                                 <a href="#" role="button" data-toggle="modal" data-target="#branch{{forloop.index}}-modal">
                                 <img class="img-fluid"
@@ -136,7 +136,7 @@ layout: general_page
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 align-self-center text-center">
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 align-self-center text-center" style="height: 270px>
                                 <div class=" p-0"><h3>{{branch.title}}</h3>
                                     <p>{{branch.text | newline_to_br}}</p>
                                     <span class="fa fa-phone fa-rotate-180" style="color:black"> </span>
