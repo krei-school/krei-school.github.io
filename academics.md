@@ -36,15 +36,14 @@ sections:
         title: 10th Result Oriented
         text: "Keshava Reddy schools have the unique distinction of being a top performer
           in SSC board exams in both Andhra Pradesh and Telangana year on year consistently.
-          Every year, more than 90 % of our students have achieved grades of 9 and
-          above, with an average of 25% of the students securing 10/10 in all subjects.\n\nOur
-          trained and experienced faculty, practical approach and real-world examples
-          and scenarios, using ICT tools in teaching, continuous assessment of the
-          students and integrating feedback in the learning plans for students ensure
-          that the students have a solid foundation on various basics and concepts.
-          Particular focus is given on each student to identify the areas/concepts/subjects
-          where they are lagging, and tailor-made improvement plans are implemented.
-          \   "
+          Every year, almost 90 % of our students have achieved 9 and above GPA, with
+          an average of 25% of the students securing 10/10 GPA.\n\nOur trained and
+          experienced faculty, practical approach and real-world examples and scenarios,
+          using ICT tools in teaching, continuous assessment of the students and integrating
+          feedback in the learning plans for students ensure that the students have
+          a solid foundation on various basics and concepts. Particular focus is given
+          on each student to identify the areas/concepts/subjects where they are lagging,
+          and tailor-made improvement plans are implemented.    "
         image: academics-section3-card1.jpg
       i2:
         title: IIT and NEET Foundation
