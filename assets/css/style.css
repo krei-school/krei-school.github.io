@@ -926,7 +926,7 @@ img {
     color: #ff5e14;
 }
 .jkl-job-updates a {
-    color: #000000;
+    color: #d0d0d0;
     font-weight: 600;
 
 }
@@ -980,7 +980,7 @@ img {
 }
 
 .jkl-job-update-container {
-    background-color: #f9f7f7;
+    background-color: #000000;
     padding-top:10px;
     margin-bottom: 20px;
     margin-top:20px
