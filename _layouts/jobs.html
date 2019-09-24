@@ -69,8 +69,7 @@ layout: general_page
 
                         {% for post in site.jobs %}
                         <div class="col-xl-12 home-update-entry">
-<!--                             <span class="home-date">{{post.date |  date: "%d %b %y"  }}</span> <a href="{{post.url | prepend:site.baseurl}}"> - {{post.title}}</a> -->
-                         <span class="home-date">{{post.date |  date: "%d %b %y"  }}</span> <a> - {{post.title}}</a>
+                            <span class="home-date">{{post.date |  date: "%d %b %y"  }}</span> <a href="{{post.url | prepend:site.baseurl}}"> - {{post.title}}</a>
                         </div>
                         {% endfor %}
 

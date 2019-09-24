@@ -17,6 +17,13 @@ defaults:
     type: posts
   values:
     page_title: Updates
+    layout: post
+- scope:
+    path: ''
+    type: jobs
+  values:
+    page_title: Updates
+    layout: job_updates
 google_maps_api: AIzaSyBG9k6FO2Cfri67hsJuO3x8PfyJ4TK8I3M
 plugins:
 - jekyll-paginate

@@ -28,13 +28,26 @@ layout: general_page
 
                             </div>
                             <div class="row pt-20">
+                                {% for doc in site.jobs  %}
+                                    {% if doc.title == page.title %}
+                                        {% unless forloop.first %}
+                                            {% assign prevurl = prev.url %}
+                                        {% endunless %}
+                                        {% unless forloop.last %}
+                                            {% assign next = site.jobs[forloop.index] %}
+                                            {% assign nexturl = next.url %}
+                                        {% endunless %}
+                                    {% endif %}
+                                    {% assign prev = doc %}
+                                {% endfor %}
+
                                 <!-- previous button -->
-                                {% if page.previous.url %}
+                                {% if prevurl %}
                                 <div class="col-xl-6 col-lg-6 col-md-6">
                                     <nav class="page-navigation pagination">
                                         <ul>
 
-                                            <li class="page-item"><a class="page-link active" href="{{page.previous.url | prepend:site.baseurl}}">Prev</a></li>
+                                            <li class="page-item"><a class="page-link active" href="{{prevurl | prepend:site.baseurl}}">Prev</a></li>
 
 
                                         </ul>
@@ -43,11 +56,11 @@ layout: general_page
                                 {% endif %}
 
                                 <!-- next button -->
-                                {% if page.next.url %}
+                                {% if nexturl %}
                                 <div class="colcol-xl-6 col-lg-6 col-md-6 text-right">
                                     <nav class="page-navigation pagination">
                                         <ul>
-                                            <li class="page-item"><a class="page-link" href="{{page.next.url  | prepend:site.baseurl}}">Next</a></li>
+                                            <li class="page-item"><a class="page-link" href="{{nexturl  | prepend:site.baseurl}}">Next</a></li>
                                         </ul>
                                     </nav>
                                 </div>
