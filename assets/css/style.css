@@ -908,6 +908,31 @@ img {
 
 }
 
+
+.jkl-job-updates {
+    position: relative;
+    top: 0px;
+    min-height: 100px;
+
+}
+
+
+.jkl-job-updates-updates .container-fluid {
+    z-index: 2;
+}
+
+
+.jkl-job-updates  a:hover{
+    color: #ff5e14;
+}
+.jkl-job-updates a {
+    color: #000000;
+    font-weight: 600;
+
+}
+
+
+
 .jkl-home-updates {
     position: relative;
     top: 0px;
@@ -953,6 +978,14 @@ img {
     padding-top:10px;
     margin-bottom: 100px
 }
+
+.jkl-job-update-container {
+    background-color: #f9f7f7;
+    padding-top:10px;
+    margin-bottom: 20px;
+    margin-top:20px
+}
+
 
 
 .jkl-contact-us-bg {

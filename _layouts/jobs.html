@@ -3,7 +3,27 @@ layout: general_page
 ---
 
 <main style="overflow: visible" class="contact-us">
+    <section style="position:relative;" id="section3">
+        <div class="jkl-job-updates  d-flex align-items-center">
 
+            <div class="container-fluid">
+                <div class="container ">
+
+                    <div class="row jkl-job-update-container">
+
+                        {% for post in site.jobs %}
+                        <div class="col-xl-12 home-update-entry">
+                            <span class="home-date">{{post.date |  date: "%d %b %y"  }}</span> <a href="{{post.url | prepend:site.baseurl}}"> - {{post.title}}</a>
+                        </div>
+                        {% endfor %}
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </section>
     <section id="section1" class="grey-bg" style="overflow: hidden">
         <div class="container-fluid pt-50">
             <div class="container">
@@ -53,33 +73,7 @@ layout: general_page
         </div>
     </section>
     
-<section style="position:relative;" id="section3">
-        <div class="jkl-home-updates  d-flex align-items-center">
-            <div class="jkl-jobs-updates-bg"></div>
-            <div class="container-fluid">
-                <div class="container ">
-                    <div class="row">
-                        <div class="col-xl-12 text-center mb-40">
-                            <div class="jkl-home-about-info-white-text">
-                                <h2>{{page.sections.i3.title}}</h2>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row jkl-home-update-container">
 
-                        {% for post in site.jobs %}
-                        <div class="col-xl-12 home-update-entry">
-                            <span class="home-date">{{post.date |  date: "%d %b %y"  }}</span> <a href="{{post.url | prepend:site.baseurl}}"> - {{post.title}}</a>
-                        </div>
-                        {% endfor %}
-
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-    </section>     
 
 
 </main>
