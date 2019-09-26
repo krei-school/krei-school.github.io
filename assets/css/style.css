@@ -1570,3 +1570,7 @@ html body .freebirdFormviewerViewHeaderTitle, html body .freebirdFormviewerViewI
 .student-life .jkl-extra-activity-parallex {
     min-height:1035px;
 }
+.copyrightText span{
+    font-size: 13px;
+    color: #d0d0d0;
+}
