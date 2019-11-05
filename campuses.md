@@ -342,7 +342,7 @@ branches:
   text: |-
     KESHAVA REDDY SCHOOL,
     Old RTC Bypass Road,
-    NGOs Colony,
+    Chinna Chowk,
     Kadapa
     Andhra Pradesh-516002
   phone: "+919701344948"
