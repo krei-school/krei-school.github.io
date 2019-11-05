@@ -25,7 +25,7 @@ selectors:
     - id: district1
       name: Anantapur
     - id: district2
-      name: Chittor
+      name: Chittoor
     - id: district3
       name: East Godavari
     - id: district4
@@ -253,7 +253,7 @@ branches:
     KESHAVA REDDY SCHOOL,
     Mamandur(V&P),
     Renigunta(M),
-    Chittor(D),
+    Chittoor(D),
     Andhra Pradesh-517520
   phone: "+917893070222"
   lat: 13.781382
@@ -285,7 +285,7 @@ branches:
   phone: "+919100032810"
   lat: 15.823131
   long: 78.051525
-- title: Muruganipalli, Chittor
+- title: Muruganipalli, Chittoor
   images:
   - branch16.jpg
   selectorID:
@@ -295,12 +295,12 @@ branches:
   text: |-
     KESHAVA REDDY SCHOOL,
     Muruganipalli,
-    Chittor,
+    Chittoor,
     Andhra Pradesh-517001
   phone: "+919100032808"
   lat: 13.224571
   long: 79.117641
-- title: New Balaji Colony, Chittor
+- title: New Balaji Colony, Chittoor
   images:
   - branch17.jpg
   selectorID:
@@ -310,7 +310,7 @@ branches:
   text: |-
     KESHAVA REDDY SCHOOL,
     New Balaji Colony,
-    Chittor,
+    Chittoor,
     Andhra Pradesh-517001
   phone: "+919100032807"
   lat: 13.214294
@@ -374,7 +374,7 @@ branches:
     Nimmanapalli Road,
     Machireddy Garipalli(V),
     Nimmanapalli(M),
-    Madanapalli, Chittor(D),
+    Madanapalli, Chittoor(D),
     Andhra Pradesh-517325
   phone: "+917893079444"
   lat: 13.55415
