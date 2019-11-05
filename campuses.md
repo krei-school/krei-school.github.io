@@ -86,7 +86,7 @@ branches:
     type: type2
   text: "KESHAVA REDDY SCHOOL,\nArasavalli Road, \nNear Indira Vignan Bhavan,\nSrikakulam
     (M&Dist), \nAndhra Pradesh-532001."
-  phone: "+919876543210"
+  phone: "+917893092111"
   lat: 18.288252
   long: 83.905328
 - title: Bachupally, Hyderabad
@@ -250,7 +250,7 @@ branches:
     district: district2
     type: type1
   text: |-
-    KESHAVA REDDY SCHOOL,
+    KESHAVA REDDY SCHOOL, (SSC & ICSE)
     Mamandur(V&P),
     Renigunta(M),
     Chittoor(D),
@@ -439,8 +439,8 @@ branches:
     type: type2
   text: |-
     KESHAVA REDDY SCHOOL,
-    6th Cross,
-    Sai Nagar,
+    Next to Akbar Eye Hospital,
+    6th Cross, Sai Nagar,
     Anantapur,
     Andhra Pradesh-515004
   phone: "+919989850099"
