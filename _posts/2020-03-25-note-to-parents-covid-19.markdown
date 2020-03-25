@@ -16,6 +16,7 @@ In a situation like this, parents are the teachers and the quality time you spen
 We are equally concerned about your child as you are, so give us an opportunity to showcase our commitment and dedication to the welfare of the student. Working hard during a crisis has become a habit for us. Nothing can stop us in achieving our goal of providing quality education to the student. We did it before and we will continue to do it even now. No matter what. 
 
 Thank you for your support at all times. 
+
 Management. 
 
 For any other details contact:
