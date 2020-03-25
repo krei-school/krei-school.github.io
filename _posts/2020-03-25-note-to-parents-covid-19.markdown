@@ -18,9 +18,7 @@ We are equally concerned about your child as you are, so give us an opportunity 
 Thank you for your support at all times. 
 
 Management. 
-
-For any other details contact:
-+91 9100330121 (Central Office)
+Keshava Reddy Schools. 
 
 [https://keshavareddy.edu.in/](http://keshavareddy.edu.in/)
 
