@@ -22,3 +22,6 @@ Keshava Reddy Schools.
 
 [https://keshavareddy.edu.in/](http://keshavareddy.edu.in/)
 
+Our official Facebook page:
+[https://www.facebook.com/keshavareddyschools/](https://www.facebook.com/keshavareddyschools/)
+
