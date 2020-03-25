@@ -20,5 +20,6 @@ Management.
 
 For any other details contact:
 +91 9100330121 (Central Office)
+
 https://keshavareddy.edu.in/
 
