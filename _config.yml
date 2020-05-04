@@ -76,3 +76,6 @@ header:
     i9:
       title: Jobs
       url: "/jobs.html"
+    i10:
+      title: Admission
+      url: "/admission.html"
