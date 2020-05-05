@@ -1,7 +1,7 @@
 
 ---
-title: Jobs
-page_title: Jobs
+title: Admission
+page_title: Admission
 sections:
   i1:
     cards:
@@ -16,5 +16,5 @@ sections:
     url: https://docs.google.com/forms/d/e/1FAIpQLSdX9Aj5YmuBd5RVAMaYoTZa1E8KMV9YAmvuzDWQNUhIS_4rNQ/viewform?usp=sf_link
   i3:
     title: Updates
-layout: jobs
+layout: admission
 ---
