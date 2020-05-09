@@ -27,7 +27,7 @@ defaults:
 google_maps_api: AIzaSyBG9k6FO2Cfri67hsJuO3x8PfyJ4TK8I3M
 plugins:
 - jekyll-paginate
-paginate: 10
+paginate: 11
 paginate_path: "/updates/:num/"
 baseurl: 
 footer:
