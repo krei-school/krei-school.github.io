@@ -1,6 +1,6 @@
 ---
 title: Email
-page_title: email
+page_title: Email
 sections:
   i1:
     title: Keshava Reddy Alumni
