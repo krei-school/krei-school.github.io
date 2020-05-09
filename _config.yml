@@ -77,8 +77,6 @@ header:
       title: Jobs
       url: "/jobs.html"
     i10:
-      title: Admission
-      url: "/admission.html"
-    i11:
       title: Email
       url: "/email.html"
+    
