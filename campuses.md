@@ -237,7 +237,7 @@ branches:
     Shanthi Nagar,
     M.R.Palli, Tirupati,
     Andhra Pradesh-517502
-  phone: "+919618619234"
+  phone: "+919963840999"
   lat: 13.621659
   long: 79.408204
 - title: Mamandur, Tirupati
@@ -357,7 +357,7 @@ branches:
     district: district5
     type: type2
   text: "KESHAVA REDDY SCHOOL,\nNGOs Colony, \nNandyal, Kurnool(D),\nAndhra Pradesh-518502"
-  phone: "+919963840999"
+  phone: "+917893790606"
   lat: 15.466734
   long: 78.488496
 - title: Madanapalli
