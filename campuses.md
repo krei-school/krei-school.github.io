@@ -414,7 +414,7 @@ branches:
   phone: "+919000202999"
   lat: 15.502613
   long: 78.382731
-- title: Hukumpet, Rajahmundry
+- title: Doweleswaram, Rajahmundry
   images:
   - branch24.jpg
   - Rajahmundry2.jpg
