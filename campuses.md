@@ -346,8 +346,8 @@ branches:
     Kadapa
     Andhra Pradesh-516002
   phone: "+919701344948"
-  lat: 14.466294
-  long: 78.839813
+  lat: 14.475402
+  long: 78.836055
 - title: NGOs Colony, Nandyal
   images:
   - branch20.jpg
