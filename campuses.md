@@ -341,8 +341,9 @@ branches:
     type: type2
   text: |-
     KESHAVA REDDY SCHOOL,
-    Old RTC Bypass Road,
-    Chinna Chowk,
+    Old Saraswathi College,
+    Near Apsara Circle
+    NGO Colony,
     Kadapa
     Andhra Pradesh-516002
   phone: "+919701344948"
