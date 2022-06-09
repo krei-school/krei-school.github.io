@@ -189,7 +189,7 @@ branches:
     Hathiramji Colony,
     Tirupati,
     Andhra Pradesh-517501
-  phone: "+919502285999"
+  phone: "+919963840999"
   lat: 13.62075
   long: 79.41955
 - title: Jaya Nagar, Tirupati
@@ -540,7 +540,7 @@ branches:
     YMR Colony,
     Proddatur, Kadapa(D),
     Andhra Pradesh-516360
-  phone: "+917893108884"
+  phone: "+919618514234"
   lat: 14.763811
   long: 78.549207
 layout: branches
