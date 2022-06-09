@@ -422,15 +422,11 @@ branches:
     state: state1
     district: district3
     type: type1
-  text: |-
-    KESHAVA REDDY SCHOOL,
-    NH-5, Opp. Eenadu Office,
-    Hukumpet(V),
-    Rajahmundry,
-    Andhra Pradesh-533103
+  text: "KESHAVA REDDY SCHOOL,\nBeside PWD Office, Opp. Dorayya Hotel,\nVGPTS Colony,\nDoweleswaram,\nRajahmundry
+    Rural, \nAndhra Pradesh-533125"
   phone: "+917893098883"
-  lat: 16.979191
-  long: 81.797178
+  lat: 16.943073
+  long: 81.783089
 - title: Sai Nagar, Anantapur
   images:
   - branch25.jpg
