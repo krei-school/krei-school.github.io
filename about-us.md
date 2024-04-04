@@ -10,7 +10,7 @@ sections:
       a bigger vision, we started investing our efforts, time, energy and money into
       building spacious, green and own campuses spread across over 100s of acres.
       \n\nFrom a humble start, we have grown continuously over the years, from Nandyal
-      to Kurnool, Tirupathi, Anantapur, Hyderabad, Mahabubnagar, Proddatur, Chittor,
+      to Kurnool, Tirupathi, Anantapur, Hyderabad, Mahabubnagar, Proddatur, Chittoor,
       Kadapa, Madanapalle, Rajahmundry, Srikakulam, Guntur, and Vikarabad. Right now
       our schools have 32 branches spread across ten districts in both the Telugu
       states. Over 52000 students have passed out from our schools since inception.
